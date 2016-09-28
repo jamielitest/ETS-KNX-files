@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<C>
+  <CatSec Id="M-0008_CS-PB" Name="push button" Number="PB" VisibleDescription="" DefaultLanguage="en-US">
+    <CatSec Id="M-0008_CS-PB-P1" Name="push button, 1fold" Number="P1" VisibleDescription="" DefaultLanguage="en-US">
+      <CITEM Id="M-0008_H-8.20.2F.2F.2018400-1-O0001_HP-1056-01-90FF-O0001_CI-184.2000-1" Name="Two-position control single push-button BC" Number="1" VisibleDescription="184 00, switching, dimming, shutter 105601" ProductRefId="M-0008_H-8.20.2F.2F.2018400-1-O0001_P-184.2000" Hardware2ProgramRefId="M-0008_H-8.20.2F.2F.2018400-1-O0001_HP-1056-01-90FF-O0001" DefaultLanguage="en-US" />
+    </CatSec>
+  </CatSec>
+  <CatSec Id="M-0008_CS-PS" Name="Phys. Sensoren" Number="PS" VisibleDescription="" DefaultLanguage="de-DE">
+    <CatSec Id="M-0008_CS-PS-TS" Name="Temperatur" Number="TS" VisibleDescription="" DefaultLanguage="de-DE">
+      <CITEM Id="M-0008_H-8.20.2F.2F.20577.20xx-1_HP-700C-12-7011_CI-577.20xx-1" Name="Temperatursensor UP" Number="1" VisibleDescription="577 xx, Temperatursensor 700C12" ProductRefId="M-0008_H-8.20.2F.2F.20577.20xx-1_P-577.20xx" Hardware2ProgramRefId="M-0008_H-8.20.2F.2F.20577.20xx-1_HP-700C-12-7011" DefaultLanguage="de-DE" />
+    </CatSec>
+  </CatSec>
+  <CatSec Id="M-0008_CS-HE" Name="heating, air condition, ventilation" Number="HE" VisibleDescription="" DefaultLanguage="en-US">
+    <CatSec Id="M-0008_CS-HE-RE" Name="regulator" Number="RE" VisibleDescription="" DefaultLanguage="en-US">
+      <CITEM Id="M-0008_H-8.20.2F.2F.202104.20xx-1-O00F4_HP-7062-11-148E-O00F4_CI-2104.20xx-1" Name="CO2-Sensor" Number="1" VisibleDescription="2104 xx, CO2 sensor 706211" ProductRefId="M-0008_H-8.20.2F.2F.202104.20xx-1-O00F4_P-2104.20xx" Hardware2ProgramRefId="M-0008_H-8.20.2F.2F.202104.20xx-1-O00F4_HP-7062-11-148E-O00F4" DefaultLanguage="en-US" />
+    </CatSec>
+  </CatSec>
+</C>

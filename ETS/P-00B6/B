@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BPs>
+  <BP Type="Building" Id="P-00B6-0_BP-1" Name="BC1" Puid="6">
+    <BP Type="Room" Id="P-00B6-0_BP-2" Name="Bedroom 1" Puid="86">
+      <DIR RefId="P-00B6-0_DI-3" />
+      <DIR RefId="P-00B6-0_DI-15" />
+      <DIR RefId="P-00B6-0_DI-33" />
+    </BP>
+    <BP Type="Room" Id="P-00B6-0_BP-3" Name="Bedroom 2" Puid="87">
+      <DIR RefId="P-00B6-0_DI-1" />
+      <DIR RefId="P-00B6-0_DI-16" />
+      <DIR RefId="P-00B6-0_DI-21" />
+      <DIR RefId="P-00B6-0_DI-32" />
+    </BP>
+    <BP Type="Room" Id="P-00B6-0_BP-4" Name="Bunk room" Puid="88">
+      <DIR RefId="P-00B6-0_DI-2" />
+      <DIR RefId="P-00B6-0_DI-14" />
+      <DIR RefId="P-00B6-0_DI-30" />
+      <DIR RefId="P-00B6-0_DI-31" />
+      <DIR RefId="P-00B6-0_DI-35" />
+    </BP>
+    <BP Type="Room" Id="P-00B6-0_BP-5" Name="Shower 1" Puid="89">
+      <DIR RefId="P-00B6-0_DI-7" />
+      <DIR RefId="P-00B6-0_DI-18" />
+    </BP>
+    <BP Type="Room" Id="P-00B6-0_BP-6" Name="Shower 2" Puid="90">
+      <DIR RefId="P-00B6-0_DI-5" />
+      <DIR RefId="P-00B6-0_DI-19" />
+    </BP>
+    <BP Type="Room" Id="P-00B6-0_BP-7" Name="WC1" Puid="91">
+      <DIR RefId="P-00B6-0_DI-8" />
+      <DIR RefId="P-00B6-0_DI-34" />
+    </BP>
+    <BP Type="Room" Id="P-00B6-0_BP-8" Name="WC2" Puid="92">
+      <DIR RefId="P-00B6-0_DI-9" />
+    </BP>
+    <BP Type="Room" Id="P-00B6-0_BP-9" Name="Services cupboard" Puid="93">
+      <BP Type="DistributionBoard" Id="P-00B6-0_BP-13" Name="BC1 Switch board" Puid="97">
+        <DIR RefId="P-00B6-0_DI-25" />
+        <DIR RefId="P-00B6-0_DI-26" />
+      </BP>
+    </BP>
+    <BP Type="Room" Id="P-00B6-0_BP-10" Name="Cellar" Puid="94" />
+    <BP Type="Room" Id="P-00B6-0_BP-11" Name="Mudroom 1" Puid="95">
+      <DIR RefId="P-00B6-0_DI-6" />
+      <DIR RefId="P-00B6-0_DI-20" />
+    </BP>
+    <BP Type="Room" Id="P-00B6-0_BP-12" Name="Mudroom 2" Puid="96">
+      <DIR RefId="P-00B6-0_DI-4" />
+      <DIR RefId="P-00B6-0_DI-17" />
+    </BP>
+    <BP Type="Room" Id="P-00B6-0_BP-18" Name="Mudroom 1 entrance" Puid="102">
+      <DIR RefId="P-00B6-0_DI-28" />
+    </BP>
+    <BP Type="Room" Id="P-00B6-0_BP-19" Name="Mudroom 2 entrance" Puid="103">
+      <DIR RefId="P-00B6-0_DI-27" />
+    </BP>
+    <BP Type="Room" Id="P-00B6-0_BP-20" Name="West verandah" Puid="104">
+      <DIR RefId="P-00B6-0_DI-23" />
+    </BP>
+    <BP Type="Room" Id="P-00B6-0_BP-21" Name="North verandah" Puid="105">
+      <DIR RefId="P-00B6-0_DI-22" />
+    </BP>
+  </BP>
+</BPs>

@@ -1,0 +1,988 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LS>
+  <L Identifier="en-US">
+    <TU RefId="M-008E_A-5709-10-7652">
+      <TE RefId="M-008E_A-5709-10-7652">
+        <T AttributeName="Name" Text="iHF 3D KNX V1.00" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_O-0">
+        <T AttributeName="Text" Text="Light-level setting (in lux)" />
+        <T AttributeName="FunctionText" Text="2...2000 Lux" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_O-1">
+        <T AttributeName="Text" Text="External light-level sensor" />
+        <T AttributeName="FunctionText" Text="2...2000 Lux" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_O-2">
+        <T AttributeName="Text" Text="Light level measured" />
+        <T AttributeName="FunctionText" Text="2...2000 Lux" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_O-3">
+        <T AttributeName="Text" Text="Switch light 1 output" />
+        <T AttributeName="FunctionText" Text="ON/OFF" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_O-4">
+        <T AttributeName="Text" Text="Light 1 output dimming level" />
+        <T AttributeName="FunctionText" Text="0...100%" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_O-5">
+        <T AttributeName="Text" Text="Disable Light output" />
+        <T AttributeName="FunctionText" Text="ON/OFF" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_O-6">
+        <T AttributeName="Text" Text="Light disabling status" />
+        <T AttributeName="FunctionText" Text="ON/OFF" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_O-7">
+        <T AttributeName="Text" Text="Switch light 1 input" />
+        <T AttributeName="FunctionText" Text="ON/OFF" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_O-8">
+        <T AttributeName="Text" Text="Dim light 1 input" />
+        <T AttributeName="FunctionText" Text="brighter/darker" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_O-9">
+        <T AttributeName="Text" Text="Light 1 input dimming level" />
+        <T AttributeName="FunctionText" Text="0...100%" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_O-10">
+        <T AttributeName="Text" Text="Time factor for lighting stay-'ON' time" />
+        <T AttributeName="FunctionText" Text="1...255" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_O-11">
+        <T AttributeName="Text" Text="Interconnection light input" />
+        <T AttributeName="FunctionText" Text="ON/OFF" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_O-12">
+        <T AttributeName="Text" Text="Interconnection light output" />
+        <T AttributeName="FunctionText" Text="ON/OFF" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_O-13">
+        <T AttributeName="Text" Text="Presence output" />
+        <T AttributeName="FunctionText" Text="ON/OFF" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_O-14">
+        <T AttributeName="Text" Text="Disable presence output" />
+        <T AttributeName="FunctionText" Text="ON/OFF" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_O-15">
+        <T AttributeName="Text" Text="Presence disabling status" />
+        <T AttributeName="FunctionText" Text="ON/OFF" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_O-16">
+        <T AttributeName="Text" Text="Photoelectric-lighting controller output" />
+        <T AttributeName="FunctionText" Text="ON/OFF" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_O-17">
+        <T AttributeName="Text" Text="Light level threshold" />
+        <T AttributeName="FunctionText" Text="2...2000 Lux" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_O-18">
+        <T AttributeName="Text" Text="Disable photoelectric lighting controller" />
+        <T AttributeName="FunctionText" Text="ON/OFF" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_O-19">
+        <T AttributeName="Text" Text="Photoelectric lighting controller disabling status" />
+        <T AttributeName="FunctionText" Text="ON/OFF" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_O-20">
+        <T AttributeName="Text" Text="Distance output 1" />
+        <T AttributeName="FunctionText" Text="ON/OFF" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_O-21">
+        <T AttributeName="Text" Text="Distance output 2" />
+        <T AttributeName="FunctionText" Text="ON/OFF" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_O-22">
+        <T AttributeName="Text" Text="Distance output 3" />
+        <T AttributeName="FunctionText" Text="ON/OFF" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_O-23">
+        <T AttributeName="Text" Text="Disable distance output" />
+        <T AttributeName="FunctionText" Text="ON/OFF" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_O-24">
+        <T AttributeName="Text" Text="Distance output disabling status" />
+        <T AttributeName="FunctionText" Text="ON/OFF" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_O-25">
+        <T AttributeName="Text" Text="Motion output left" />
+        <T AttributeName="FunctionText" Text="ON/OFF" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_O-26">
+        <T AttributeName="Text" Text="Motion output frontal" />
+        <T AttributeName="FunctionText" Text="ON/OFF" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_O-27">
+        <T AttributeName="Text" Text="Motion output right" />
+        <T AttributeName="FunctionText" Text="ON/OFF" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_O-28">
+        <T AttributeName="Text" Text="Disable motion output" />
+        <T AttributeName="FunctionText" Text="ON/OFF" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_O-29">
+        <T AttributeName="Text" Text="Motion output disabling status" />
+        <T AttributeName="FunctionText" Text="ON/OFF" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_O-30">
+        <T AttributeName="Text" Text="Range left" />
+        <T AttributeName="FunctionText" Text="1...7m" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_O-31">
+        <T AttributeName="Text" Text="Range frontal" />
+        <T AttributeName="FunctionText" Text="1...7m" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_O-32">
+        <T AttributeName="Text" Text="Range right" />
+        <T AttributeName="FunctionText" Text="1...7m" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_O-33">
+        <T AttributeName="Text" Text="Sabotage" />
+        <T AttributeName="FunctionText" Text="ON/OFF" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_PT-inaktiv.2Faktiv_EN-0">
+        <T AttributeName="Text" Text="inactive" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_PT-inaktiv.2Faktiv_EN-1">
+        <T AttributeName="Text" Text="active" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_PT-ja.2Fnein_EN-0">
+        <T AttributeName="Text" Text="No" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_PT-ja.2Fnein_EN-1">
+        <T AttributeName="Text" Text="Yes" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_PT-Telegrammtyp.20Licht_EN-0">
+        <T AttributeName="Text" Text="ON/OFF" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_PT-Telegrammtyp.20Licht_EN-1">
+        <T AttributeName="Text" Text="Dim level" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_PT-Sperren_EN-0">
+        <T AttributeName="Text" Text="No" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_PT-Sperren_EN-1">
+        <T AttributeName="Text" Text="ON for disabling / OFF for enabling" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_PT-Sperren_EN-2">
+        <T AttributeName="Text" Text="OFF for disabling / ON for enabling" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_PT-Sperren.20Verhalten.20sperren_EN-0">
+        <T AttributeName="Text" Text="no telegram" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_PT-Sperren.20Verhalten.20sperren_EN-1">
+        <T AttributeName="Text" Text="ON" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_PT-Sperren.20Verhalten.20sperren_EN-2">
+        <T AttributeName="Text" Text="OFF" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_PT-Eingang.20Licht_EN-0">
+        <T AttributeName="Text" Text="ON/OFF" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_PT-Eingang.20Licht_EN-1">
+        <T AttributeName="Text" Text="1h" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_PT-Eingang.20Licht_EN-2">
+        <T AttributeName="Text" Text="2h" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_PT-Eingang.20Licht_EN-3">
+        <T AttributeName="Text" Text="3h" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_PT-Eingang.20Licht_EN-4">
+        <T AttributeName="Text" Text="4h" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_PT-Zyklisch.20senden.20Vernetzung_EN-10">
+        <T AttributeName="Text" Text="10s" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_PT-Zyklisch.20senden.20Vernetzung_EN-15">
+        <T AttributeName="Text" Text="15s" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_PT-Zyklisch.20senden.20Vernetzung_EN-30">
+        <T AttributeName="Text" Text="30s" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_PT-Zyklisch.20senden.20Vernetzung_EN-60">
+        <T AttributeName="Text" Text="1 min." />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_PT-Zyklisch.20senden.20Vernetzung_EN-300">
+        <T AttributeName="Text" Text="5 min." />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_PT-Zyklisch.20senden.20Vernetzung_EN-600">
+        <T AttributeName="Text" Text="10 min." />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_PT-Zyklisch.20senden.20Vernetzung_EN-900">
+        <T AttributeName="Text" Text="15 min." />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_PT-Zyklisch.20senden.20Vernetzung_EN-1800">
+        <T AttributeName="Text" Text="30 min." />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_PT-Zyklisch.20senden.20Vernetzung_EN-3600">
+        <T AttributeName="Text" Text="60 min." />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_PT-Grundbeleuchtung.20Dauer_EN-0">
+        <T AttributeName="Text" Text="half the night" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_PT-Grundbeleuchtung.20Dauer_EN-1">
+        <T AttributeName="Text" Text="all night" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_PT-Bereich.5F1.5F3_EN-1">
+        <T AttributeName="Text" Text="1" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_PT-Bereich.5F1.5F3_EN-2">
+        <T AttributeName="Text" Text="2" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_PT-Bereich.5F1.5F3_EN-3">
+        <T AttributeName="Text" Text="3" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_PT-Bewegung.5FRichtung_EN-0">
+        <T AttributeName="Text" Text="coming and going" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_PT-Bewegung.5FRichtung_EN-1">
+        <T AttributeName="Text" Text="coming" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_PT-Bewegung.5FRichtung_EN-2">
+        <T AttributeName="Text" Text="going" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_PT-Helligkeitsaenderung_EN-20">
+        <T AttributeName="Text" Text="20 lux" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_PT-Helligkeitsaenderung_EN-30">
+        <T AttributeName="Text" Text="30 lux" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_PT-Helligkeitsaenderung_EN-40">
+        <T AttributeName="Text" Text="40 lux" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_PT-Helligkeitsaenderung_EN-50">
+        <T AttributeName="Text" Text="50 lux" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_PT-Helligkeitsaenderung_EN-60">
+        <T AttributeName="Text" Text="60 lux" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_PT-Zyklisch.20senden.20Helligkeit_EN-0">
+        <T AttributeName="Text" Text="inactive" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_PT-Zyklisch.20senden.20Helligkeit_EN-10">
+        <T AttributeName="Text" Text="10s" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_PT-Zyklisch.20senden.20Helligkeit_EN-15">
+        <T AttributeName="Text" Text="15s" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_PT-Zyklisch.20senden.20Helligkeit_EN-30">
+        <T AttributeName="Text" Text="30s" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_PT-Zyklisch.20senden.20Helligkeit_EN-60">
+        <T AttributeName="Text" Text="1 min." />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_PT-Zyklisch.20senden.20Helligkeit_EN-300">
+        <T AttributeName="Text" Text="5 min." />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_PT-Zyklisch.20senden.20Helligkeit_EN-600">
+        <T AttributeName="Text" Text="10 min." />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_PT-Zyklisch.20senden.20Helligkeit_EN-900">
+        <T AttributeName="Text" Text="15 min." />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_PT-Zyklisch.20senden.20Helligkeit_EN-1800">
+        <T AttributeName="Text" Text="30 min." />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_PT-Zyklisch.20senden.20Helligkeit_EN-3600">
+        <T AttributeName="Text" Text="60 min." />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_PT-Telegramm.20EIN.20oder.20AUS_EN-0">
+        <T AttributeName="Text" Text="OFF" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_PT-Telegramm.20EIN.20oder.20AUS_EN-1">
+        <T AttributeName="Text" Text="ON" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_P-1">
+        <T AttributeName="Text" Text="Presence output" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_P-2">
+        <T AttributeName="Text" Text="Distance output" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_P-3">
+        <T AttributeName="Text" Text="Direction output" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_P-4">
+        <T AttributeName="Text" Text="Photoelectric lighting controller output" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_P-5">
+        <T AttributeName="Text" Text="Light level measured" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_P-6">
+        <T AttributeName="Text" Text="Sabotage output" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_P-7">
+        <T AttributeName="Text" Text="Range potentiometer" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_P-8">
+        <T AttributeName="Text" Text="Range left (in cm)" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_P-9">
+        <T AttributeName="Text" Text="Range frontal (in cm)" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_P-10">
+        <T AttributeName="Text" Text="Range right (in cm)" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_P-11">
+        <T AttributeName="Text" Text="Light level threshold" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_P-12">
+        <T AttributeName="Text" Text="External brightness" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_P-13">
+        <T AttributeName="Text" Text="Light output brightness depending" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_P-14">
+        <T AttributeName="Text" Text="Stay-'ON' time Lighting (in minutes)" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_P-15">
+        <T AttributeName="Text" Text="Telegram type" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_P-16">
+        <T AttributeName="Text" Text="Switch-on level" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_P-17">
+        <T AttributeName="Text" Text="Lighting with sufficient daylight" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_P-18">
+        <T AttributeName="Text" Text="Disabling light output" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_P-19">
+        <T AttributeName="Text" Text="Behaviour on disabling" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_P-20">
+        <T AttributeName="Text" Text="Action at light input" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_P-21">
+        <T AttributeName="Text" Text="Interconnection" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_P-22">
+        <T AttributeName="Text" Text="Interconnection send presence cyclically" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_P-23">
+        <T AttributeName="Text" Text="Basic illumination" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_P-24">
+        <T AttributeName="Text" Text="Basic illumination dimming level" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_P-25">
+        <T AttributeName="Text" Text="Basic illumination duration" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_P-26">
+        <T AttributeName="Text" Text="Switch-ON delay (in seconds)" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_P-27">
+        <T AttributeName="Text" Text="Stay-'ON' time (in seconds)" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_P-28">
+        <T AttributeName="Text" Text="Disable presence output" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_P-29">
+        <T AttributeName="Text" Text="Behaviour on disabling" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_P-30">
+        <T AttributeName="Text" Text="Brightness depending" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_P-31">
+        <T AttributeName="Text" Text="Number of outputs" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_P-32">
+        <T AttributeName="Text" Text="Distance 1 (in cm)" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_P-33">
+        <T AttributeName="Text" Text="Distance 2 (in cm)" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_P-34">
+        <T AttributeName="Text" Text="Distance 3 (in cm)" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_P-35">
+        <T AttributeName="Text" Text="Disable distance output" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_P-36">
+        <T AttributeName="Text" Text="Behaviour on disbaling" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_P-37">
+        <T AttributeName="Text" Text="Brightness depending" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_P-38">
+        <T AttributeName="Text" Text="Motion from left" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_P-39">
+        <T AttributeName="Text" Text="Motion from frontal" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_P-40">
+        <T AttributeName="Text" Text="Motion from right" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_P-41">
+        <T AttributeName="Text" Text="Disabling output" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_P-42">
+        <T AttributeName="Text" Text="Behaviour on disabling" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_P-43">
+        <T AttributeName="Text" Text="Light level threshold (in lux)" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_P-44">
+        <T AttributeName="Text" Text="Disable photoelectric lighting controller output" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_P-45">
+        <T AttributeName="Text" Text="Behaviour on disabling" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_P-46">
+        <T AttributeName="Text" Text="Min. light-level change" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_P-47">
+        <T AttributeName="Text" Text="Send measured level cyclically" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_P-48">
+        <T AttributeName="Text" Text="Telegram" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_P-49">
+        <T AttributeName="Text" Text="Send sabotage cyclically" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_P-51">
+        <T AttributeName="Text" Text="Stay-'ON' time distance 1 (in minutes)" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_P-52">
+        <T AttributeName="Text" Text="Stay-'ON' time distance 2 (in minutes)" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_P-53">
+        <T AttributeName="Text" Text="Stay-'ON' time distance 3 (in minutes)" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_P-54">
+        <T AttributeName="Text" Text="Stay-'ON' time motion left (in minutes)" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_P-55">
+        <T AttributeName="Text" Text="Stay-'ON' time motion frontal (in minutes)" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_P-56">
+        <T AttributeName="Text" Text="Stay-'ON' time motion right (in minutes)" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_PB-1">
+        <T AttributeName="Text" Text="General settings" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_PB-2">
+        <T AttributeName="Text" Text="Range" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_PB-3">
+        <T AttributeName="Text" Text="Light level settings" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_PB-4">
+        <T AttributeName="Text" Text="Light" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_PB-5">
+        <T AttributeName="Text" Text="Presence" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_PB-6">
+        <T AttributeName="Text" Text="Distance" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_PB-7">
+        <T AttributeName="Text" Text="Direction" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_PB-8">
+        <T AttributeName="Text" Text="Photoelectric lighting controller" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_PB-9">
+        <T AttributeName="Text" Text="Light level measured" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_PB-10">
+        <T AttributeName="Text" Text="Sabotage" />
+      </TE>
+    </TU>
+  </L>
+  <L Identifier="de-DE">
+    <TU RefId="M-008E_A-5709-10-7652">
+      <TE RefId="M-008E_A-5709-10-7652">
+        <T AttributeName="Name" Text="iHF 3D KNX V1.00" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_O-0">
+        <T AttributeName="Text" Text="Sollwert Helligkeit" />
+        <T AttributeName="FunctionText" Text="2...2000 Lux" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_O-1">
+        <T AttributeName="Text" Text="Eingang Helligkeitssensor" />
+        <T AttributeName="FunctionText" Text="2...2000 Lux" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_O-2">
+        <T AttributeName="Text" Text="Messwert Helligkeit" />
+        <T AttributeName="FunctionText" Text="2...2000 Lux" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_O-3">
+        <T AttributeName="Text" Text="Ausgang Licht 1 schalten" />
+        <T AttributeName="FunctionText" Text="EIN/AUS" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_O-4">
+        <T AttributeName="Text" Text="Ausgang Licht 1 Dimmwert" />
+        <T AttributeName="FunctionText" Text="0...100%" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_O-5">
+        <T AttributeName="Text" Text="Sperren Ausgang Licht" />
+        <T AttributeName="FunctionText" Text="EIN/AUS" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_O-6">
+        <T AttributeName="Text" Text="Status Sperrung Ausgang Licht" />
+        <T AttributeName="FunctionText" Text="EINS/AUS" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_O-7">
+        <T AttributeName="Text" Text="Eingang Licht 1 schalten" />
+        <T AttributeName="FunctionText" Text="EINS/AUS" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_O-8">
+        <T AttributeName="Text" Text="Eingang Licht 1 dimmen" />
+        <T AttributeName="FunctionText" Text="heller/dunkler" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_O-9">
+        <T AttributeName="Text" Text="Eingang Licht 1 Dimmwert" />
+        <T AttributeName="FunctionText" Text="0...100%" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_O-10">
+        <T AttributeName="Text" Text="Zeitfaktor Licht Nachlaufzeit" />
+        <T AttributeName="FunctionText" Text="1...255" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_O-11">
+        <T AttributeName="Text" Text="Vernetzung Licht Eingang" />
+        <T AttributeName="FunctionText" Text="EINS/AUS" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_O-12">
+        <T AttributeName="Text" Text="Vernetzung Licht Ausgang" />
+        <T AttributeName="FunctionText" Text="EINS/AUS" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_O-13">
+        <T AttributeName="Text" Text="Ausgang Präsenz" />
+        <T AttributeName="FunctionText" Text="EINS/AUS" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_O-14">
+        <T AttributeName="Text" Text="Sperren Ausgang Präsenz" />
+        <T AttributeName="FunctionText" Text="EINS/AUS" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_O-15">
+        <T AttributeName="Text" Text="Status Sperrung Ausgang Präsenz" />
+        <T AttributeName="FunctionText" Text="EINS/AUS" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_O-16">
+        <T AttributeName="Text" Text="Ausgang Dämmerungsschalter" />
+        <T AttributeName="FunctionText" Text="EINS/AUS" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_O-17">
+        <T AttributeName="Text" Text="Dämmerungsschwellwert" />
+        <T AttributeName="FunctionText" Text="2...2000 Lux" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_O-18">
+        <T AttributeName="Text" Text="Sperren Dämmerungsschalter" />
+        <T AttributeName="FunctionText" Text="EINS/AUS" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_O-19">
+        <T AttributeName="Text" Text="Status Sperrung Dämmerungsschalter" />
+        <T AttributeName="FunctionText" Text="EINS/AUS" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_O-20">
+        <T AttributeName="Text" Text="Ausgang Entfernung 1" />
+        <T AttributeName="FunctionText" Text="EINS/AUS" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_O-21">
+        <T AttributeName="Text" Text="Ausgang Entfernung 2" />
+        <T AttributeName="FunctionText" Text="EINS/AUS" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_O-22">
+        <T AttributeName="Text" Text="Ausgang Entfernung 3" />
+        <T AttributeName="FunctionText" Text="EINS/AUS" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_O-23">
+        <T AttributeName="Text" Text="Sperren Ausgang Entfernung" />
+        <T AttributeName="FunctionText" Text="EINS/AUS" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_O-24">
+        <T AttributeName="Text" Text="Status Sperrung Entfernung" />
+        <T AttributeName="FunctionText" Text="EINS/AUS" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_O-25">
+        <T AttributeName="Text" Text="Ausgang Bewegung links" />
+        <T AttributeName="FunctionText" Text="EINS/AUS" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_O-26">
+        <T AttributeName="Text" Text="Ausgang Bewegung frontal" />
+        <T AttributeName="FunctionText" Text="EINS/AUS" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_O-27">
+        <T AttributeName="Text" Text="Ausgang Bewegung rechts" />
+        <T AttributeName="FunctionText" Text="EINS/AUS" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_O-28">
+        <T AttributeName="Text" Text="Sperren Ausgang Bewegung" />
+        <T AttributeName="FunctionText" Text="EINS/AUS" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_O-29">
+        <T AttributeName="Text" Text="Status Sperrung Ausgang Bewegung" />
+        <T AttributeName="FunctionText" Text="EINS/AUS" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_O-30">
+        <T AttributeName="Text" Text="Reichweite links" />
+        <T AttributeName="FunctionText" Text="1...7m" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_O-31">
+        <T AttributeName="Text" Text="Reichweite frontal" />
+        <T AttributeName="FunctionText" Text="1...7m" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_O-32">
+        <T AttributeName="Text" Text="Reicheweite rechts" />
+        <T AttributeName="FunctionText" Text="1...7m" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_O-33">
+        <T AttributeName="Text" Text="Sabotage" />
+        <T AttributeName="FunctionText" Text="EINS/AUS" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_PT-inaktiv.2Faktiv_EN-0">
+        <T AttributeName="Text" Text="inaktiv" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_PT-inaktiv.2Faktiv_EN-1">
+        <T AttributeName="Text" Text="aktiv" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_PT-ja.2Fnein_EN-0">
+        <T AttributeName="Text" Text="Nein" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_PT-ja.2Fnein_EN-1">
+        <T AttributeName="Text" Text="Ja" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_PT-Telegrammtyp.20Licht_EN-0">
+        <T AttributeName="Text" Text="EIN/AUS" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_PT-Telegrammtyp.20Licht_EN-1">
+        <T AttributeName="Text" Text="Dimmwert" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_PT-Sperren_EN-0">
+        <T AttributeName="Text" Text="Nein" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_PT-Sperren_EN-1">
+        <T AttributeName="Text" Text="Sperren EIN / Freigabe AUS" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_PT-Sperren_EN-2">
+        <T AttributeName="Text" Text="Sperren AUS / Freigabe EIN" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_PT-Sperren.20Verhalten.20sperren_EN-0">
+        <T AttributeName="Text" Text="kein Telegramm" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_PT-Sperren.20Verhalten.20sperren_EN-1">
+        <T AttributeName="Text" Text="EIN" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_PT-Sperren.20Verhalten.20sperren_EN-2">
+        <T AttributeName="Text" Text="AUS" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_PT-Eingang.20Licht_EN-0">
+        <T AttributeName="Text" Text="EIN/AUS" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_PT-Eingang.20Licht_EN-1">
+        <T AttributeName="Text" Text="1 Std." />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_PT-Eingang.20Licht_EN-2">
+        <T AttributeName="Text" Text="2 Std." />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_PT-Eingang.20Licht_EN-3">
+        <T AttributeName="Text" Text="3 Std." />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_PT-Eingang.20Licht_EN-4">
+        <T AttributeName="Text" Text="4 Std." />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_PT-Zyklisch.20senden.20Vernetzung_EN-10">
+        <T AttributeName="Text" Text="10s" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_PT-Zyklisch.20senden.20Vernetzung_EN-15">
+        <T AttributeName="Text" Text="15s" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_PT-Zyklisch.20senden.20Vernetzung_EN-30">
+        <T AttributeName="Text" Text="30s" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_PT-Zyklisch.20senden.20Vernetzung_EN-60">
+        <T AttributeName="Text" Text="1 Min." />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_PT-Zyklisch.20senden.20Vernetzung_EN-300">
+        <T AttributeName="Text" Text="5 Min." />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_PT-Zyklisch.20senden.20Vernetzung_EN-600">
+        <T AttributeName="Text" Text="10 Min." />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_PT-Zyklisch.20senden.20Vernetzung_EN-900">
+        <T AttributeName="Text" Text="15 Min." />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_PT-Zyklisch.20senden.20Vernetzung_EN-1800">
+        <T AttributeName="Text" Text="30 Min." />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_PT-Zyklisch.20senden.20Vernetzung_EN-3600">
+        <T AttributeName="Text" Text="60 Min." />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_PT-Grundbeleuchtung.20Dauer_EN-0">
+        <T AttributeName="Text" Text="halbe Nacht" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_PT-Grundbeleuchtung.20Dauer_EN-1">
+        <T AttributeName="Text" Text="ganze Nacht" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_PT-Bereich.5F1.5F3_EN-1">
+        <T AttributeName="Text" Text="1" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_PT-Bereich.5F1.5F3_EN-2">
+        <T AttributeName="Text" Text="2" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_PT-Bereich.5F1.5F3_EN-3">
+        <T AttributeName="Text" Text="3" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_PT-Bewegung.5FRichtung_EN-0">
+        <T AttributeName="Text" Text="kommend &amp; gehend" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_PT-Bewegung.5FRichtung_EN-1">
+        <T AttributeName="Text" Text="kommend" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_PT-Bewegung.5FRichtung_EN-2">
+        <T AttributeName="Text" Text="gehend" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_PT-Helligkeitsaenderung_EN-20">
+        <T AttributeName="Text" Text="20 Lux" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_PT-Helligkeitsaenderung_EN-30">
+        <T AttributeName="Text" Text="30 Lux" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_PT-Helligkeitsaenderung_EN-40">
+        <T AttributeName="Text" Text="40 Lux" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_PT-Helligkeitsaenderung_EN-50">
+        <T AttributeName="Text" Text="50 Lux" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_PT-Helligkeitsaenderung_EN-60">
+        <T AttributeName="Text" Text="60 Lux" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_PT-Zyklisch.20senden.20Helligkeit_EN-0">
+        <T AttributeName="Text" Text="inaktiv" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_PT-Zyklisch.20senden.20Helligkeit_EN-10">
+        <T AttributeName="Text" Text="10s" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_PT-Zyklisch.20senden.20Helligkeit_EN-15">
+        <T AttributeName="Text" Text="15s" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_PT-Zyklisch.20senden.20Helligkeit_EN-30">
+        <T AttributeName="Text" Text="30s" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_PT-Zyklisch.20senden.20Helligkeit_EN-60">
+        <T AttributeName="Text" Text="1 Min." />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_PT-Zyklisch.20senden.20Helligkeit_EN-300">
+        <T AttributeName="Text" Text="5 Min." />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_PT-Zyklisch.20senden.20Helligkeit_EN-600">
+        <T AttributeName="Text" Text="10 Min." />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_PT-Zyklisch.20senden.20Helligkeit_EN-900">
+        <T AttributeName="Text" Text="15 Min." />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_PT-Zyklisch.20senden.20Helligkeit_EN-1800">
+        <T AttributeName="Text" Text="30 Min." />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_PT-Zyklisch.20senden.20Helligkeit_EN-3600">
+        <T AttributeName="Text" Text="60 Min." />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_PT-Telegramm.20EIN.20oder.20AUS_EN-0">
+        <T AttributeName="Text" Text="AUS" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_PT-Telegramm.20EIN.20oder.20AUS_EN-1">
+        <T AttributeName="Text" Text="EIN" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_P-1">
+        <T AttributeName="Text" Text="Ausgang Präsenz" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_P-2">
+        <T AttributeName="Text" Text="Ausgang Entfernung" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_P-3">
+        <T AttributeName="Text" Text="Ausgang Richtung" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_P-4">
+        <T AttributeName="Text" Text="Ausgang Dämmerungsschalter" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_P-5">
+        <T AttributeName="Text" Text="Messert Helligkeit" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_P-6">
+        <T AttributeName="Text" Text="Ausgang Sabotage" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_P-7">
+        <T AttributeName="Text" Text="Reichweite Potentiometer" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_P-8">
+        <T AttributeName="Text" Text="Reichweite links (in cm)" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_P-9">
+        <T AttributeName="Text" Text="Reichweite frontal (in cm)" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_P-10">
+        <T AttributeName="Text" Text="Reichweite rechts (in cm)" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_P-11">
+        <T AttributeName="Text" Text="Sollwert Helligkeit (in Lux)" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_P-12">
+        <T AttributeName="Text" Text="Externer Helligkeitssensor" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_P-13">
+        <T AttributeName="Text" Text="Ausgang Licht Helligkeitsabhängig" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_P-14">
+        <T AttributeName="Text" Text="Zeitfaktor Licht (in Minuten)" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_P-15">
+        <T AttributeName="Text" Text="Telegrammtyp" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_P-16">
+        <T AttributeName="Text" Text="Einschaltwert" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_P-17">
+        <T AttributeName="Text" Text="Ausschalten bei ausreichend Tageslicht" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_P-18">
+        <T AttributeName="Text" Text="Sperren Ausgang Licht" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_P-19">
+        <T AttributeName="Text" Text="Verhalten bei Sperren" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_P-20">
+        <T AttributeName="Text" Text="Aktion bei Eingang Licht" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_P-21">
+        <T AttributeName="Text" Text="Vernetzung" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_P-22">
+        <T AttributeName="Text" Text="Vernetzung Präsenz-Status zyklisch senden" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_P-23">
+        <T AttributeName="Text" Text="Grundbeleuchtung" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_P-24">
+        <T AttributeName="Text" Text="Dimmwert Grundbeleuchtung" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_P-25">
+        <T AttributeName="Text" Text="Dauer Grundbeleuchtung" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_P-26">
+        <T AttributeName="Text" Text="Einschaltverzögerung (in Sekunden)" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_P-27">
+        <T AttributeName="Text" Text="Zeitfaktor Nachlaufzeit (in Sekunden)" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_P-28">
+        <T AttributeName="Text" Text="Sperren Ausgang Präsenz" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_P-29">
+        <T AttributeName="Text" Text="Verhalten bei Sperren" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_P-30">
+        <T AttributeName="Text" Text="Helligkeitsabhängig" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_P-31">
+        <T AttributeName="Text" Text="Anzahl Entfernungen" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_P-32">
+        <T AttributeName="Text" Text="Entfernung 1 (in cm)" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_P-33">
+        <T AttributeName="Text" Text="Entfernung 2 (in cm)" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_P-34">
+        <T AttributeName="Text" Text="Entfernung 3 (in cm)" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_P-35">
+        <T AttributeName="Text" Text="Sperren Ausgang Entfernung" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_P-36">
+        <T AttributeName="Text" Text="Verhalten bei Sperren" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_P-37">
+        <T AttributeName="Text" Text="Helligkeitsabhängig" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_P-38">
+        <T AttributeName="Text" Text="Bewegung von links" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_P-39">
+        <T AttributeName="Text" Text="Bewegung von vorne" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_P-40">
+        <T AttributeName="Text" Text="Bewegung von rechts" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_P-41">
+        <T AttributeName="Text" Text="Sperren Ausgang Richtung" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_P-42">
+        <T AttributeName="Text" Text="Verhalten bei Sperren" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_P-43">
+        <T AttributeName="Text" Text="Dämmerungsschwelle (in Lux)" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_P-44">
+        <T AttributeName="Text" Text="Sperren Ausgang Dämmerungsschalter" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_P-45">
+        <T AttributeName="Text" Text="Verhalten bei Sperren" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_P-46">
+        <T AttributeName="Text" Text="Min. Helligkeitsänderung" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_P-47">
+        <T AttributeName="Text" Text="Messwert zyklisch senden" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_P-48">
+        <T AttributeName="Text" Text="Telegramm" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_P-49">
+        <T AttributeName="Text" Text="Sabotage zyklisch senden" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_P-50">
+        <T AttributeName="Text" Text="InitFlag" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_P-51">
+        <T AttributeName="Text" Text="Nachlaufzeit Entfernung 1 (in Minuten)" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_P-52">
+        <T AttributeName="Text" Text="Nachlaufzeit Entfernung 2 (in Minuten)" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_P-53">
+        <T AttributeName="Text" Text="Nachlaufzeit Entfernung 3 (in Minuten)" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_P-54">
+        <T AttributeName="Text" Text="Bewegung links Nachlaufzeit (in Minuten)" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_P-55">
+        <T AttributeName="Text" Text="Bewegung frontal Nachlaufzeit (in Minuten)" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_P-56">
+        <T AttributeName="Text" Text="Bewegung rechts Nachlaufzeit (in Minuten)" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_PB-1">
+        <T AttributeName="Text" Text="Allgemeine Einstellungen" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_PB-2">
+        <T AttributeName="Text" Text="Reichweite" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_PB-3">
+        <T AttributeName="Text" Text="Einstellung Helligkeit" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_PB-4">
+        <T AttributeName="Text" Text="Licht" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_PB-5">
+        <T AttributeName="Text" Text="Präsenz" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_PB-6">
+        <T AttributeName="Text" Text="Entfernung" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_PB-7">
+        <T AttributeName="Text" Text="Richtung" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_PB-8">
+        <T AttributeName="Text" Text="Dämmerungsschalter" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_PB-9">
+        <T AttributeName="Text" Text="Messwert Helligkeit" />
+      </TE>
+      <TE RefId="M-008E_A-5709-10-7652_PB-10">
+        <T AttributeName="Text" Text="Sabotage" />
+      </TE>
+    </TU>
+  </L>
+</LS>

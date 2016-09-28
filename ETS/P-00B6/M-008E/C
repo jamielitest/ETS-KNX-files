@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<C>
+  <CatSec Id="M-008E_CS-BWM" Name="Bewegungsmelder" Number="BWM" DefaultLanguage="de-DE">
+    <CITEM Id="M-008E_H-40078410076xx-1_HP-5709-10-7652_CI-40078410076xx-1" Name="STEINEL iHF 3D KNX" Number="1" ProductRefId="M-008E_H-40078410076xx-1_P-40078410076xx" Hardware2ProgramRefId="M-008E_H-40078410076xx-1_HP-5709-10-7652" DefaultLanguage="de-DE" />
+  </CatSec>
+</C>

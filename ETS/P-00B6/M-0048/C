@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<C>
+  <CatSec Id="M-0048_CS-IN" Name="Eingänge" Number="IN" VisibleDescription="" DefaultLanguage="de-DE">
+    <CatSec Id="M-0048_CS-IN-TA" Name="Tasterschnittstellen" Number="TA" VisibleDescription="" DefaultLanguage="de-DE">
+      <CITEM Id="M-0048_H-4969204-1_HP-4964-10-F885_CI-4969204-1" Name="TA 4" Number="1" VisibleDescription="Tasterschnittstelle für Unterputzdosen" ProductRefId="M-0048_H-4969204-1_P-4969204" Hardware2ProgramRefId="M-0048_H-4969204-1_HP-4964-10-F885" DefaultLanguage="de-DE" />
+      <CITEM Id="M-0048_H-4969202-1_HP-4962-10-705C_CI-4969202-1" Name="TA 2" Number="1" VisibleDescription="Tasterschnittstelle für Unterputzdosen" ProductRefId="M-0048_H-4969202-1_P-4969202" Hardware2ProgramRefId="M-0048_H-4969202-1_HP-4962-10-705C" DefaultLanguage="de-DE" />
+    </CatSec>
+  </CatSec>
+</C>

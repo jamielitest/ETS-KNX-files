@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<H>
+  <H Id="M-00E8_H-200905-0" Name="PresenceLight 180-KNX" SerialNumber="200905" VersionNumber="0" BusCurrent="15" HasIndividualAddress="true" HasApplicationProgram="true">
+    <Prods>
+      <Prod Id="M-00E8_H-200905-0_P-200.209.2005.20.2A.20.20.20" Text="PresenceLight 180-KNX" OrderNumber="200 9 05 *   " IsRailMounted="false" DefaultLanguage="de-DE" Hash="1rMuIY0iGLM843Fc20mJF7kEJfQ=" />
+    </Prods>
+    <H2Ps>
+      <H2P Id="M-00E8_H-200905-0_HP-000B-10-5F52" MediumTypes="MT-0" Hash="k491qqG8Eretp0XR6TzbD/VmUZk=">
+        <APR RefId="M-00E8_A-000B-10-5F52" />
+        <RI RegistrationStatus="Certified" RegistrationNumber="2011/9448" RegistrationSignature="h5j1p+e5uIrliYIeED7qqwMfRX+qeFuPVsAKIPUTJc2mex8vtuFCstGgW9zfuBu0kFlj4IHjQoSOYn6aRnzcsAtwgMyRKlvlHxr45ySyj3tiTalsMikgDniLJuAaShwlvOA/e9LcMx7Mhr1LN5+E7J/4h97bwCpGLqMPK+2i1E8=" />
+      </H2P>
+    </H2Ps>
+  </H>
+  <H Id="M-00E8_H-200900-1" Name="PresenceLight 360-KNX" SerialNumber="200900" VersionNumber="1" BusCurrent="15" HasIndividualAddress="true" HasApplicationProgram="true">
+    <Prods>
+      <Prod Id="M-00E8_H-200900-1_P-200.209.2000.20.2A" Text="PresenceLight 360-KNX" OrderNumber="200 9 00 *" IsRailMounted="false" DefaultLanguage="de-DE" Hash="fbM+KebEwClVxoc59KPhjs22e9s=" />
+    </Prods>
+    <H2Ps>
+      <H2P Id="M-00E8_H-200900-1_HP-000A-10-18A6" MediumTypes="MT-0" Hash="nTmDkgK4iDWuAh81LYynxK6mQRo=">
+        <APR RefId="M-00E8_A-000A-10-18A6" />
+        <RI RegistrationStatus="Certified" RegistrationNumber="2011/9447" RegistrationSignature="MdDPpD5IYnXnxBaMecM1idV1wbk7p8kY7yyYXMBHvJiktPSe0AE+JbrtiDxQU1wJVt9j8dluvUTbRVLJ5SpWMm9N/u+HFQH/9Fdv5xklXh23JTYk7RMPYtQuNmMT9djWHikdor1RAQVYRliPD8oTASTDUoZC3DTFM6uvWuHL5NU=" />
+      </H2P>
+    </H2Ps>
+  </H>
+</H>

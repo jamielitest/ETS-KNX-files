@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LS>
+  <L Identifier="en-US">
+    <TU RefId="M-0008_H-8.20.2F.2F.2018400-1-O0001_P-184.2000">
+      <TE RefId="M-0008_H-8.20.2F.2F.2018400-1-O0001_P-184.2000">
+        <T AttributeName="Text" Text="Two-position control single push-button BC" />
+      </TE>
+    </TU>
+  </L>
+  <L Identifier="de-DE">
+    <TU RefId="M-0008_H-8.20.2F.2F.2018400-1-O0001_P-184.2000">
+      <TE RefId="M-0008_H-8.20.2F.2F.2018400-1-O0001_P-184.2000">
+        <T AttributeName="Text" Text="Taster-Busankoppler 1fach mit Zweipunktbedienung" />
+      </TE>
+    </TU>
+    <TU RefId="M-0008_H-8.20.2F.2F.20577.20xx-1_P-577.20xx">
+      <TE RefId="M-0008_H-8.20.2F.2F.20577.20xx-1_P-577.20xx">
+        <T AttributeName="Text" Text="Temperatursensor UP" />
+      </TE>
+    </TU>
+    <TU RefId="M-0008_H-8.20.2F.2F.202104.20xx-1-O00F4_P-2104.20xx">
+      <TE RefId="M-0008_H-8.20.2F.2F.202104.20xx-1-O00F4_P-2104.20xx">
+        <T AttributeName="Text" Text="CO2-Sensor" />
+      </TE>
+    </TU>
+  </L>
+</LS>

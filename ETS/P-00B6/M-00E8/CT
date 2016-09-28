@@ -1,0 +1,171 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LS>
+  <L Identifier="nl-NL">
+    <TU RefId="M-00E8_CS-HTSPCA001">
+      <TE RefId="M-00E8_CS-HTSPCA001">
+        <T AttributeName="Name" Text="Fysische sensoren" />
+      </TE>
+    </TU>
+    <TU RefId="M-00E8_CS-HTSPCA001-presence">
+      <TE RefId="M-00E8_CS-HTSPCA001-presence">
+        <T AttributeName="Name" Text="Aanwezigheidsmelder" />
+      </TE>
+    </TU>
+    <TU RefId="M-00E8_H-200905-0_HP-000B-10-5F52_CI-200.209.2005.20.2A.20.20.20-0">
+      <TE RefId="M-00E8_H-200905-0_HP-000B-10-5F52_CI-200.209.2005.20.2A.20.20.20-0">
+        <T AttributeName="Name" Text="PresenceLight 180-KNX" />
+        <T AttributeName="VisibleDescription" Text="2xlicht, 2xHKL, bewaking, lichtsterkte, aanwezigheidsmelder met lichtregeling" />
+      </TE>
+    </TU>
+    <TU RefId="M-00E8_H-200900-1_HP-000A-10-18A6_CI-200.209.2000.20.2A-0">
+      <TE RefId="M-00E8_H-200900-1_HP-000A-10-18A6_CI-200.209.2000.20.2A-0">
+        <T AttributeName="Name" Text="PresenceLight 360-KNX" />
+        <T AttributeName="VisibleDescription" Text="2xlicht, 2xHKL, bewaking, lichtsterkte, aanwezigheidsmelder met lichtregeling" />
+      </TE>
+    </TU>
+  </L>
+  <L Identifier="de-DE">
+    <TU RefId="M-00E8_CS-HTSPCA001">
+      <TE RefId="M-00E8_CS-HTSPCA001">
+        <T AttributeName="Name" Text="Physikalische Sensoren" />
+      </TE>
+    </TU>
+    <TU RefId="M-00E8_CS-HTSPCA001-presence">
+      <TE RefId="M-00E8_CS-HTSPCA001-presence">
+        <T AttributeName="Name" Text="Präsenzmelder" />
+      </TE>
+    </TU>
+    <TU RefId="M-00E8_H-200905-0_HP-000B-10-5F52_CI-200.209.2005.20.2A.20.20.20-0">
+      <TE RefId="M-00E8_H-200905-0_HP-000B-10-5F52_CI-200.209.2005.20.2A.20.20.20-0">
+        <T AttributeName="Name" Text="PresenceLight 180-KNX" />
+        <T AttributeName="VisibleDescription" Text="2xLicht, 2xHKL, Überwachung, Helligkeit, Präsenzmelder mit Konstantlichtregelung" />
+      </TE>
+    </TU>
+    <TU RefId="M-00E8_H-200900-1_HP-000A-10-18A6_CI-200.209.2000.20.2A-0">
+      <TE RefId="M-00E8_H-200900-1_HP-000A-10-18A6_CI-200.209.2000.20.2A-0">
+        <T AttributeName="Name" Text="PresenceLight 360-KNX" />
+        <T AttributeName="VisibleDescription" Text="2xLicht, 2xHKL, Überwachung, Helligkeit, Präsenzmelder mit Konstantlichtregelung" />
+      </TE>
+    </TU>
+  </L>
+  <L Identifier="en-US">
+    <TU RefId="M-00E8_CS-HTSPCA001">
+      <TE RefId="M-00E8_CS-HTSPCA001">
+        <T AttributeName="Name" Text="Physical sensors" />
+      </TE>
+    </TU>
+    <TU RefId="M-00E8_CS-HTSPCA001-presence">
+      <TE RefId="M-00E8_CS-HTSPCA001-presence">
+        <T AttributeName="Name" Text="Presence detectors" />
+      </TE>
+    </TU>
+    <TU RefId="M-00E8_H-200905-0_HP-000B-10-5F52_CI-200.209.2005.20.2A.20.20.20-0">
+      <TE RefId="M-00E8_H-200905-0_HP-000B-10-5F52_CI-200.209.2005.20.2A.20.20.20-0">
+        <T AttributeName="Name" Text="PresenceLight 180-KNX" />
+        <T AttributeName="VisibleDescription" Text="2xlight, 2xHVAC, monitoring, brightness, presence detector constant light contr." />
+      </TE>
+    </TU>
+    <TU RefId="M-00E8_H-200900-1_HP-000A-10-18A6_CI-200.209.2000.20.2A-0">
+      <TE RefId="M-00E8_H-200900-1_HP-000A-10-18A6_CI-200.209.2000.20.2A-0">
+        <T AttributeName="Name" Text="PresenceLight 360-KNX" />
+        <T AttributeName="VisibleDescription" Text="2xlight, 2xHVAC, monitoring, brightness, presence detector constant light contr." />
+      </TE>
+    </TU>
+  </L>
+  <L Identifier="es-ES">
+    <TU RefId="M-00E8_CS-HTSPCA001">
+      <TE RefId="M-00E8_CS-HTSPCA001">
+        <T AttributeName="Name" Text="Sensores físicos" />
+      </TE>
+    </TU>
+    <TU RefId="M-00E8_CS-HTSPCA001-presence">
+      <TE RefId="M-00E8_CS-HTSPCA001-presence">
+        <T AttributeName="Name" Text="Detector presencia" />
+      </TE>
+    </TU>
+    <TU RefId="M-00E8_H-200905-0_HP-000B-10-5F52_CI-200.209.2005.20.2A.20.20.20-0">
+      <TE RefId="M-00E8_H-200905-0_HP-000B-10-5F52_CI-200.209.2005.20.2A.20.20.20-0">
+        <T AttributeName="Name" Text="PresenceLight 180-KNX" />
+        <T AttributeName="VisibleDescription" Text="2xluz, 2xClima, supervisión, luminosidad, detector presencia con reg. const. luz" />
+      </TE>
+    </TU>
+    <TU RefId="M-00E8_H-200900-1_HP-000A-10-18A6_CI-200.209.2000.20.2A-0">
+      <TE RefId="M-00E8_H-200900-1_HP-000A-10-18A6_CI-200.209.2000.20.2A-0">
+        <T AttributeName="Name" Text="PresenceLight 360-KNX" />
+        <T AttributeName="VisibleDescription" Text="2xluz, 2xClima, supervisión, luminosidad, detector presencia con reg. const. luz" />
+      </TE>
+    </TU>
+  </L>
+  <L Identifier="fr-FR">
+    <TU RefId="M-00E8_CS-HTSPCA001">
+      <TE RefId="M-00E8_CS-HTSPCA001">
+        <T AttributeName="Name" Text="Capteurs physiques" />
+      </TE>
+    </TU>
+    <TU RefId="M-00E8_CS-HTSPCA001-presence">
+      <TE RefId="M-00E8_CS-HTSPCA001-presence">
+        <T AttributeName="Name" Text="Détecteurs de présence" />
+      </TE>
+    </TU>
+    <TU RefId="M-00E8_H-200905-0_HP-000B-10-5F52_CI-200.209.2005.20.2A.20.20.20-0">
+      <TE RefId="M-00E8_H-200905-0_HP-000B-10-5F52_CI-200.209.2005.20.2A.20.20.20-0">
+        <T AttributeName="Name" Text="PresenceLight 180-KNX" />
+        <T AttributeName="VisibleDescription" Text="2xLumière, 2xCVC, Surveillance, Luminosité, Détect. de présence régul. lumière" />
+      </TE>
+    </TU>
+    <TU RefId="M-00E8_H-200900-1_HP-000A-10-18A6_CI-200.209.2000.20.2A-0">
+      <TE RefId="M-00E8_H-200900-1_HP-000A-10-18A6_CI-200.209.2000.20.2A-0">
+        <T AttributeName="Name" Text="PresenceLight 360-KNX" />
+        <T AttributeName="VisibleDescription" Text="2xLumière, 2xCVC, Surveillance, Luminosité, Détect. de présence régul. lumière" />
+      </TE>
+    </TU>
+  </L>
+  <L Identifier="it-IT">
+    <TU RefId="M-00E8_CS-HTSPCA001">
+      <TE RefId="M-00E8_CS-HTSPCA001">
+        <T AttributeName="Name" Text="Sensori fisici" />
+      </TE>
+    </TU>
+    <TU RefId="M-00E8_CS-HTSPCA001-presence">
+      <TE RefId="M-00E8_CS-HTSPCA001-presence">
+        <T AttributeName="Name" Text="Rivelatore di presenza" />
+      </TE>
+    </TU>
+    <TU RefId="M-00E8_H-200905-0_HP-000B-10-5F52_CI-200.209.2005.20.2A.20.20.20-0">
+      <TE RefId="M-00E8_H-200905-0_HP-000B-10-5F52_CI-200.209.2005.20.2A.20.20.20-0">
+        <T AttributeName="Name" Text="PresenceLight 180-KNX" />
+        <T AttributeName="VisibleDescription" Text="2xluce, 2xHVAC, sorveglianza, luminosità, Rivelatore di pres. con reg. luce" />
+      </TE>
+    </TU>
+    <TU RefId="M-00E8_H-200900-1_HP-000A-10-18A6_CI-200.209.2000.20.2A-0">
+      <TE RefId="M-00E8_H-200900-1_HP-000A-10-18A6_CI-200.209.2000.20.2A-0">
+        <T AttributeName="Name" Text="PresenceLight 360-KNX" />
+        <T AttributeName="VisibleDescription" Text="2xluce, 2xHVAC, sorveglianza, luminosità, Rivelatore di pres. con reg. luce" />
+      </TE>
+    </TU>
+  </L>
+  <L Identifier="sv-SE">
+    <TU RefId="M-00E8_CS-HTSPCA001">
+      <TE RefId="M-00E8_CS-HTSPCA001">
+        <T AttributeName="Name" Text="Fysiska sensorer" />
+      </TE>
+    </TU>
+    <TU RefId="M-00E8_CS-HTSPCA001-presence">
+      <TE RefId="M-00E8_CS-HTSPCA001-presence">
+        <T AttributeName="Name" Text="Närvarodetektor" />
+      </TE>
+    </TU>
+    <TU RefId="M-00E8_H-200905-0_HP-000B-10-5F52_CI-200.209.2005.20.2A.20.20.20-0">
+      <TE RefId="M-00E8_H-200905-0_HP-000B-10-5F52_CI-200.209.2005.20.2A.20.20.20-0">
+        <T AttributeName="Name" Text="PresenceLight 180-KNX" />
+        <T AttributeName="VisibleDescription" Text="2xLjus, 2xHKL, övervakning, ljusstyrka, närvarodetektor m konstantljusreglering" />
+      </TE>
+    </TU>
+    <TU RefId="M-00E8_H-200900-1_HP-000A-10-18A6_CI-200.209.2000.20.2A-0">
+      <TE RefId="M-00E8_H-200900-1_HP-000A-10-18A6_CI-200.209.2000.20.2A-0">
+        <T AttributeName="Name" Text="PresenceLight 360-KNX" />
+        <T AttributeName="VisibleDescription" Text="2xLjus, 2xHKL, övervakning, ljusstyrka, närvarodetektor m konstantljusreglering" />
+      </TE>
+    </TU>
+  </L>
+</LS>

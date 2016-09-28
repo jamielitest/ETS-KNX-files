@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<KNX xsi="http://www.w3.org/2001/XMLSchema-instance" xsd="http://www.w3.org/2001/XMLSchema" CreatedBy="ETS5" ToolVersion="5.5.665.16682">
+  <ManufacturerData>
+    <Manufacturer RefId="M-0008">
+      <APS>
+        <AP Id="M-0008_A-700C-12-7011" ApplicationNumber="28684" ApplicationVersion="18" ProgramType="ApplicationProgram" MaskVersion="MV-0010" Name="Temperatursensor 700C12" LoadProcedureStyle="DefaultProcedure" PeiType="4" HelpFile="8\info\gira.hlp" DefaultLanguage="de-DE" DynamicTableManagement="true" Linkable="true" PreEts4Style="true" ConvertedFromPreEts4Data="true" Hash="cBMnbF/rrX1U4S/UE4dCEQ==">
+          <St>
+            <Code>
+              <AS Id="M-0008_A-700C-12-7011_AS-0100" Address="256" Size="256">
+                <Data>/wAAAAhwDBL/BAAAAP9gY+A/Zn+L/AH//xAH//7/////////////////////////////////////////////BwAAAAEAAgADAAQBBQIGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB87S1wDT1wDU1wDV1wDW1wDX1wDY1wABf8YBfbfbpiOuwMwODKYDrgLNDTW2UrfXpgLNDiolCQHcLrbXsdonKKYFt9zNDZElH7bXt9qmJa4RzQ4MpgWuAc0NNbZToUdPSbfYpgbNDZEB0wY/06YCt9sB1AY/1KYBt9sB1QQ/1T/bttsA1gcB0gYaAiAEpgMbAqowzQ2nzAyCAA==</Data>
+                <Mask>/wAAAP////////////////////////8AAP///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////w==</Mask>
+              </AS>
+            </Code>
+            <PTS>
+              <PT Id="M-0008_A-700C-12-7011_PT-t.5FConf" Name="t_Conf">
+                <TR Base="Value" SizeInBit="8">
+                  <Enumeration Text="22 °C" Value="0" Id="M-0008_A-700C-12-7011_PT-t.5FConf_EN-0" DisplayOrder="1" />
+                  <Enumeration Text="20 °C" Value="1" Id="M-0008_A-700C-12-7011_PT-t.5FConf_EN-1" DisplayOrder="2" />
+                  <Enumeration Text="18 °C" Value="2" Id="M-0008_A-700C-12-7011_PT-t.5FConf_EN-2" DisplayOrder="3" />
+                </TR>
+              </PT>
+            </PTS>
+            <PS>
+              <P Id="M-0008_A-700C-12-7011_P-1" Name="Komforttemperatur" ParameterType="M-0008_A-700C-12-7011_PT-t.5FConf" Text="Komforttemperatur" Access="Read" Value="0" />
+              <P Id="M-0008_A-700C-12-7011_P-2" Name="Conf" ParameterType="M-0008_A-700C-12-7011_PT-t.5FConf" Text="Komfortemperatur bei Initialisierung" Value="1">
+                <M CodeSegment="M-0008_A-700C-12-7011_AS-0100" Offset="125" BitOffset="0" />
+              </P>
+            </PS>
+            <PRS>
+              <PR Id="M-0008_A-700C-12-7011_P-1_R-1" RefId="M-0008_A-700C-12-7011_P-1" Tag="1" DisplayOrder="1" />
+              <PR Id="M-0008_A-700C-12-7011_P-2_R-2" RefId="M-0008_A-700C-12-7011_P-2" Tag="2" DisplayOrder="2" />
+            </PRS>
+            <COT CodeSegment="M-0008_A-700C-12-7011_AS-0100" Offset="102">
+              <CO Id="M-0008_A-700C-12-7011_O-0" Name="  3 °C" Text="  3 °C" Number="0" FunctionText="Temperaturabsenkung" ObjectSize="1 Bit" ReadFlag="Disabled" WriteFlag="Enabled" CommunicationFlag="Enabled" TransmitFlag="Enabled" UpdateFlag="Disabled" ReadOnInitFlag="Disabled" />
+              <CO Id="M-0008_A-700C-12-7011_O-1" Name="  18 °C" Text="  18 °C" Number="1" FunctionText="Komforttemperatur" ObjectSize="1 Bit" ReadFlag="Disabled" WriteFlag="Enabled" CommunicationFlag="Enabled" TransmitFlag="Enabled" UpdateFlag="Disabled" ReadOnInitFlag="Disabled" />
+              <CO Id="M-0008_A-700C-12-7011_O-2" Name="  20 °C" Text="  20 °C" Number="2" FunctionText="Komforttemperatur" ObjectSize="1 Bit" ReadFlag="Disabled" WriteFlag="Enabled" CommunicationFlag="Enabled" TransmitFlag="Enabled" UpdateFlag="Disabled" ReadOnInitFlag="Disabled" />
+              <CO Id="M-0008_A-700C-12-7011_O-3" Name="  22 °C" Text="  22 °C" Number="3" FunctionText="Komforttemperatur" ObjectSize="1 Bit" ReadFlag="Disabled" WriteFlag="Enabled" CommunicationFlag="Enabled" TransmitFlag="Enabled" UpdateFlag="Disabled" ReadOnInitFlag="Disabled" />
+              <CO Id="M-0008_A-700C-12-7011_O-4" Name="  7 °C" Text="  7 °C" Number="4" FunctionText="Frostschutz" ObjectSize="1 Bit" ReadFlag="Disabled" WriteFlag="Enabled" CommunicationFlag="Enabled" TransmitFlag="Enabled" UpdateFlag="Disabled" ReadOnInitFlag="Disabled" />
+              <CO Id="M-0008_A-700C-12-7011_O-5" Name="" Text="" Number="5" FunctionText="Heizen EIN/AUS" ObjectSize="1 Bit" ReadFlag="Disabled" WriteFlag="Enabled" CommunicationFlag="Enabled" TransmitFlag="Enabled" UpdateFlag="Disabled" ReadOnInitFlag="Disabled" />
+              <CO Id="M-0008_A-700C-12-7011_O-6" Name="" Text="" Number="6" FunctionText="Frostalarm" ObjectSize="1 Bit" ReadFlag="Disabled" WriteFlag="Enabled" CommunicationFlag="Enabled" TransmitFlag="Enabled" UpdateFlag="Disabled" ReadOnInitFlag="Disabled" />
+            </COT>
+            <CORS>
+              <COR Id="M-0008_A-700C-12-7011_O-0_R-0" RefId="M-0008_A-700C-12-7011_O-0" Tag="0" />
+              <COR Id="M-0008_A-700C-12-7011_O-1_R-1" RefId="M-0008_A-700C-12-7011_O-1" Tag="1" />
+              <COR Id="M-0008_A-700C-12-7011_O-2_R-2" RefId="M-0008_A-700C-12-7011_O-2" Tag="2" />
+              <COR Id="M-0008_A-700C-12-7011_O-3_R-3" RefId="M-0008_A-700C-12-7011_O-3" Tag="3" />
+              <COR Id="M-0008_A-700C-12-7011_O-4_R-4" RefId="M-0008_A-700C-12-7011_O-4" Tag="4" />
+              <COR Id="M-0008_A-700C-12-7011_O-5_R-5" RefId="M-0008_A-700C-12-7011_O-5" Tag="5" />
+              <COR Id="M-0008_A-700C-12-7011_O-6_R-6" RefId="M-0008_A-700C-12-7011_O-6" Tag="6" />
+            </CORS>
+            <ADRT CodeSegment="M-0008_A-700C-12-7011_AS-0100" Offset="22" MaxEntries="19" />
+            <ASSOT CodeSegment="M-0008_A-700C-12-7011_AS-0100" Offset="63" MaxEntries="19" />
+            <FL>
+              <F FunctionRef="MV-0010_ME-TM.5FGetFlg" CodeSegment="M-0008_A-700C-12-7011_AS-0100">
+                <Off>153</Off>
+              </F>
+              <F FunctionRef="MV-0010_ME-TM.5FLoad" CodeSegment="M-0008_A-700C-12-7011_AS-0100">
+                <Off>137</Off>
+                <Off>184</Off>
+              </F>
+              <F FunctionRef="MV-0010_ME-U.5FdelMsgs" CodeSegment="M-0008_A-700C-12-7011_AS-0100">
+                <Off>253</Off>
+              </F>
+              <F FunctionRef="MV-0010_ME-U.5FioAST" CodeSegment="M-0008_A-700C-12-7011_AS-0100">
+                <Off>250</Off>
+              </F>
+              <F FunctionRef="MV-0010_ME-U.5FreadAD" CodeSegment="M-0008_A-700C-12-7011_AS-0100">
+                <Off>144</Off>
+                <Off>191</Off>
+              </F>
+              <F FunctionRef="MV-0010_ME-U.5FtransRequest" CodeSegment="M-0008_A-700C-12-7011_AS-0100">
+                <Off>171</Off>
+                <Off>204</Off>
+              </F>
+            </FL>
+            <Opt />
+          </St>
+          <Dynamic>
+            <Channel Name="Generic" Text="" Number="0" Id="M-0008_A-700C-12-7011_CH-0">
+              <ComObjectRefRef RefId="M-0008_A-700C-12-7011_O-0_R-0" />
+              <ComObjectRefRef RefId="M-0008_A-700C-12-7011_O-1_R-1" />
+              <ComObjectRefRef RefId="M-0008_A-700C-12-7011_O-2_R-2" />
+              <ComObjectRefRef RefId="M-0008_A-700C-12-7011_O-3_R-3" />
+              <ComObjectRefRef RefId="M-0008_A-700C-12-7011_O-4_R-4" />
+              <ComObjectRefRef RefId="M-0008_A-700C-12-7011_O-5_R-5" />
+              <ComObjectRefRef RefId="M-0008_A-700C-12-7011_O-6_R-6" />
+              <ParameterBlock Id="M-0008_A-700C-12-7011_PB-1" Name="Komforttemperatur" Access="Read" ParamRefId="M-0008_A-700C-12-7011_P-1_R-1">
+                <ParameterRefRef RefId="M-0008_A-700C-12-7011_P-2_R-2" />
+              </ParameterBlock>
+            </Channel>
+          </Dynamic>
+        </AP>
+      </APS>
+    </Manufacturer>
+  </ManufacturerData>
+</KNX>

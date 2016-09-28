@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LS>
+  <L Identifier="es-ES">
+    <TU RefId="M-0048_CS-IN">
+      <TE RefId="M-0048_CS-IN">
+        <T AttributeName="Name" Text="Entradas" />
+      </TE>
+    </TU>
+    <TU RefId="M-0048_CS-IN-TA">
+      <TE RefId="M-0048_CS-IN-TA">
+        <T AttributeName="Name" Text="Interfaces de pulsador" />
+      </TE>
+    </TU>
+    <TU RefId="M-0048_H-4969204-1_HP-4964-10-F885_CI-4969204-1">
+      <TE RefId="M-0048_H-4969204-1_HP-4964-10-F885_CI-4969204-1">
+        <T AttributeName="Name" Text="TA 4" />
+        <T AttributeName="VisibleDescription" Text="interfaz de pulsador para cajas empotradas&#xD;&#xA;" />
+      </TE>
+    </TU>
+    <TU RefId="M-0048_H-4969202-1_HP-4962-10-705C_CI-4969202-1">
+      <TE RefId="M-0048_H-4969202-1_HP-4962-10-705C_CI-4969202-1">
+        <T AttributeName="Name" Text="TA 2" />
+        <T AttributeName="VisibleDescription" Text="interfaz de pulsador para cajas empotradas&#xD;&#xA;" />
+      </TE>
+    </TU>
+  </L>
+  <L Identifier="nl-NL">
+    <TU RefId="M-0048_CS-IN">
+      <TE RefId="M-0048_CS-IN">
+        <T AttributeName="Name" Text="Ingangen" />
+      </TE>
+    </TU>
+    <TU RefId="M-0048_CS-IN-TA">
+      <TE RefId="M-0048_CS-IN-TA">
+        <T AttributeName="Name" Text="Toetsinterfaces" />
+      </TE>
+    </TU>
+    <TU RefId="M-0048_H-4969204-1_HP-4964-10-F885_CI-4969204-1">
+      <TE RefId="M-0048_H-4969204-1_HP-4964-10-F885_CI-4969204-1">
+        <T AttributeName="Name" Text="TA 4" />
+        <T AttributeName="VisibleDescription" Text="Toetsinterface voor inbouwcontactdozen&#xD;&#xA;" />
+      </TE>
+    </TU>
+    <TU RefId="M-0048_H-4969202-1_HP-4962-10-705C_CI-4969202-1">
+      <TE RefId="M-0048_H-4969202-1_HP-4962-10-705C_CI-4969202-1">
+        <T AttributeName="Name" Text="TA 2" />
+        <T AttributeName="VisibleDescription" Text="Toetsinterface voor inbouwcontactdozen&#xD;&#xA;" />
+      </TE>
+    </TU>
+  </L>
+  <L Identifier="en-US">
+    <TU RefId="M-0048_CS-IN">
+      <TE RefId="M-0048_CS-IN">
+        <T AttributeName="Name" Text="Inputs" />
+      </TE>
+    </TU>
+    <TU RefId="M-0048_CS-IN-TA">
+      <TE RefId="M-0048_CS-IN-TA">
+        <T AttributeName="Name" Text="Push Button Units" />
+      </TE>
+    </TU>
+    <TU RefId="M-0048_H-4969204-1_HP-4964-10-F885_CI-4969204-1">
+      <TE RefId="M-0048_H-4969204-1_HP-4964-10-F885_CI-4969204-1">
+        <T AttributeName="Name" Text="TA 4" />
+        <T AttributeName="VisibleDescription" Text="Flush mounting push button interface" />
+      </TE>
+    </TU>
+    <TU RefId="M-0048_H-4969202-1_HP-4962-10-705C_CI-4969202-1">
+      <TE RefId="M-0048_H-4969202-1_HP-4962-10-705C_CI-4969202-1">
+        <T AttributeName="Name" Text="TA 2" />
+        <T AttributeName="VisibleDescription" Text="Flush mounting push button interface" />
+      </TE>
+    </TU>
+  </L>
+  <L Identifier="fr-FR">
+    <TU RefId="M-0048_CS-IN">
+      <TE RefId="M-0048_CS-IN">
+        <T AttributeName="Name" Text="Entrées" />
+      </TE>
+    </TU>
+    <TU RefId="M-0048_CS-IN-TA">
+      <TE RefId="M-0048_CS-IN-TA">
+        <T AttributeName="Name" Text="Interfaces BP" />
+      </TE>
+    </TU>
+    <TU RefId="M-0048_H-4969204-1_HP-4964-10-F885_CI-4969204-1">
+      <TE RefId="M-0048_H-4969204-1_HP-4964-10-F885_CI-4969204-1">
+        <T AttributeName="Name" Text="TA 4" />
+        <T AttributeName="VisibleDescription" Text="Interfaces de bouton-poussoir pour boîtes encastrées&#xD;&#xA;" />
+      </TE>
+    </TU>
+    <TU RefId="M-0048_H-4969202-1_HP-4962-10-705C_CI-4969202-1">
+      <TE RefId="M-0048_H-4969202-1_HP-4962-10-705C_CI-4969202-1">
+        <T AttributeName="Name" Text="TA 2" />
+        <T AttributeName="VisibleDescription" Text="Interfaces de bouton-poussoir pour boîtes encastrées&#xD;&#xA;" />
+      </TE>
+    </TU>
+  </L>
+  <L Identifier="de-DE">
+    <TU RefId="M-0048_CS-IN">
+      <TE RefId="M-0048_CS-IN">
+        <T AttributeName="Name" Text="Eingänge" />
+      </TE>
+    </TU>
+    <TU RefId="M-0048_CS-IN-TA">
+      <TE RefId="M-0048_CS-IN-TA">
+        <T AttributeName="Name" Text="Tasterschnittstellen" />
+      </TE>
+    </TU>
+    <TU RefId="M-0048_H-4969204-1_HP-4964-10-F885_CI-4969204-1">
+      <TE RefId="M-0048_H-4969204-1_HP-4964-10-F885_CI-4969204-1">
+        <T AttributeName="Name" Text="TA 4" />
+        <T AttributeName="VisibleDescription" Text="Tasterschnittstelle für Unterputzdosen" />
+      </TE>
+    </TU>
+    <TU RefId="M-0048_H-4969202-1_HP-4962-10-705C_CI-4969202-1">
+      <TE RefId="M-0048_H-4969202-1_HP-4962-10-705C_CI-4969202-1">
+        <T AttributeName="Name" Text="TA 2" />
+        <T AttributeName="VisibleDescription" Text="Tasterschnittstelle für Unterputzdosen" />
+      </TE>
+    </TU>
+  </L>
+  <L Identifier="it-IT">
+    <TU RefId="M-0048_CS-IN">
+      <TE RefId="M-0048_CS-IN">
+        <T AttributeName="Name" Text="Ingressi" />
+      </TE>
+    </TU>
+    <TU RefId="M-0048_CS-IN-TA">
+      <TE RefId="M-0048_CS-IN-TA">
+        <T AttributeName="Name" Text="Interfacce dei tasti" />
+      </TE>
+    </TU>
+    <TU RefId="M-0048_H-4969204-1_HP-4964-10-F885_CI-4969204-1">
+      <TE RefId="M-0048_H-4969204-1_HP-4964-10-F885_CI-4969204-1">
+        <T AttributeName="Name" Text="TA 4" />
+        <T AttributeName="VisibleDescription" Text="Interfaccia dei tasti per scatole ad incasso" />
+      </TE>
+    </TU>
+    <TU RefId="M-0048_H-4969202-1_HP-4962-10-705C_CI-4969202-1">
+      <TE RefId="M-0048_H-4969202-1_HP-4962-10-705C_CI-4969202-1">
+        <T AttributeName="Name" Text="TA 2" />
+        <T AttributeName="VisibleDescription" Text="Interfaccia dei tasti per scatole ad incasso" />
+      </TE>
+    </TU>
+  </L>
+</LS>

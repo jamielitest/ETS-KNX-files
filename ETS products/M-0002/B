@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BGS>
+  <BG TargetPath="" Name="DeviceConfigurationConverter0407.loc" Id="M-0002_BG--DeviceConfigurationConverter0407.2Eloc" FileIntegrity="00000000">
+    <FI Version="1.0.578.0" TimeInfo="2010-08-09T08:08:53Z" />
+  </BG>
+  <BG TargetPath="" Name="DeviceConfigurationConverter.dll" Id="M-0002_BG--DeviceConfigurationConverter.2Edll" FileIntegrity="1D58BB44">
+    <FI Version="1.0.578.0" TimeInfo="2010-08-09T08:08:50Z" />
+  </BG>
+  <BG TargetPath="ABB_DNLD" Name="ABB_Download.dll" Id="M-0002_BG-ABB.5FDNLD-ABB.5FDownload.2Edll" FileIntegrity="713AA054">
+    <FI Version="1.0.556.0" TimeInfo="2010-02-10T08:28:49Z" />
+  </BG>
+  <BG TargetPath="ABB_DNLD" Name="ABB_Download0407.loc" Id="M-0002_BG-ABB.5FDNLD-ABB.5FDownload0407.2Eloc" FileIntegrity="00000000">
+    <FI Version="1.0.556.0" TimeInfo="2010-02-10T08:28:52Z" />
+  </BG>
+  <BG TargetPath="" Name="ABB_MC10.dll" Id="M-0002_BG--ABB.5FMC10.2Edll" FileIntegrity="A5699DA1">
+    <FI Version="1.0.555.0" TimeInfo="2009-12-07T12:15:11Z" />
+  </BG>
+  <BG TargetPath="" Name="ABB_MC100407.loc" Id="M-0002_BG--ABB.5FMC100407.2Eloc" FileIntegrity="00000000">
+    <FI Version="1.0.555.0" TimeInfo="2009-12-07T12:15:13Z" />
+  </BG>
+</BGS>

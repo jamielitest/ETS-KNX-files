@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LS>
+  <L Identifier="de-DE">
+    <TU RefId="M-0008_A-700C-12-7011">
+      <TE RefId="M-0008_A-700C-12-7011_PT-t.5FConf_EN-0">
+        <T AttributeName="Text" Text="22 °C" />
+      </TE>
+      <TE RefId="M-0008_A-700C-12-7011_PT-t.5FConf_EN-1">
+        <T AttributeName="Text" Text="20 °C" />
+      </TE>
+      <TE RefId="M-0008_A-700C-12-7011_PT-t.5FConf_EN-2">
+        <T AttributeName="Text" Text="18 °C" />
+      </TE>
+      <TE RefId="M-0008_A-700C-12-7011_O-0">
+        <T AttributeName="Text" Text="  3 °C" />
+        <T AttributeName="FunctionText" Text="Temperaturabsenkung" />
+      </TE>
+      <TE RefId="M-0008_A-700C-12-7011_O-1">
+        <T AttributeName="Text" Text="  18 °C" />
+        <T AttributeName="FunctionText" Text="Komforttemperatur" />
+      </TE>
+      <TE RefId="M-0008_A-700C-12-7011_O-2">
+        <T AttributeName="Text" Text="  20 °C" />
+        <T AttributeName="FunctionText" Text="Komforttemperatur" />
+      </TE>
+      <TE RefId="M-0008_A-700C-12-7011_O-3">
+        <T AttributeName="Text" Text="  22 °C" />
+        <T AttributeName="FunctionText" Text="Komforttemperatur" />
+      </TE>
+      <TE RefId="M-0008_A-700C-12-7011_O-4">
+        <T AttributeName="Text" Text="  7 °C" />
+        <T AttributeName="FunctionText" Text="Frostschutz" />
+      </TE>
+      <TE RefId="M-0008_A-700C-12-7011_O-5">
+        <T AttributeName="FunctionText" Text="Heizen EIN/AUS" />
+      </TE>
+      <TE RefId="M-0008_A-700C-12-7011_O-6">
+        <T AttributeName="FunctionText" Text="Frostalarm" />
+      </TE>
+      <TE RefId="M-0008_A-700C-12-7011_P-1">
+        <T AttributeName="Text" Text="Komforttemperatur" />
+      </TE>
+      <TE RefId="M-0008_A-700C-12-7011_P-2">
+        <T AttributeName="Text" Text="Komfortemperatur bei Initialisierung" />
+      </TE>
+      <TE RefId="M-0008_A-700C-12-7011">
+        <T AttributeName="Name" Text="Temperatursensor 700C12" />
+        <T AttributeName="HelpFile" Text="8\info\gira.hlp" />
+      </TE>
+    </TU>
+  </L>
+</LS>

@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<H>
+  <H Id="M-0008_H-8.20.2F.2F.2018400-1-O0001" Name="Taster-Busankoppler 1fach mit Zweipunktbedienung" SerialNumber="8 // 18400" VersionNumber="1" BusCurrent="5" HasIndividualAddress="true" HasApplicationProgram="true" OriginalManufacturer="M-0001">
+    <Prods>
+      <Prod Id="M-0008_H-8.20.2F.2F.2018400-1-O0001_P-184.2000" Text="Two-position control single push-button BC" OrderNumber="184 00" IsRailMounted="false" DefaultLanguage="en-US" Hash="xrVVmqsD9whDg9Fexnm68pNxXYA=">
+        <RI RegistrationStatus="Registered" RegistrationSignature="scPrbRSUjxs1xXEYuIfISSTZ8WbV3gItSDM/L1DIUHOEh3z4E+VC+fP55mIVwtQ1HT8UPGzIK0X8UhfDwkmbBc0Bjg0rIbpKJ6ITyNXswOjHMGiPhltaNfFLFNHKVjX2pWA336kG7ojMWjsPUkJOY96ZyHaU7fW8aASgylKyopE=" />
+      </Prod>
+    </Prods>
+    <H2Ps>
+      <H2P Id="M-0008_H-8.20.2F.2F.2018400-1-O0001_HP-1056-01-90FF-O0001" MediumTypes="MT-0" Hash="/mCi1Z5Rp+Ji5RCwgSnX4RO1kow=">
+        <APR RefId="M-0008_A-1056-01-90FF-O0001" />
+        <RI RegistrationStatus="Registered" RegistrationNumber="1998/2768" OriginalRegistrationNumber="1997/2412" RegistrationSignature="qtqfXX8P52Eh4CVKUHRA4Ijdn0acnDp0TtCiqZaqAyqXvYD5bOOyyWUXue12CEpW/9sULCgd/cTdKlAzIHOTY+CzIP87Q4H2ZMa5LD0J0W6cC2V0qkyxQVQPQaRccTqY7NfFQQxcD1AX7S1TensSlgU5ADAMGDyj3hgDtIMofHM=" />
+      </H2P>
+    </H2Ps>
+  </H>
+  <H Id="M-0008_H-8.20.2F.2F.20577.20xx-1" Name="Temperatursensor UP" SerialNumber="8 // 577 xx" VersionNumber="1" BusCurrent="0" HasIndividualAddress="true" HasApplicationProgram="true">
+    <Prods>
+      <Prod Id="M-0008_H-8.20.2F.2F.20577.20xx-1_P-577.20xx" Text="Temperatursensor UP" OrderNumber="577 xx" IsRailMounted="false" WidthInMillimeter="0" DefaultLanguage="de-DE" Hash="7vSAhXPRWZ8hdmNngLFZTh91cmM=">
+        <RI RegistrationStatus="Registered" RegistrationSignature="w3c7k9Pw9NQwRUi8fBmeGsxbLfBVf7FzlFmCEVZFeFrabFBzoLR1uuHLcJUbWrb8UBTQLwJuSzzgfZyFGRYb4CHOf9EksqbNSff71ZxQor3w3ZEmboRZyrljFCfpAC/6lmhwEAz5ar2Q21pdonaBR9yqi2LnrWSb8YFcEJE6QzM=" />
+      </Prod>
+    </Prods>
+    <H2Ps>
+      <H2P Id="M-0008_H-8.20.2F.2F.20577.20xx-1_HP-700C-12-7011" MediumTypes="MT-0" Hash="Ls/69yDR05lcnmFPl5iDHeLRF8U=">
+        <APR RefId="M-0008_A-700C-12-7011" />
+        <RI RegistrationStatus="Registered" RegistrationSignature="lcg1OYNJYeIqZ3pEhcf6jSGmGdKr7ITP8vJQlYPf/lu9JEM3PbI9enb3lVmxjSjaZKzM00RT2aimBZyP3hcA8+bYD5B+5p3uM2dM/T6cguIhsZfkGmUL+DWGCSuAhd8fPX7wHQtC1L8azke44Fz1kuBkxXYG1UuRxoHxa+KUQZE=" />
+      </H2P>
+    </H2Ps>
+  </H>
+  <H Id="M-0008_H-8.20.2F.2F.202104.20xx-1-O00F4" Name="CO2-Sensor" SerialNumber="8 // 2104 xx" VersionNumber="1" BusCurrent="25" HasIndividualAddress="true" HasApplicationProgram="true" OriginalManufacturer="M-00F4">
+    <Prods>
+      <Prod Id="M-0008_H-8.20.2F.2F.202104.20xx-1-O00F4_P-2104.20xx" Text="CO2-Sensor" OrderNumber="2104 xx" IsRailMounted="false" DefaultLanguage="en-US" Hash="0+/0vmDvoGMu7TrSEOEkm4Z3r+U=">
+        <RI RegistrationStatus="Registered" RegistrationSignature="SE7WdeynLsEf+cgm0pcyyncbbdVW93wDxRjzErHyVZqrsTCxMlTbNxrSI7uqlIfW5DlX2DoVkXZoABLAmbkQUxlCy9YdXIl2/jANsJmeZ5nEKHMwFKWdAXoVTSOFsZ9oz87tJrXhhowsf9m7XHIE6rgjNiyCQltaBHDBtTNoeP0=" />
+      </Prod>
+    </Prods>
+    <H2Ps>
+      <H2P Id="M-0008_H-8.20.2F.2F.202104.20xx-1-O00F4_HP-7062-11-148E-O00F4" MediumTypes="MT-0" Hash="uBGbmwUNalGrP26CrvgOjsgZpys=">
+        <APR RefId="M-0008_A-7062-11-148E-O00F4" />
+        <RI RegistrationStatus="Registered" RegistrationNumber="2011/9330" RegistrationSignature="FH8DG1kwim01Kn4qQAaywFFS20zVvdpi3JT+eZQ9HlR4RoWEU/1oou++IysIdi/UTrX8IIPTr87E3bHYWu1GcCYdXjXbx+UjHHVEz62KDFHVfaRmttGZ97AppFTxT+dQ0TEQtdsqWUnsQGdtipM5pmIrml3VMZHsnpCPyk5Gk7w=" />
+      </H2P>
+    </H2Ps>
+  </H>
+</H>

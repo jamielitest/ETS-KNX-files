@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<H>
+  <H Id="M-0002_H-2CDG.20110.20114.20R0011-1" Name="SA/S8.16.6.1" SerialNumber="2CDG 110 114 R0011" VersionNumber="1" BusCurrent="12" HasIndividualAddress="true" HasApplicationProgram="true" NoDownloadWithoutPlugin="true">
+    <Prods>
+      <Prod Id="M-0002_H-2CDG.20110.20114.20R0011-1_P-2CDG.20110.20114.20R0011" Text="SA/S8.16.6.1 Switch Actuator,8-fold,16A,MDRC" OrderNumber="2CDG 110 114 R0011" IsRailMounted="true" WidthInMillimeter="144" DefaultLanguage="en-US" Hash="0LqmFET6w8eM161g3w5zjE9QggM=">
+        <RI RegistrationStatus="Registered" RegistrationSignature="uy0mDi7xXHDAkD87WEFs9p7lUqk8UvGXDUadp0qgwYH6Flp1jHPoDjK2C6Ir1ehp9fg2sPi/qAPsiCc4JxYIyM6CPsXNVl2mfjNl56sG30DwoOP16M9TMa/vWwVlAtICEbE3lRosc/7NbEKfLiHcid+fm2kyiv5VmBGmFfkaRBQ=" />
+      </Prod>
+    </Prods>
+    <H2Ps>
+      <H2P Id="M-0002_H-2CDG.20110.20114.20R0011-1_HP-A05D-32-4FA1" MediumTypes="MT-0" Hash="nNtD69rha1pcQaNYEreppKIqpYQ=">
+        <APR RefId="M-0002_A-A05D-32-4FA1" />
+        <RI RegistrationStatus="Registered" RegistrationNumber="2011/9580" OriginalRegistrationNumber="1900/0" RegistrationSignature="Em0DGwTw/1AdXotL75ZMA2XJ6OSx7xiGMjYgfpg1j7sux0pNRej0GmuV987aGSevdsArxUYJDoSeucYDo4kfOYtOrOyX9XnG1gUQ4ZcCYC2MxhNndet9ui6j+vsAIrqUQV3/eUeCIt4OP9ga9bG9E4F7LrEq9DE6DTCnQN8r6kg=" />
+      </H2P>
+    </H2Ps>
+  </H>
+  <H Id="M-0002_H-2CDG.20110.20113.20R0011-1" Name="SA/S4.16.6.1" SerialNumber="2CDG 110 113 R0011" VersionNumber="1" BusCurrent="12" HasIndividualAddress="true" HasApplicationProgram="true" NoDownloadWithoutPlugin="true">
+    <Prods>
+      <Prod Id="M-0002_H-2CDG.20110.20113.20R0011-1_P-2CDG.20110.20113.20R0011" Text="SA/S4.16.6.1 Switch Actuator,4-fold,16A,MDRC" OrderNumber="2CDG 110 113 R0011" IsRailMounted="true" WidthInMillimeter="72" DefaultLanguage="en-US" Hash="HRBa+ncNIsUKw/01kKZkA2q8s9Y=">
+        <RI RegistrationStatus="Registered" RegistrationSignature="tG60wNR3GX1Rwzy+eUiDwz3nFc5OYZpdvmyNFy+4dU2p97sjjIM1HUYMuaLtV+Gq5qgbLreGJb2lKX9ETUP+1yHLqTQdGnuQ8uiPpY91BtUcvp3NY9TTN3S2blCoKlEpASxCKXfuAkHURkUqSx/NV52COwqCY1KmtCy5VJMNI2M=" />
+      </Prod>
+    </Prods>
+    <H2Ps>
+      <H2P Id="M-0002_H-2CDG.20110.20113.20R0011-1_HP-A05C-32-3F16" MediumTypes="MT-0" Hash="UQQ4DVY7EEAW82MOewCerYkFF9o=">
+        <APR RefId="M-0002_A-A05C-32-3F16" />
+        <RI RegistrationStatus="Registered" RegistrationNumber="2011/9579" OriginalRegistrationNumber="1900/0" RegistrationSignature="p8e29KAC0rnoHqLmYX6t6RVUX370Cs9y+pE2P/yzQ/Qgx+EmNB9LEr4uxjAU0eQWT7cwLf6grvUoCxvfmgCCzpgTUpetQWGsLsu2nmNgkFp+LMmOjidLEz3e2qClR0OpmX3qZNS0Orl1mNk+Nuf6AmUWfe1sw+xE3SpZ7oqH8U0=" />
+      </H2P>
+    </H2Ps>
+  </H>
+  <H Id="M-0002_H-2CDG.20110.20112.20R0011-2" Name="SA/S2.16.6.1" SerialNumber="2CDG 110 112 R0011" VersionNumber="2" BusCurrent="12" HasIndividualAddress="true" HasApplicationProgram="true" NoDownloadWithoutPlugin="true">
+    <Prods>
+      <Prod Id="M-0002_H-2CDG.20110.20112.20R0011-2_P-2CDG.20110.20112.20R0011" Text="SA/S2.16.6.1 Switch Actuator,2-fold,16A,MDRC" OrderNumber="2CDG 110 112 R0011" IsRailMounted="true" WidthInMillimeter="36" DefaultLanguage="en-US" Hash="faz13jMQLsHlJeip01WTqPhgA2M=">
+        <RI RegistrationStatus="Registered" RegistrationSignature="QXm/5gRzfSSBZaVh7c2EdfaLo9UD+PFX1RceHnJww0CLEioVlIacyb+eVRVZOfbus5HVudD+uXsLqk7I+N8tv/HQ1COaIzAigvkUEEOfnkWu0+otXXzWgJMIuf1ZU3FGPgQ474GYk/VQTJ/gSYkco6EnsroG7TjuLhb3BcXw/u0=" />
+      </Prod>
+    </Prods>
+    <H2Ps>
+      <H2P Id="M-0002_H-2CDG.20110.20112.20R0011-2_HP-A05B-32-07D8" MediumTypes="MT-0" Hash="WBXP0lq7xy76vQbqwEfUPoyB+aU=">
+        <APR RefId="M-0002_A-A05B-32-07D8" />
+        <RI RegistrationStatus="Registered" RegistrationNumber="2011/9578" OriginalRegistrationNumber="1900/0" RegistrationSignature="r5omXi4giZ6M4nkLcfF3xtV9/59PO1N4pV43Gwq22kn0x7DB3g+fz3i+a0MdXCuZDqy7UcZO2xCAsIU6j3EKyI49qU4PMnncNIa5zPc87QFiI86XFrRxqaNf+1byW/idn7zbe+BHYQlcpvwqt5s9NJZ4F/XzQJrgNZTZSQiNo+U=" />
+      </H2P>
+    </H2Ps>
+  </H>
+  <H Id="M-0002_H-2CDG.20110.20138.20R0011-1" Name="SA/S12.16.6.1" SerialNumber="2CDG 110 138 R0011" VersionNumber="1" BusCurrent="12" HasIndividualAddress="true" HasApplicationProgram="true" NoDownloadWithoutPlugin="true">
+    <Prods>
+      <Prod Id="M-0002_H-2CDG.20110.20138.20R0011-1_P-2CDG.20110.20138.20R0011" Text="SA/S12.16.6.1 Switch Actuator,12-fold,16A,MDRC" OrderNumber="2CDG 110 138 R0011" IsRailMounted="true" WidthInMillimeter="216" DefaultLanguage="en-US" Hash="qOJwhih+KiYEPta9rVdPYG98EUw=">
+        <RI RegistrationStatus="Registered" RegistrationSignature="enjxqzJ16QZl99sKxNBc/VvA4efG+CkjAx9oLbQ9Rr1OiF7woArptJioUeQYaPRUC0U06atUWYxbRRZB4WVprrhW7PzIU/91WG+so0D1yDzdK71WuIaE69494D9vvNkfJx3BERPA+JT0nTAZ+9SvqR9lqLwiNY2E/I/ala2FmZw=" />
+      </Prod>
+    </Prods>
+    <H2Ps>
+      <H2P Id="M-0002_H-2CDG.20110.20138.20R0011-1_HP-A05E-32-47E4" MediumTypes="MT-0" Hash="0dIECuo8ubmpwYxrIovio0V5J2U=">
+        <APR RefId="M-0002_A-A05E-32-47E4" />
+        <RI RegistrationStatus="Registered" RegistrationNumber="2011/9581" OriginalRegistrationNumber="1900/0" RegistrationSignature="xSaHmRKK7V+vdmKdpFc8TfZv+Y8EiW+oxA5abU0cHIeMUFl+vvQEOxLIJ1fz5ln2luskt5pedo5H3ekju2Om55ZtFezwATXOTGKxVa1XesJZUAZgbvQyoTGqN3Py1SyePINFV7Crr67Fmt2eIukd83vINdYwzWeU7aVXb3AOf28=" />
+      </H2P>
+    </H2Ps>
+  </H>
+</H>

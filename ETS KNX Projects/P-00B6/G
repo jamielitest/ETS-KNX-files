@@ -1,0 +1,226 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GAs>
+  <GRs>
+    <GR Id="P-00B6-0_GR-1" RangeStart="2048" RangeEnd="4095" Name="Bedroom 1" Puid="31">
+      <GR Id="P-00B6-0_GR-25" RangeStart="2560" RangeEnd="2815" Name="Sensor presence lux" Puid="55">
+        <GA Id="P-00B6-0_GA-1" Address="2561" Name="Presence" Puid="59" />
+        <GA Id="P-00B6-0_GA-2" Address="2562" Name="Lux" Puid="60" />
+      </GR>
+      <GR Id="P-00B6-0_GR-26" RangeStart="2816" RangeEnd="3071" Name="Sensor room conditions" Puid="56">
+        <GA Id="P-00B6-0_GA-3" Address="2817" Name="Temperature" Puid="63" />
+        <GA Id="P-00B6-0_GA-4" Address="2818" Name="Relative humidity" Puid="64" />
+        <GA Id="P-00B6-0_GA-5" Address="2819" Name="CO2" Puid="65" />
+      </GR>
+      <GR Id="P-00B6-0_GR-28" RangeStart="3328" RangeEnd="3583" Name="Switch actuator" Puid="58">
+        <GA Id="P-00B6-0_GA-6" Address="3329" Name="Ambient lights" Puid="66" />
+        <GA Id="P-00B6-0_GA-7" Address="3330" Name="Task lights" Puid="67" />
+      </GR>
+      <GR Id="P-00B6-0_GR-29" RangeStart="2048" RangeEnd="2303" Name="Push buttons" Puid="70">
+        <GA Id="P-00B6-0_GA-10" Address="2049" Name="Ambient lights mudroom 1 door" Puid="72" />
+        <GA Id="P-00B6-0_GA-11" Address="2050" Name="Ambient lights west verandah door" Puid="73" />
+      </GR>
+      <GR Id="P-00B6-0_GR-30" RangeStart="3584" RangeEnd="3839" Name="Door/window contacts" Puid="71">
+        <GA Id="P-00B6-0_GA-12" Address="3585" Name="Exterior windows" Puid="74" />
+        <GA Id="P-00B6-0_GA-13" Address="3586" Name="Exterior door" Puid="75" />
+        <GA Id="P-00B6-0_GA-14" Address="3587" Name="Internal door" Puid="76" />
+      </GR>
+    </GR>
+    <GR Id="P-00B6-0_GR-5" RangeStart="4096" RangeEnd="6143" Name="Bedroom 2" Puid="35">
+      <GR Id="P-00B6-0_GR-31" RangeStart="4096" RangeEnd="4351" Name="Push buttons" Puid="106">
+        <GA Id="P-00B6-0_GA-15" Address="4097" Name="Ambient lights mudroom 2 door" Puid="107" />
+        <GA Id="P-00B6-0_GA-16" Address="4098" Name="Ambient lights north verandah door" Puid="108" />
+        <GA Id="P-00B6-0_GA-215" Address="4100" Name="Fan speed up" Puid="398" />
+        <GA Id="P-00B6-0_GA-216" Address="4099" Name="Fan slow down" Puid="399" />
+      </GR>
+      <GR Id="P-00B6-0_GR-32" RangeStart="4352" RangeEnd="4607" Name="Sensor presence lux" Puid="109">
+        <GA Id="P-00B6-0_GA-17" Address="4353" Name="Presence" Puid="110" />
+        <GA Id="P-00B6-0_GA-18" Address="4354" Name="Lux" Puid="111" />
+      </GR>
+      <GR Id="P-00B6-0_GR-33" RangeStart="4608" RangeEnd="4863" Name="Sensor room conditions" Puid="112">
+        <GA Id="P-00B6-0_GA-19" Address="4609" Name="Temperature" Puid="113" />
+        <GA Id="P-00B6-0_GA-20" Address="4610" Name="Relative humidity" Puid="114" />
+        <GA Id="P-00B6-0_GA-21" Address="4611" Name="CO2" Puid="115" />
+      </GR>
+      <GR Id="P-00B6-0_GR-34" RangeStart="4864" RangeEnd="5119" Name="Switch actuator" Puid="116">
+        <GA Id="P-00B6-0_GA-22" Address="4865" Name="Ambient lights" Puid="117" />
+        <GA Id="P-00B6-0_GA-23" Address="4866" Name="Task lights" Puid="118" />
+      </GR>
+      <GR Id="P-00B6-0_GR-35" RangeStart="5120" RangeEnd="5375" Name="Door/window contacts" Puid="119">
+        <GA Id="P-00B6-0_GA-24" Address="5121" Name="Exterior windows" Puid="120" />
+        <GA Id="P-00B6-0_GA-25" Address="5122" Name="Exterior door" Puid="121" />
+        <GA Id="P-00B6-0_GA-26" Address="5123" Name="Internal door" Puid="122" />
+      </GR>
+    </GR>
+    <GR Id="P-00B6-0_GR-7" RangeStart="6144" RangeEnd="8191" Name="Bunkroom" Puid="37">
+      <GR Id="P-00B6-0_GR-36" RangeStart="6144" RangeEnd="6399" Name="Push buttons" Puid="123">
+        <GA Id="P-00B6-0_GA-27" Address="6145" Name="Ambient lights mudroom 1 door" Puid="124" />
+        <GA Id="P-00B6-0_GA-28" Address="6146" Name="Ambient lights north verandah door" Puid="125" />
+        <GA Id="P-00B6-0_GA-195" Address="6147" Name="Solatube dimmer up" Puid="361" />
+        <GA Id="P-00B6-0_GA-196" Address="6148" Name="Solatube dimmer down" Puid="362" />
+        <GA Id="P-00B6-0_GA-197" Address="6149" Name="Heat sava on/off" Puid="363" />
+      </GR>
+      <GR Id="P-00B6-0_GR-37" RangeStart="6400" RangeEnd="6655" Name="Sensor presence lux" Puid="126">
+        <GA Id="P-00B6-0_GA-29" Address="6401" Name="Presence" Puid="127" />
+        <GA Id="P-00B6-0_GA-30" Address="6402" Name="Lux" Puid="128" />
+      </GR>
+      <GR Id="P-00B6-0_GR-38" RangeStart="6656" RangeEnd="6911" Name="Sensor room conditions" Puid="129">
+        <GA Id="P-00B6-0_GA-31" Address="6657" Name="Temperature" Puid="130" />
+        <GA Id="P-00B6-0_GA-32" Address="6658" Name="Relative humidity" Puid="131" />
+        <GA Id="P-00B6-0_GA-33" Address="6659" Name="CO2" Puid="132" />
+      </GR>
+      <GR Id="P-00B6-0_GR-39" RangeStart="6912" RangeEnd="7167" Name="Switch actuator" Puid="133">
+        <GA Id="P-00B6-0_GA-34" Address="6913" Name="Ambient lights" Puid="134" />
+        <GA Id="P-00B6-0_GA-35" Address="6914" Name="Task lights" Puid="135" />
+      </GR>
+      <GR Id="P-00B6-0_GR-40" RangeStart="7168" RangeEnd="7423" Name="Door/window contacts" Puid="136">
+        <GA Id="P-00B6-0_GA-36" Address="7169" Name="Exterior windows" Puid="137" />
+        <GA Id="P-00B6-0_GA-37" Address="7170" Name="Exterior door" Puid="138" />
+        <GA Id="P-00B6-0_GA-38" Address="7171" Name="Internal door" Puid="139" />
+      </GR>
+    </GR>
+    <GR Id="P-00B6-0_GR-11" RangeStart="10240" RangeEnd="12287" Name="Mudroom 1" Puid="41">
+      <GR Id="P-00B6-0_GR-46" RangeStart="10240" RangeEnd="10495" Name="Push buttons" Puid="157">
+        <GA Id="P-00B6-0_GA-51" Address="10241" Name="Vanity lights" Puid="158" />
+      </GR>
+      <GR Id="P-00B6-0_GR-47" RangeStart="10496" RangeEnd="10751" Name="Sensor presence lux" Puid="160">
+        <GA Id="P-00B6-0_GA-53" Address="10497" Name="Presence" Puid="161" />
+        <GA Id="P-00B6-0_GA-54" Address="10498" Name="Lux" Puid="162" />
+      </GR>
+      <GR Id="P-00B6-0_GR-49" RangeStart="11008" RangeEnd="11263" Name="Switch actuator" Puid="167">
+        <GA Id="P-00B6-0_GA-58" Address="11009" Name="Ambient lights" Puid="168" />
+        <GA Id="P-00B6-0_GA-59" Address="11010" Name="Vanity lights" Puid="169" />
+        <GA Id="P-00B6-0_GA-198" Address="11008" Name="Night Lights" Puid="364" />
+      </GR>
+      <GR Id="P-00B6-0_GR-50" RangeStart="11264" RangeEnd="11519" Name="Door/window contacts" Puid="170">
+        <GA Id="P-00B6-0_GA-61" Address="11266" Name="exterior door" Puid="172" />
+      </GR>
+    </GR>
+    <GR Id="P-00B6-0_GR-13" RangeStart="12288" RangeEnd="14335" Name="Mudroom 2" Puid="43">
+      <GR Id="P-00B6-0_GR-51" RangeStart="12288" RangeEnd="12543" Name="Push buttons" Puid="174">
+        <GA Id="P-00B6-0_GA-63" Address="12289" Name="Vanity lights" Puid="175" />
+      </GR>
+      <GR Id="P-00B6-0_GR-52" RangeStart="12544" RangeEnd="12799" Name="Sensor presence lux" Puid="177">
+        <GA Id="P-00B6-0_GA-65" Address="12545" Name="Presence" Puid="178" />
+        <GA Id="P-00B6-0_GA-66" Address="12546" Name="Lux" Puid="179" />
+      </GR>
+      <GR Id="P-00B6-0_GR-54" RangeStart="13056" RangeEnd="13311" Name="Switch actuator" Puid="184">
+        <GA Id="P-00B6-0_GA-70" Address="13057" Name="Ambient lights" Puid="185" />
+        <GA Id="P-00B6-0_GA-71" Address="13058" Name="Vanity lights" Puid="186" />
+        <GA Id="P-00B6-0_GA-199" Address="13056" Name="Night lights" Puid="365" />
+      </GR>
+      <GR Id="P-00B6-0_GR-55" RangeStart="13312" RangeEnd="13567" Name="Door/window contacts" Puid="187">
+        <GA Id="P-00B6-0_GA-73" Address="13314" Name="exterior door" Puid="189" />
+      </GR>
+    </GR>
+    <GR Id="P-00B6-0_GR-14" RangeStart="14336" RangeEnd="16383" Name="North verandah" Puid="44">
+      <GR Id="P-00B6-0_GR-57" RangeStart="14592" RangeEnd="14847" Name="Sensor presence lux" Puid="194">
+        <GA Id="P-00B6-0_GA-77" Address="14593" Name="Presence" Puid="195" />
+        <GA Id="P-00B6-0_GA-78" Address="14594" Name="Lux" Puid="196" />
+      </GR>
+      <GR Id="P-00B6-0_GR-59" RangeStart="15104" RangeEnd="15359" Name="Switch actuator" Puid="201">
+        <GA Id="P-00B6-0_GA-82" Address="15105" Name="Exterior lights" Puid="202" />
+      </GR>
+    </GR>
+    <GR Id="P-00B6-0_GR-16" RangeStart="18432" RangeEnd="20479" Name="Shower 1" Puid="46">
+      <GR Id="P-00B6-0_GR-66" RangeStart="18432" RangeEnd="18687" Name="Push buttons" Puid="225">
+        <GA Id="P-00B6-0_GA-100" Address="18432" Name="Shower start/stop" Puid="227" />
+      </GR>
+      <GR Id="P-00B6-0_GR-67" RangeStart="18688" RangeEnd="18943" Name="Sensor presence lux" Puid="228">
+        <GA Id="P-00B6-0_GA-101" Address="18689" Name="Presence" Puid="229" />
+        <GA Id="P-00B6-0_GA-102" Address="18690" Name="Lux" Puid="230" />
+      </GR>
+      <GR Id="P-00B6-0_GR-69" RangeStart="19200" RangeEnd="19455" Name="Switch actuator" Puid="235">
+        <GA Id="P-00B6-0_GA-106" Address="19201" Name="Ambient lights" Puid="236" />
+      </GR>
+      <GR Id="P-00B6-0_GR-70" RangeStart="19456" RangeEnd="19711" Name="Door/window contacts" Puid="238">
+        <GA Id="P-00B6-0_GA-108" Address="19457" Name="Exterior window" Puid="239" />
+      </GR>
+    </GR>
+    <GR Id="P-00B6-0_GR-17" RangeStart="20480" RangeEnd="22527" Name="Shower 2" Puid="47">
+      <GR Id="P-00B6-0_GR-71" RangeStart="20480" RangeEnd="20735" Name="Push buttons" Puid="242">
+        <GA Id="P-00B6-0_GA-111" Address="20481" Name="Shower start/stop" Puid="243" />
+      </GR>
+      <GR Id="P-00B6-0_GR-72" RangeStart="20736" RangeEnd="20991" Name="Sensor presence lux" Puid="245">
+        <GA Id="P-00B6-0_GA-113" Address="20737" Name="Presence" Puid="246" />
+        <GA Id="P-00B6-0_GA-114" Address="20738" Name="Lux" Puid="247" />
+      </GR>
+      <GR Id="P-00B6-0_GR-74" RangeStart="21248" RangeEnd="21503" Name="Switch actuator" Puid="252">
+        <GA Id="P-00B6-0_GA-118" Address="21249" Name="Ambient lights" Puid="253" />
+      </GR>
+      <GR Id="P-00B6-0_GR-75" RangeStart="21504" RangeEnd="21759" Name="Door/window contacts" Puid="255">
+        <GA Id="P-00B6-0_GA-120" Address="21505" Name="Exterior window" Puid="256" />
+      </GR>
+    </GR>
+    <GR Id="P-00B6-0_GR-18" RangeStart="22528" RangeEnd="24575" Name="North verandah" Puid="48">
+      <GR Id="P-00B6-0_GR-77" RangeStart="22784" RangeEnd="23039" Name="Sensor presence lux" Puid="262">
+        <GA Id="P-00B6-0_GA-125" Address="22785" Name="Presence" Puid="263" />
+        <GA Id="P-00B6-0_GA-126" Address="22786" Name="Lux" Puid="264" />
+      </GR>
+      <GR Id="P-00B6-0_GR-79" RangeStart="23296" RangeEnd="23551" Name="Switch actuator" Puid="269">
+        <GA Id="P-00B6-0_GA-130" Address="23297" Name="External lights" Puid="270" />
+      </GR>
+    </GR>
+    <GR Id="P-00B6-0_GR-19" RangeStart="24576" RangeEnd="26623" Name="WC1" Puid="49">
+      <GR Id="P-00B6-0_GR-82" RangeStart="24832" RangeEnd="25087" Name="Sensor presence lux" Puid="279">
+        <GA Id="P-00B6-0_GA-137" Address="24833" Name="Presence" Puid="280" />
+        <GA Id="P-00B6-0_GA-138" Address="24834" Name="Lux" Puid="281" />
+      </GR>
+      <GR Id="P-00B6-0_GR-84" RangeStart="25344" RangeEnd="25599" Name="Switch actuator" Puid="286">
+        <GA Id="P-00B6-0_GA-142" Address="25345" Name="Ambient lights" Puid="287" />
+      </GR>
+      <GR Id="P-00B6-0_GR-85" RangeStart="25600" RangeEnd="25855" Name="Door/window contacts" Puid="289">
+        <GA Id="P-00B6-0_GA-144" Address="25601" Name="Exterior windows" Puid="290" />
+      </GR>
+    </GR>
+    <GR Id="P-00B6-0_GR-20" RangeStart="26624" RangeEnd="28671" Name="WC2" Puid="50">
+      <GR Id="P-00B6-0_GR-106" RangeStart="26624" RangeEnd="26879" Name="Sensor presence lux" Puid="366">
+        <GA Id="P-00B6-0_GA-200" Address="26625" Name="Presence" Puid="367" />
+        <GA Id="P-00B6-0_GA-201" Address="26626" Name="Lux" Puid="368" />
+      </GR>
+      <GR Id="P-00B6-0_GR-107" RangeStart="26880" RangeEnd="27135" Name="Switch actuator" Puid="369">
+        <GA Id="P-00B6-0_GA-202" Address="26881" Name="Ambient lights" Puid="370" />
+      </GR>
+      <GR Id="P-00B6-0_GR-108" RangeStart="27136" RangeEnd="27391" Name="Door/window contacts" Puid="371">
+        <GA Id="P-00B6-0_GA-203" Address="27137" Name="Exterior windows" Puid="372" />
+      </GR>
+    </GR>
+    <GR Id="P-00B6-0_GR-21" RangeStart="28672" RangeEnd="30719" Name="West verandah" Puid="51">
+      <GR Id="P-00B6-0_GR-109" RangeStart="28672" RangeEnd="28927" Name="Sensor presence lux" Puid="373">
+        <GA Id="P-00B6-0_GA-204" Address="28673" Name="Presence" Puid="374" />
+        <GA Id="P-00B6-0_GA-205" Address="28674" Name="Lux" Puid="375" />
+      </GR>
+      <GR Id="P-00B6-0_GR-110" RangeStart="28928" RangeEnd="29183" Name="Switch actuator" Puid="376">
+        <GA Id="P-00B6-0_GA-206" Address="28929" Name="External lights" Puid="377" />
+      </GR>
+    </GR>
+    <GR Id="P-00B6-0_GR-22" RangeStart="30720" RangeEnd="32767" Name="Mudroom 1 entrance" Puid="52">
+      <GR Id="P-00B6-0_GR-111" RangeStart="30720" RangeEnd="30975" Name="Sensor presence lux" Puid="378">
+        <GA Id="P-00B6-0_GA-207" Address="30721" Name="Presence" Puid="379" />
+        <GA Id="P-00B6-0_GA-208" Address="30722" Name="Lux" Puid="380" />
+      </GR>
+      <GR Id="P-00B6-0_GR-112" RangeStart="30976" RangeEnd="31231" Name="Switch actuator" Puid="381">
+        <GA Id="P-00B6-0_GA-209" Address="30977" Name="External lights" Puid="382" />
+      </GR>
+    </GR>
+    <GR Id="P-00B6-0_GR-23" RangeStart="32768" RangeEnd="34815" Name="Mudroom 2 entrance" Puid="53">
+      <GR Id="P-00B6-0_GR-113" RangeStart="32768" RangeEnd="33023" Name="Sensor presence lux" Puid="383">
+        <GA Id="P-00B6-0_GA-210" Address="32769" Name="Presence" Puid="384" />
+        <GA Id="P-00B6-0_GA-211" Address="32770" Name="Lux" Puid="385" />
+      </GR>
+      <GR Id="P-00B6-0_GR-114" RangeStart="33024" RangeEnd="33279" Name="Switch actuator" Puid="386">
+        <GA Id="P-00B6-0_GA-212" Address="33025" Name="External lights" Puid="387" />
+      </GR>
+      <GR Id="P-00B6-0_GR-116" RangeStart="33536" RangeEnd="33791" Name="New middle group" Puid="389" />
+    </GR>
+    <GR Id="P-00B6-0_GR-117" RangeStart="36864" RangeEnd="38911" Name="Mud2, WC2, Shr2 exterior doors/windows" Puid="390">
+      <GR Id="P-00B6-0_GR-120" RangeStart="36864" RangeEnd="37119" Name="Door/window contacts" Puid="394">
+        <GA Id="P-00B6-0_GA-214" Address="36865" Name="Exterior window/door" Puid="395" />
+      </GR>
+    </GR>
+    <GR Id="P-00B6-0_GR-118" RangeStart="34816" RangeEnd="36863" Name="Mud1, WC1, Shr1 exterior doors/windows" Puid="391">
+      <GR Id="P-00B6-0_GR-119" RangeStart="34816" RangeEnd="35071" Name="Door/window contacts" Puid="392">
+        <GA Id="P-00B6-0_GA-213" Address="34817" Name="Exterior windows/door" Puid="393" />
+      </GR>
+    </GR>
+  </GRs>
+</GAs>

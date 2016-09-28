@@ -1,0 +1,368 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<KNX xsi="http://www.w3.org/2001/XMLSchema-instance" xsd="http://www.w3.org/2001/XMLSchema" CreatedBy="ETS5" ToolVersion="5.5.665.16682">
+  <ManufacturerData>
+    <Manufacturer RefId="M-0008">
+      <APS>
+        <AP Id="M-0008_A-1056-01-90FF-O0001" ApplicationNumber="4182" ApplicationVersion="1" ProgramType="ApplicationProgram" MaskVersion="MV-0012" VisibleDescription="switching, dimming, shutter 105601&#xD;&#xA;" Name="switching, dimming, shutter 105601" LoadProcedureStyle="DefaultProcedure" PeiType="4" HelpFile="8\info\gira.hlp" DefaultLanguage="en-US" DynamicTableManagement="true" Linkable="true" OriginalManufacturer="M-0001" PreEts4Style="true" ConvertedFromPreEts4Data="true" Hash="kP+efCWxXEIbX51k7oJd/w==">
+          <St>
+            <Code>
+              <AS Id="M-0008_A-1056-01-90FF-O0001_AS-0100" Address="256" Size="256">
+                <Data>/wAAAAEhEAH/BAAAAADgY2gvTv5o/gH//xAAEAEQBBAF//////////////////8EAQACAQQCAwMFAAYABwAIAAkACgALAAwADQAOAA8AA9DS1wDTxwPU1wDV1wAFBCAhCQEJAdsAAGQ82hXavtrWAVzq1rdWVObQpCImMKoASKoAqDPNDc8bAqYFrWS3VaYDrV6dnbpVzQxvvtrkIA5WDSdcHlamBOfbtlbn1oEnNAhWBp/NDWwmRg1WAwdWQL7aHFamBK3gCFYJ1gFgVJlZC1YLtlakAQNWBObSqAHn0p/MDblv1ghWFlRYDVblBFbcrgHNDVRPDlMBTAxTAUyBAA==</Data>
+                <Mask>/wAAAP////////////////////////8AAP///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////w==</Mask>
+              </AS>
+            </Code>
+            <PTS>
+              <PT Id="M-0008_A-1056-01-90FF-O0001_PT-t.5FFunktion.20Jalousie" Name="t_Funktion Jalousie">
+                <TR Base="Value" SizeInBit="16">
+                  <Enumeration Text="top = DOWN, below = UP" Value="8480" Id="M-0008_A-1056-01-90FF-O0001_PT-t.5FFunktion.20Jalousie_EN-8480" DisplayOrder="0" />
+                  <Enumeration Text="top = UP, below = DOWN" Value="8225" Id="M-0008_A-1056-01-90FF-O0001_PT-t.5FFunktion.20Jalousie_EN-8225" DisplayOrder="1" />
+                </TR>
+              </PT>
+              <PT Id="M-0008_A-1056-01-90FF-O0001_PT-t.5FFunktion.20Dimmen.20stop" Name="t_Funktion Dimmen stop">
+                <TR Base="Value" SizeInBit="16">
+                  <Enumeration Text="top = brighter (TOGGLE), below = darker (TOGGLE)" Value="1798" Id="M-0008_A-1056-01-90FF-O0001_PT-t.5FFunktion.20Dimmen.20stop_EN-1798" DisplayOrder="0" />
+                  <Enumeration Text="top = brighter (ON), below = darker (OFF)" Value="1284" Id="M-0008_A-1056-01-90FF-O0001_PT-t.5FFunktion.20Dimmen.20stop_EN-1284" DisplayOrder="1" />
+                </TR>
+              </PT>
+              <PT Id="M-0008_A-1056-01-90FF-O0001_PT-t.5FEinbaulage" Name="t_Einbaulage">
+                <TR Base="Value" SizeInBit="1">
+                  <Enumeration Text="normal   (LEDs top)" Value="0" Id="M-0008_A-1056-01-90FF-O0001_PT-t.5FEinbaulage_EN-0" DisplayOrder="0" />
+                  <Enumeration Text="invers (LEDs below)" Value="1" Id="M-0008_A-1056-01-90FF-O0001_PT-t.5FEinbaulage_EN-1" DisplayOrder="1" />
+                </TR>
+              </PT>
+              <PT Id="M-0008_A-1056-01-90FF-O0001_PT-t.5FLED.20links.20Dimmen" Name="t_LED links Dimmen">
+                <TR Base="BinaryValue" SizeInBit="40">
+                  <Enumeration Text="always OFF" Value="0" Id="M-0008_A-1056-01-90FF-O0001_PT-t.5FLED.20links.20Dimmen_EN-0" DisplayOrder="0" BinaryValue="qgBIqgA=" />
+                  <Enumeration Text="always ON" Value="1" Id="M-0008_A-1056-01-90FF-O0001_PT-t.5FLED.20links.20Dimmen_EN-1" DisplayOrder="1" BinaryValue="qgFIqgE=" />
+                  <Enumeration Text="for object 0" Value="2" Id="M-0008_A-1056-01-90FF-O0001_PT-t.5FLED.20links.20Dimmen_EN-2" DisplayOrder="2" BinaryValue="utJIutI=" />
+                  <Enumeration Text="for object 2" Value="4" Id="M-0008_A-1056-01-90FF-O0001_PT-t.5FLED.20links.20Dimmen_EN-4" DisplayOrder="4" BinaryValue="utRIutQ=" />
+                </TR>
+              </PT>
+              <PT Id="M-0008_A-1056-01-90FF-O0001_PT-t.5FDimVal.20Stop.20.28inv.29" Name="t_DimVal Stop (inv)">
+                <TR Base="Value" SizeInBit="16">
+                  <Enumeration Text="100 %" Value="265" Id="M-0008_A-1056-01-90FF-O0001_PT-t.5FDimVal.20Stop.20.28inv.29_EN-265" DisplayOrder="1" />
+                </TR>
+              </PT>
+              <PT Id="M-0008_A-1056-01-90FF-O0001_PT-t.5FFunktion.20Dimmen.20zykl" Name="t_Funktion Dimmen zykl">
+                <TR Base="Value" SizeInBit="16">
+                  <Enumeration Text="top = brighter (TOGGLE), below = darker (TOGGLE)" Value="2826" Id="M-0008_A-1056-01-90FF-O0001_PT-t.5FFunktion.20Dimmen.20zykl_EN-2826" DisplayOrder="0" />
+                  <Enumeration Text="top = brighter (ON), below = darker (OFF)" Value="2312" Id="M-0008_A-1056-01-90FF-O0001_PT-t.5FFunktion.20Dimmen.20zykl_EN-2312" DisplayOrder="1" />
+                </TR>
+              </PT>
+              <PT Id="M-0008_A-1056-01-90FF-O0001_PT-t.5FDimVal.20zykl.20.28inv.29" Name="t_DimVal zykl (inv)">
+                <TR Base="Value" SizeInBit="16">
+                  <Enumeration Text="100 %" Value="265" Id="M-0008_A-1056-01-90FF-O0001_PT-t.5FDimVal.20zykl.20.28inv.29_EN-265" DisplayOrder="1" />
+                  <Enumeration Text="50 %" Value="522" Id="M-0008_A-1056-01-90FF-O0001_PT-t.5FDimVal.20zykl.20.28inv.29_EN-522" DisplayOrder="2" />
+                  <Enumeration Text="25 %" Value="779" Id="M-0008_A-1056-01-90FF-O0001_PT-t.5FDimVal.20zykl.20.28inv.29_EN-779" DisplayOrder="3" />
+                  <Enumeration Text="12,5 %" Value="1036" Id="M-0008_A-1056-01-90FF-O0001_PT-t.5FDimVal.20zykl.20.28inv.29_EN-1036" DisplayOrder="4" />
+                  <Enumeration Text="6 %" Value="1293" Id="M-0008_A-1056-01-90FF-O0001_PT-t.5FDimVal.20zykl.20.28inv.29_EN-1293" DisplayOrder="5" />
+                  <Enumeration Text="3 %" Value="1550" Id="M-0008_A-1056-01-90FF-O0001_PT-t.5FDimVal.20zykl.20.28inv.29_EN-1550" DisplayOrder="6" />
+                  <Enumeration Text="1,5 %" Value="1807" Id="M-0008_A-1056-01-90FF-O0001_PT-t.5FDimVal.20zykl.20.28inv.29_EN-1807" DisplayOrder="7" />
+                </TR>
+              </PT>
+              <PT Id="M-0008_A-1056-01-90FF-O0001_PT-Seitenparmeter" Name="Seitenparmeter">
+                <TNone />
+              </PT>
+              <PT Id="M-0008_A-1056-01-90FF-O0001_PT-t.5FFunktion.20Schalten" Name="t_Funktion Schalten">
+                <TR Base="Value" SizeInBit="8">
+                  <Enumeration Text="ON" Value="17" Id="M-0008_A-1056-01-90FF-O0001_PT-t.5FFunktion.20Schalten_EN-17" DisplayOrder="0" />
+                  <Enumeration Text="OFF" Value="16" Id="M-0008_A-1056-01-90FF-O0001_PT-t.5FFunktion.20Schalten_EN-16" DisplayOrder="1" />
+                  <Enumeration Text="TOGGLE" Value="18" Id="M-0008_A-1056-01-90FF-O0001_PT-t.5FFunktion.20Schalten_EN-18" DisplayOrder="2" />
+                </TR>
+              </PT>
+              <PT Id="M-0008_A-1056-01-90FF-O0001_PT-t.5FZykl.5FSend" Name="t_Zykl_Send" InternalDescription="maximale Zeitdauer für einen kurzen Tastendruck">
+                <TR Base="Value" SizeInBit="8">
+                  <Enumeration Text="300 ms" Value="2" Id="M-0008_A-1056-01-90FF-O0001_PT-t.5FZykl.5FSend_EN-2" DisplayOrder="0" />
+                  <Enumeration Text="400 ms" Value="3" Id="M-0008_A-1056-01-90FF-O0001_PT-t.5FZykl.5FSend_EN-3" DisplayOrder="1" />
+                  <Enumeration Text="500 ms" Value="4" Id="M-0008_A-1056-01-90FF-O0001_PT-t.5FZykl.5FSend_EN-4" DisplayOrder="2" />
+                  <Enumeration Text="600 ms" Value="5" Id="M-0008_A-1056-01-90FF-O0001_PT-t.5FZykl.5FSend_EN-5" DisplayOrder="3" />
+                  <Enumeration Text="800 ms" Value="6" Id="M-0008_A-1056-01-90FF-O0001_PT-t.5FZykl.5FSend_EN-6" DisplayOrder="4" />
+                  <Enumeration Text="1,0 s" Value="8" Id="M-0008_A-1056-01-90FF-O0001_PT-t.5FZykl.5FSend_EN-8" DisplayOrder="5" />
+                  <Enumeration Text="1,2 s" Value="9" Id="M-0008_A-1056-01-90FF-O0001_PT-t.5FZykl.5FSend_EN-9" DisplayOrder="6" />
+                  <Enumeration Text="1,5 s" Value="12" Id="M-0008_A-1056-01-90FF-O0001_PT-t.5FZykl.5FSend_EN-12" DisplayOrder="7" />
+                  <Enumeration Text="2,0 s" Value="15" Id="M-0008_A-1056-01-90FF-O0001_PT-t.5FZykl.5FSend_EN-15" DisplayOrder="8" />
+                  <Enumeration Text="2,5 s" Value="19" Id="M-0008_A-1056-01-90FF-O0001_PT-t.5FZykl.5FSend_EN-19" DisplayOrder="9" />
+                  <Enumeration Text="3,0 s" Value="23" Id="M-0008_A-1056-01-90FF-O0001_PT-t.5FZykl.5FSend_EN-23" DisplayOrder="10" />
+                  <Enumeration Text="4,0 s" Value="31" Id="M-0008_A-1056-01-90FF-O0001_PT-t.5FZykl.5FSend_EN-31" DisplayOrder="11" />
+                  <Enumeration Text="5,0 s" Value="38" Id="M-0008_A-1056-01-90FF-O0001_PT-t.5FZykl.5FSend_EN-38" DisplayOrder="12" />
+                  <Enumeration Text="6,0 s" Value="46" Id="M-0008_A-1056-01-90FF-O0001_PT-t.5FZykl.5FSend_EN-46" DisplayOrder="13" />
+                  <Enumeration Text="7,0 s" Value="54" Id="M-0008_A-1056-01-90FF-O0001_PT-t.5FZykl.5FSend_EN-54" DisplayOrder="14" />
+                </TR>
+              </PT>
+              <PT Id="M-0008_A-1056-01-90FF-O0001_PT-t.5FFunktion.20Dimmen.20stop.20.28inv.29" Name="t_Funktion Dimmen stop (inv)">
+                <TR Base="Value" SizeInBit="16">
+                  <Enumeration Text="TOGGLE / TOGGLE" Value="1543" Id="M-0008_A-1056-01-90FF-O0001_PT-t.5FFunktion.20Dimmen.20stop.20.28inv.29_EN-1543" DisplayOrder="0" />
+                  <Enumeration Text="ON / OFF" Value="1029" Id="M-0008_A-1056-01-90FF-O0001_PT-t.5FFunktion.20Dimmen.20stop.20.28inv.29_EN-1029" DisplayOrder="1" />
+                </TR>
+              </PT>
+              <PT Id="M-0008_A-1056-01-90FF-O0001_PT-t.5FFunktion.20Dimmen.20zykl.20.28inv.29" Name="t_Funktion Dimmen zykl (inv)">
+                <TR Base="Value" SizeInBit="16">
+                  <Enumeration Text="TOGGLE / TOGGLE" Value="2571" Id="M-0008_A-1056-01-90FF-O0001_PT-t.5FFunktion.20Dimmen.20zykl.20.28inv.29_EN-2571" DisplayOrder="0" />
+                  <Enumeration Text="ON / OFF" Value="2057" Id="M-0008_A-1056-01-90FF-O0001_PT-t.5FFunktion.20Dimmen.20zykl.20.28inv.29_EN-2057" DisplayOrder="1" />
+                </TR>
+              </PT>
+              <PT Id="M-0008_A-1056-01-90FF-O0001_PT-t.5FFunktion.20Jalousie.20.28inv.29" Name="t_Funktion Jalousie (inv)">
+                <TR Base="Value" SizeInBit="16">
+                  <Enumeration Text="shutter DOWN / UP" Value="8225" Id="M-0008_A-1056-01-90FF-O0001_PT-t.5FFunktion.20Jalousie.20.28inv.29_EN-8225" DisplayOrder="0" />
+                  <Enumeration Text="shutter UP / DOWN" Value="8480" Id="M-0008_A-1056-01-90FF-O0001_PT-t.5FFunktion.20Jalousie.20.28inv.29_EN-8480" DisplayOrder="1" />
+                </TR>
+              </PT>
+              <PT Id="M-0008_A-1056-01-90FF-O0001_PT-t.5FDimVal.20Stop" Name="t_DimVal Stop">
+                <TR Base="Value" SizeInBit="16">
+                  <Enumeration Text="100 %" Value="2305" Id="M-0008_A-1056-01-90FF-O0001_PT-t.5FDimVal.20Stop_EN-2305" DisplayOrder="1" />
+                </TR>
+              </PT>
+              <PT Id="M-0008_A-1056-01-90FF-O0001_PT-t.5FBetätigungsdauer" Name="t_Betätigungsdauer" InternalDescription="maximale Zeitdauer für einen kurzen Tastendruck">
+                <TR Base="Value" SizeInBit="8">
+                  <Enumeration Text="300 ms" Value="2" Id="M-0008_A-1056-01-90FF-O0001_PT-t.5FBetätigungsdauer_EN-2" DisplayOrder="0" />
+                  <Enumeration Text="400 ms" Value="3" Id="M-0008_A-1056-01-90FF-O0001_PT-t.5FBetätigungsdauer_EN-3" DisplayOrder="1" />
+                  <Enumeration Text="500 ms" Value="4" Id="M-0008_A-1056-01-90FF-O0001_PT-t.5FBetätigungsdauer_EN-4" DisplayOrder="2" />
+                  <Enumeration Text="600 ms" Value="5" Id="M-0008_A-1056-01-90FF-O0001_PT-t.5FBetätigungsdauer_EN-5" DisplayOrder="3" />
+                  <Enumeration Text="800 ms" Value="6" Id="M-0008_A-1056-01-90FF-O0001_PT-t.5FBetätigungsdauer_EN-6" DisplayOrder="4" />
+                  <Enumeration Text="1,0 s" Value="8" Id="M-0008_A-1056-01-90FF-O0001_PT-t.5FBetätigungsdauer_EN-8" DisplayOrder="5" />
+                  <Enumeration Text="1,2 s" Value="9" Id="M-0008_A-1056-01-90FF-O0001_PT-t.5FBetätigungsdauer_EN-9" DisplayOrder="6" />
+                  <Enumeration Text="1,5 s" Value="12" Id="M-0008_A-1056-01-90FF-O0001_PT-t.5FBetätigungsdauer_EN-12" DisplayOrder="7" />
+                  <Enumeration Text="2,0 s" Value="15" Id="M-0008_A-1056-01-90FF-O0001_PT-t.5FBetätigungsdauer_EN-15" DisplayOrder="8" />
+                  <Enumeration Text="2,5 s" Value="19" Id="M-0008_A-1056-01-90FF-O0001_PT-t.5FBetätigungsdauer_EN-19" DisplayOrder="9" />
+                  <Enumeration Text="3,0 s" Value="23" Id="M-0008_A-1056-01-90FF-O0001_PT-t.5FBetätigungsdauer_EN-23" DisplayOrder="10" />
+                  <Enumeration Text="4,0 s" Value="31" Id="M-0008_A-1056-01-90FF-O0001_PT-t.5FBetätigungsdauer_EN-31" DisplayOrder="11" />
+                  <Enumeration Text="5,0 s" Value="38" Id="M-0008_A-1056-01-90FF-O0001_PT-t.5FBetätigungsdauer_EN-38" DisplayOrder="12" />
+                  <Enumeration Text="6,0 s" Value="46" Id="M-0008_A-1056-01-90FF-O0001_PT-t.5FBetätigungsdauer_EN-46" DisplayOrder="13" />
+                  <Enumeration Text="7,0 s" Value="54" Id="M-0008_A-1056-01-90FF-O0001_PT-t.5FBetätigungsdauer_EN-54" DisplayOrder="14" />
+                </TR>
+              </PT>
+              <PT Id="M-0008_A-1056-01-90FF-O0001_PT-t.5FLED.20links.20Schalt.2FJalo" Name="t_LED links Schalt/Jalo">
+                <TR Base="BinaryValue" SizeInBit="40">
+                  <Enumeration Text="always OFF" Value="0" Id="M-0008_A-1056-01-90FF-O0001_PT-t.5FLED.20links.20Schalt.2FJalo_EN-0" DisplayOrder="0" BinaryValue="qgBIqgA=" />
+                  <Enumeration Text="always ON" Value="1" Id="M-0008_A-1056-01-90FF-O0001_PT-t.5FLED.20links.20Schalt.2FJalo_EN-1" DisplayOrder="1" BinaryValue="qgFIqgE=" />
+                  <Enumeration Text="for object 0" Value="2" Id="M-0008_A-1056-01-90FF-O0001_PT-t.5FLED.20links.20Schalt.2FJalo_EN-2" DisplayOrder="2" BinaryValue="utJIutI=" />
+                  <Enumeration Text="for object 1" Value="3" Id="M-0008_A-1056-01-90FF-O0001_PT-t.5FLED.20links.20Schalt.2FJalo_EN-3" DisplayOrder="3" BinaryValue="utNIutM=" />
+                  <Enumeration Text="for object 2" Value="4" Id="M-0008_A-1056-01-90FF-O0001_PT-t.5FLED.20links.20Schalt.2FJalo_EN-4" DisplayOrder="4" BinaryValue="utRIutQ=" />
+                </TR>
+              </PT>
+              <PT Id="M-0008_A-1056-01-90FF-O0001_PT-t.5FDimVal.20zykl" Name="t_DimVal zykl">
+                <TR Base="Value" SizeInBit="16">
+                  <Enumeration Text="100 %" Value="2305" Id="M-0008_A-1056-01-90FF-O0001_PT-t.5FDimVal.20zykl_EN-2305" DisplayOrder="1" />
+                  <Enumeration Text="50 %" Value="2562" Id="M-0008_A-1056-01-90FF-O0001_PT-t.5FDimVal.20zykl_EN-2562" DisplayOrder="2" />
+                  <Enumeration Text="25 %" Value="2819" Id="M-0008_A-1056-01-90FF-O0001_PT-t.5FDimVal.20zykl_EN-2819" DisplayOrder="3" />
+                  <Enumeration Text="12,5 %" Value="3076" Id="M-0008_A-1056-01-90FF-O0001_PT-t.5FDimVal.20zykl_EN-3076" DisplayOrder="4" />
+                  <Enumeration Text="6 %" Value="3333" Id="M-0008_A-1056-01-90FF-O0001_PT-t.5FDimVal.20zykl_EN-3333" DisplayOrder="5" />
+                  <Enumeration Text="3 %" Value="3590" Id="M-0008_A-1056-01-90FF-O0001_PT-t.5FDimVal.20zykl_EN-3590" DisplayOrder="6" />
+                  <Enumeration Text="1,5 %" Value="3847" Id="M-0008_A-1056-01-90FF-O0001_PT-t.5FDimVal.20zykl_EN-3847" DisplayOrder="7" />
+                </TR>
+              </PT>
+              <PT Id="M-0008_A-1056-01-90FF-O0001_PT-t.5FLED.20Darstellung" Name="t_LED Darstellung">
+                <TR Base="Value" SizeInBit="8">
+                  <Enumeration Text="normal" Value="51" Id="M-0008_A-1056-01-90FF-O0001_PT-t.5FLED.20Darstellung_EN-51" DisplayOrder="0" />
+                  <Enumeration Text="inverse" Value="48" Id="M-0008_A-1056-01-90FF-O0001_PT-t.5FLED.20Darstellung_EN-48" DisplayOrder="1" />
+                </TR>
+              </PT>
+              <PT Id="M-0008_A-1056-01-90FF-O0001_PT-t.5FGrundfunktion" Name="t_Grundfunktion">
+                <TR Base="Value" SizeInBit="2">
+                  <Enumeration Text="switching" Value="0" Id="M-0008_A-1056-01-90FF-O0001_PT-t.5FGrundfunktion_EN-0" DisplayOrder="0" />
+                  <Enumeration Text="shutter" Value="1" Id="M-0008_A-1056-01-90FF-O0001_PT-t.5FGrundfunktion_EN-1" DisplayOrder="1" />
+                  <Enumeration Text="dimming with stop telegram" Value="2" Id="M-0008_A-1056-01-90FF-O0001_PT-t.5FGrundfunktion_EN-2" DisplayOrder="2" />
+                  <Enumeration Text="dimming with telegram repetition" Value="3" Id="M-0008_A-1056-01-90FF-O0001_PT-t.5FGrundfunktion_EN-3" DisplayOrder="3" />
+                </TR>
+              </PT>
+            </PTS>
+            <PS>
+              <P Id="M-0008_A-1056-01-90FF-O0001_P-113" Name="Wippe " ParameterType="M-0008_A-1056-01-90FF-O0001_PT-Seitenparmeter" Text="push button" Access="Read" Value="" />
+              <P Id="M-0008_A-1056-01-90FF-O0001_P-183" Name="Einbaulage" ParameterType="M-0008_A-1056-01-90FF-O0001_PT-Seitenparmeter" Text="built-in position (fix first!)" Access="None" Value="" />
+              <P Id="M-0008_A-1056-01-90FF-O0001_P-108" Name="Grund-Funktion der Wippe links" ParameterType="M-0008_A-1056-01-90FF-O0001_PT-t.5FGrundfunktion" Text="function of the push button" Value="0" />
+              <P Id="M-0008_A-1056-01-90FF-O0001_P-184" Name="Einbaulage" ParameterType="M-0008_A-1056-01-90FF-O0001_PT-t.5FEinbaulage" Text="built-in position of push button" Access="None" Value="0" />
+              <U SizeInBit="16">
+                <M CodeSegment="M-0008_A-1056-01-90FF-O0001_AS-0100" Offset="92" BitOffset="0" />
+                <P Id="M-0008_A-1056-01-90FF-O0001_UP-36" Name="Schalten Wippe oben" ParameterType="M-0008_A-1056-01-90FF-O0001_PT-t.5FFunktion.20Schalten" Offset="0" BitOffset="0" Text="command operating rocker top" Value="17" DefaultUnionParameter="true" />
+                <P Id="M-0008_A-1056-01-90FF-O0001_UP-110" Name="Jalousie Wippe " ParameterType="M-0008_A-1056-01-90FF-O0001_PT-t.5FFunktion.20Jalousie" Offset="0" BitOffset="0" Text="command operating rocker" Value="8225" />
+                <P Id="M-0008_A-1056-01-90FF-O0001_UP-128" Name="Dimmen Wippe stop" ParameterType="M-0008_A-1056-01-90FF-O0001_PT-t.5FFunktion.20Dimmen.20stop" Offset="0" BitOffset="0" Text="command operating rocker" Value="1284" />
+                <P Id="M-0008_A-1056-01-90FF-O0001_UP-131" Name="Dimmen Wippe zyklisch" ParameterType="M-0008_A-1056-01-90FF-O0001_PT-t.5FFunktion.20Dimmen.20zykl" Offset="0" BitOffset="0" Text="command operating rocker" Value="2312" />
+                <P Id="M-0008_A-1056-01-90FF-O0001_UP-112" Name="Schalten Wippe unten" ParameterType="M-0008_A-1056-01-90FF-O0001_PT-t.5FFunktion.20Schalten" Offset="1" BitOffset="0" Text="command operating rocker bottom" Value="16" />
+              </U>
+              <U SizeInBit="16">
+                <M CodeSegment="M-0008_A-1056-01-90FF-O0001_AS-0100" Offset="96" BitOffset="0" />
+                <P Id="M-0008_A-1056-01-90FF-O0001_UP-129" Name="DimVal links Stop" ParameterType="M-0008_A-1056-01-90FF-O0001_PT-t.5FDimVal.20Stop" Offset="0" BitOffset="0" Text="dimming brighter / darker by" Access="None" Value="2305" DefaultUnionParameter="true" />
+                <P Id="M-0008_A-1056-01-90FF-O0001_UP-132" Name="DimVal links zykl" ParameterType="M-0008_A-1056-01-90FF-O0001_PT-t.5FDimVal.20zykl" Offset="0" BitOffset="0" Text="dimming brighter / darker by" Value="3076" />
+              </U>
+              <U SizeInBit="40">
+                <M CodeSegment="M-0008_A-1056-01-90FF-O0001_AS-0100" Offset="124" BitOffset="0" />
+                <P Id="M-0008_A-1056-01-90FF-O0001_UP-105" Name="LED Schalten" ParameterType="M-0008_A-1056-01-90FF-O0001_PT-t.5FLED.20links.20Schalt.2FJalo" Offset="0" BitOffset="0" Text="function of the status-LED" Value="0" DefaultUnionParameter="true" />
+                <P Id="M-0008_A-1056-01-90FF-O0001_UP-143" Name="LED Dimmen stop" ParameterType="M-0008_A-1056-01-90FF-O0001_PT-t.5FLED.20links.20Dimmen" Offset="0" BitOffset="0" Text="function of the status-LED" Value="0" />
+              </U>
+              <P Id="M-0008_A-1056-01-90FF-O0001_P-107" Name="LED-Darstellung" ParameterType="M-0008_A-1056-01-90FF-O0001_PT-t.5FLED.20Darstellung" Text="status LED representation" Value="51">
+                <M CodeSegment="M-0008_A-1056-01-90FF-O0001_AS-0100" Offset="130" BitOffset="0" />
+              </P>
+              <P Id="M-0008_A-1056-01-90FF-O0001_P-140" Name="Kurzer Wippendruck" ParameterType="M-0008_A-1056-01-90FF-O0001_PT-t.5FBetätigungsdauer" Text="time between step and move" Value="4">
+                <M CodeSegment="M-0008_A-1056-01-90FF-O0001_AS-0100" Offset="165" BitOffset="0" />
+              </P>
+              <P Id="M-0008_A-1056-01-90FF-O0001_P-141" Name="Zykl. Senden" ParameterType="M-0008_A-1056-01-90FF-O0001_PT-t.5FZykl.5FSend" Text="time between two telegrams" Value="4">
+                <M CodeSegment="M-0008_A-1056-01-90FF-O0001_AS-0100" Offset="195" BitOffset="0" />
+              </P>
+            </PS>
+            <PRS>
+              <PR Id="M-0008_A-1056-01-90FF-O0001_P-183_R-183" RefId="M-0008_A-1056-01-90FF-O0001_P-183" Tag="183" DisplayOrder="1" />
+              <PR Id="M-0008_A-1056-01-90FF-O0001_P-184_R-184" RefId="M-0008_A-1056-01-90FF-O0001_P-184" Tag="184" DisplayOrder="2" />
+              <PR Id="M-0008_A-1056-01-90FF-O0001_P-113_R-113" RefId="M-0008_A-1056-01-90FF-O0001_P-113" Tag="113" DisplayOrder="20" />
+              <PR Id="M-0008_A-1056-01-90FF-O0001_P-108_R-108" RefId="M-0008_A-1056-01-90FF-O0001_P-108" Tag="108" DisplayOrder="21" />
+              <PR Id="M-0008_A-1056-01-90FF-O0001_UP-36_R-36" RefId="M-0008_A-1056-01-90FF-O0001_UP-36" Tag="36" DisplayOrder="22" />
+              <PR Id="M-0008_A-1056-01-90FF-O0001_UP-112_R-112" RefId="M-0008_A-1056-01-90FF-O0001_UP-112" Tag="112" DisplayOrder="24" />
+              <PR Id="M-0008_A-1056-01-90FF-O0001_UP-110_R-110" RefId="M-0008_A-1056-01-90FF-O0001_UP-110" Tag="110" DisplayOrder="26" />
+              <PR Id="M-0008_A-1056-01-90FF-O0001_UP-128_R-128" RefId="M-0008_A-1056-01-90FF-O0001_UP-128" Tag="128" DisplayOrder="28" />
+              <PR Id="M-0008_A-1056-01-90FF-O0001_UP-131_R-131" RefId="M-0008_A-1056-01-90FF-O0001_UP-131" Tag="131" DisplayOrder="28" />
+              <PR Id="M-0008_A-1056-01-90FF-O0001_UP-129_R-129" RefId="M-0008_A-1056-01-90FF-O0001_UP-129" Tag="129" DisplayOrder="29" />
+              <PR Id="M-0008_A-1056-01-90FF-O0001_UP-129_R-130" RefId="M-0008_A-1056-01-90FF-O0001_UP-129" Tag="130" DisplayOrder="29" />
+              <PR Id="M-0008_A-1056-01-90FF-O0001_UP-132_R-132" RefId="M-0008_A-1056-01-90FF-O0001_UP-132" Tag="132" DisplayOrder="29" />
+              <PR Id="M-0008_A-1056-01-90FF-O0001_UP-132_R-133" RefId="M-0008_A-1056-01-90FF-O0001_UP-132" Tag="133" DisplayOrder="29" />
+              <PR Id="M-0008_A-1056-01-90FF-O0001_P-140_R-140" RefId="M-0008_A-1056-01-90FF-O0001_P-140" Tag="140" DisplayOrder="32" />
+              <PR Id="M-0008_A-1056-01-90FF-O0001_P-140_R-148" RefId="M-0008_A-1056-01-90FF-O0001_P-140" Text="time between switching and dimming" Tag="148" DisplayOrder="32" />
+              <PR Id="M-0008_A-1056-01-90FF-O0001_P-140_R-149" RefId="M-0008_A-1056-01-90FF-O0001_P-140" Text="time between switching and dimming" Tag="149" DisplayOrder="32" />
+              <PR Id="M-0008_A-1056-01-90FF-O0001_P-141_R-141" RefId="M-0008_A-1056-01-90FF-O0001_P-141" Tag="141" DisplayOrder="33" />
+              <PR Id="M-0008_A-1056-01-90FF-O0001_UP-105_R-105" RefId="M-0008_A-1056-01-90FF-O0001_UP-105" Tag="105" DisplayOrder="34" />
+              <PR Id="M-0008_A-1056-01-90FF-O0001_UP-105_R-142" RefId="M-0008_A-1056-01-90FF-O0001_UP-105" Name="LED Jalousie" Tag="142" DisplayOrder="34" />
+              <PR Id="M-0008_A-1056-01-90FF-O0001_UP-143_R-143" RefId="M-0008_A-1056-01-90FF-O0001_UP-143" Tag="143" DisplayOrder="34" />
+              <PR Id="M-0008_A-1056-01-90FF-O0001_UP-143_R-144" RefId="M-0008_A-1056-01-90FF-O0001_UP-143" Name="LED Dimmen zykl" Tag="144" DisplayOrder="34" />
+              <PR Id="M-0008_A-1056-01-90FF-O0001_P-107_R-107" RefId="M-0008_A-1056-01-90FF-O0001_P-107" Tag="107" DisplayOrder="36" />
+            </PRS>
+            <COT CodeSegment="M-0008_A-1056-01-90FF-O0001_AS-0100" Offset="78">
+              <CO Id="M-0008_A-1056-01-90FF-O0001_O-0" Name="push button top" Text="push button top" Number="0" FunctionText="switching" ObjectSize="1 Bit" ReadFlag="Disabled" WriteFlag="Enabled" CommunicationFlag="Enabled" TransmitFlag="Enabled" UpdateFlag="Disabled" ReadOnInitFlag="Disabled" />
+              <CO Id="M-0008_A-1056-01-90FF-O0001_O-1" Name="push button below" Text="push button below" Number="1" FunctionText="switching" ObjectSize="4 Bit" ReadFlag="Disabled" WriteFlag="Enabled" CommunicationFlag="Enabled" TransmitFlag="Enabled" UpdateFlag="Disabled" ReadOnInitFlag="Disabled" />
+              <CO Id="M-0008_A-1056-01-90FF-O0001_O-2" Name="status LED" Text="status LED" Number="2" FunctionText="LED-triggering" ObjectSize="1 Bit" ReadFlag="Disabled" WriteFlag="Enabled" CommunicationFlag="Enabled" TransmitFlag="Enabled" UpdateFlag="Disabled" ReadOnInitFlag="Disabled" />
+            </COT>
+            <CORS>
+              <COR Id="M-0008_A-1056-01-90FF-O0001_O-0_R-1" RefId="M-0008_A-1056-01-90FF-O0001_O-0" Tag="1" />
+              <COR Id="M-0008_A-1056-01-90FF-O0001_O-0_R-29" RefId="M-0008_A-1056-01-90FF-O0001_O-0" Text="push button" Tag="29" FunctionText="step modus" />
+              <COR Id="M-0008_A-1056-01-90FF-O0001_O-0_R-38" RefId="M-0008_A-1056-01-90FF-O0001_O-0" Text="push button" Tag="38" />
+              <COR Id="M-0008_A-1056-01-90FF-O0001_O-0_R-42" RefId="M-0008_A-1056-01-90FF-O0001_O-0" Text="push button" Tag="42" />
+              <COR Id="M-0008_A-1056-01-90FF-O0001_O-1_R-11" RefId="M-0008_A-1056-01-90FF-O0001_O-1" Tag="11" ObjectSize="1 Bit" />
+              <COR Id="M-0008_A-1056-01-90FF-O0001_O-1_R-30" RefId="M-0008_A-1056-01-90FF-O0001_O-1" Text="push button" Tag="30" FunctionText="move modus" ObjectSize="1 Bit" />
+              <COR Id="M-0008_A-1056-01-90FF-O0001_O-1_R-39" RefId="M-0008_A-1056-01-90FF-O0001_O-1" Text="push button" Tag="39" FunctionText="dimming" />
+              <COR Id="M-0008_A-1056-01-90FF-O0001_O-1_R-44" RefId="M-0008_A-1056-01-90FF-O0001_O-1" Text="push button" Tag="44" FunctionText="dimming" />
+              <COR Id="M-0008_A-1056-01-90FF-O0001_O-2_R-31" RefId="M-0008_A-1056-01-90FF-O0001_O-2" Tag="31" />
+              <COR Id="M-0008_A-1056-01-90FF-O0001_O-2_R-46" RefId="M-0008_A-1056-01-90FF-O0001_O-2" Tag="46" />
+              <COR Id="M-0008_A-1056-01-90FF-O0001_O-2_R-47" RefId="M-0008_A-1056-01-90FF-O0001_O-2" Tag="47" />
+              <COR Id="M-0008_A-1056-01-90FF-O0001_O-2_R-48" RefId="M-0008_A-1056-01-90FF-O0001_O-2" Tag="48" />
+            </CORS>
+            <ADRT CodeSegment="M-0008_A-1056-01-90FF-O0001_AS-0100" Offset="22" MaxEntries="4" />
+            <ASSOT CodeSegment="M-0008_A-1056-01-90FF-O0001_AS-0100" Offset="47" MaxEntries="4" />
+            <FL>
+              <F FunctionRef="MV-0012_ME-U.5Fdeb30" CodeSegment="M-0008_A-1056-01-90FF-O0001_AS-0100">
+                <Off>151</Off>
+              </F>
+              <F FunctionRef="MV-0012_ME-U.5FGetTMx" CodeSegment="M-0008_A-1056-01-90FF-O0001_AS-0100">
+                <Off>180</Off>
+              </F>
+              <F FunctionRef="MV-0012_ME-U.5FioAST" CodeSegment="M-0008_A-1056-01-90FF-O0001_AS-0100">
+                <Off>132</Off>
+              </F>
+              <F FunctionRef="MV-0012_ME-U.5FreadAD" CodeSegment="M-0008_A-1056-01-90FF-O0001_AS-0100">
+                <Off>243</Off>
+              </F>
+              <F FunctionRef="MV-0012_ME-U.5FtransRequest" CodeSegment="M-0008_A-1056-01-90FF-O0001_AS-0100">
+                <Off>225</Off>
+              </F>
+            </FL>
+            <Opt />
+          </St>
+          <Dynamic>
+            <Channel Name="Generic" Text="" Number="0" Id="M-0008_A-1056-01-90FF-O0001_CH-0">
+              <ParameterBlock Id="M-0008_A-1056-01-90FF-O0001_PB-183" Name="Einbaulage" Access="None" ParamRefId="M-0008_A-1056-01-90FF-O0001_P-183_R-183">
+                <choose ParamRefId="M-0008_A-1056-01-90FF-O0001_P-183_R-183">
+                  <when default="true">
+                    <ParameterRefRef RefId="M-0008_A-1056-01-90FF-O0001_P-184_R-184" />
+                  </when>
+                </choose>
+              </ParameterBlock>
+              <choose ParamRefId="M-0008_A-1056-01-90FF-O0001_P-183_R-183">
+                <when default="true">
+                  <choose ParamRefId="M-0008_A-1056-01-90FF-O0001_P-184_R-184">
+                    <when test="0">
+                      <ParameterBlock Id="M-0008_A-1056-01-90FF-O0001_PB-113" Name="Wippe " Access="Read" ParamRefId="M-0008_A-1056-01-90FF-O0001_P-113_R-113">
+                        <choose ParamRefId="M-0008_A-1056-01-90FF-O0001_P-113_R-113">
+                          <when default="true">
+                            <ParameterRefRef RefId="M-0008_A-1056-01-90FF-O0001_P-108_R-108" />
+                            <choose ParamRefId="M-0008_A-1056-01-90FF-O0001_P-108_R-108">
+                              <when test="0">
+                                <ComObjectRefRef RefId="M-0008_A-1056-01-90FF-O0001_O-0_R-1" />
+                                <ComObjectRefRef RefId="M-0008_A-1056-01-90FF-O0001_O-1_R-11" />
+                                <ParameterRefRef RefId="M-0008_A-1056-01-90FF-O0001_UP-36_R-36" />
+                                <ParameterRefRef RefId="M-0008_A-1056-01-90FF-O0001_UP-112_R-112" />
+                                <ParameterRefRef RefId="M-0008_A-1056-01-90FF-O0001_UP-105_R-105" />
+                                <choose ParamRefId="M-0008_A-1056-01-90FF-O0001_UP-105_R-105">
+                                  <when test="4">
+                                    <ComObjectRefRef RefId="M-0008_A-1056-01-90FF-O0001_O-2_R-31" />
+                                  </when>
+                                </choose>
+                              </when>
+                              <when test="1">
+                                <ComObjectRefRef RefId="M-0008_A-1056-01-90FF-O0001_O-0_R-29" />
+                                <ComObjectRefRef RefId="M-0008_A-1056-01-90FF-O0001_O-1_R-30" />
+                                <ParameterRefRef RefId="M-0008_A-1056-01-90FF-O0001_UP-110_R-110" />
+                                <ParameterRefRef RefId="M-0008_A-1056-01-90FF-O0001_P-140_R-140" />
+                                <ParameterRefRef RefId="M-0008_A-1056-01-90FF-O0001_UP-105_R-142" />
+                                <choose ParamRefId="M-0008_A-1056-01-90FF-O0001_UP-105_R-142">
+                                  <when test="4">
+                                    <ComObjectRefRef RefId="M-0008_A-1056-01-90FF-O0001_O-2_R-46" />
+                                  </when>
+                                </choose>
+                              </when>
+                              <when test="2">
+                                <ComObjectRefRef RefId="M-0008_A-1056-01-90FF-O0001_O-0_R-38" />
+                                <ComObjectRefRef RefId="M-0008_A-1056-01-90FF-O0001_O-1_R-39" />
+                                <ParameterRefRef RefId="M-0008_A-1056-01-90FF-O0001_UP-128_R-128" />
+                                <choose ParamRefId="M-0008_A-1056-01-90FF-O0001_UP-128_R-128">
+                                  <when test="1798">
+                                    <ParameterRefRef RefId="M-0008_A-1056-01-90FF-O0001_UP-129_R-129" />
+                                  </when>
+                                  <when test="1284">
+                                    <ParameterRefRef RefId="M-0008_A-1056-01-90FF-O0001_UP-129_R-130" />
+                                  </when>
+                                </choose>
+                                <ParameterRefRef RefId="M-0008_A-1056-01-90FF-O0001_P-140_R-148" />
+                                <ParameterRefRef RefId="M-0008_A-1056-01-90FF-O0001_UP-143_R-143" />
+                                <choose ParamRefId="M-0008_A-1056-01-90FF-O0001_UP-143_R-143">
+                                  <when test="4">
+                                    <ComObjectRefRef RefId="M-0008_A-1056-01-90FF-O0001_O-2_R-47" />
+                                  </when>
+                                </choose>
+                              </when>
+                              <when test="3">
+                                <ComObjectRefRef RefId="M-0008_A-1056-01-90FF-O0001_O-0_R-42" />
+                                <ComObjectRefRef RefId="M-0008_A-1056-01-90FF-O0001_O-1_R-44" />
+                                <ParameterRefRef RefId="M-0008_A-1056-01-90FF-O0001_UP-131_R-131" />
+                                <choose ParamRefId="M-0008_A-1056-01-90FF-O0001_UP-131_R-131">
+                                  <when test="2826">
+                                    <ParameterRefRef RefId="M-0008_A-1056-01-90FF-O0001_UP-132_R-132" />
+                                  </when>
+                                  <when test="2312">
+                                    <ParameterRefRef RefId="M-0008_A-1056-01-90FF-O0001_UP-132_R-133" />
+                                  </when>
+                                </choose>
+                                <ParameterRefRef RefId="M-0008_A-1056-01-90FF-O0001_P-140_R-149" />
+                                <ParameterRefRef RefId="M-0008_A-1056-01-90FF-O0001_P-141_R-141" />
+                                <ParameterRefRef RefId="M-0008_A-1056-01-90FF-O0001_UP-143_R-144" />
+                                <choose ParamRefId="M-0008_A-1056-01-90FF-O0001_UP-143_R-144">
+                                  <when test="4">
+                                    <ComObjectRefRef RefId="M-0008_A-1056-01-90FF-O0001_O-2_R-48" />
+                                  </when>
+                                </choose>
+                              </when>
+                            </choose>
+                            <choose ParamRefId="M-0008_A-1056-01-90FF-O0001_P-108_R-108">
+                              <when default="true">
+                                <ParameterRefRef RefId="M-0008_A-1056-01-90FF-O0001_P-107_R-107" />
+                              </when>
+                            </choose>
+                          </when>
+                        </choose>
+                      </ParameterBlock>
+                    </when>
+                  </choose>
+                </when>
+              </choose>
+            </Channel>
+          </Dynamic>
+        </AP>
+      </APS>
+    </Manufacturer>
+  </ManufacturerData>
+</KNX>

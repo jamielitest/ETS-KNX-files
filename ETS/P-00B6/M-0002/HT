@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LS>
+  <L Identifier="it-IT">
+    <TU RefId="M-0002_H-2CDG.20110.20137.20R0011-1_P-2CDG.20110.20137.20R0011">
+      <TE RefId="M-0002_H-2CDG.20110.20137.20R0011-1_P-2CDG.20110.20137.20R0011">
+        <T AttributeName="Text" Text="SA/S12.16.5.1 Terminale di uscita,12can.,16A,MDRC" />
+      </TE>
+    </TU>
+  </L>
+  <L Identifier="fr-FR">
+    <TU RefId="M-0002_H-2CDG.20110.20137.20R0011-1_P-2CDG.20110.20137.20R0011">
+      <TE RefId="M-0002_H-2CDG.20110.20137.20R0011-1_P-2CDG.20110.20137.20R0011">
+        <T AttributeName="Text" Text="SA/S12.16.5.1 Module 12sorties TOR,16A,MRD" />
+      </TE>
+    </TU>
+  </L>
+  <L Identifier="es-ES">
+    <TU RefId="M-0002_H-2CDG.20110.20137.20R0011-1_P-2CDG.20110.20137.20R0011">
+      <TE RefId="M-0002_H-2CDG.20110.20137.20R0011-1_P-2CDG.20110.20137.20R0011">
+        <T AttributeName="Text" Text="SA/S12.16.5.1 Actuador interr.,12c.,16A,MDRC" />
+      </TE>
+    </TU>
+  </L>
+  <L Identifier="nl-NL">
+    <TU RefId="M-0002_H-2CDG.20110.20137.20R0011-1_P-2CDG.20110.20137.20R0011">
+      <TE RefId="M-0002_H-2CDG.20110.20137.20R0011-1_P-2CDG.20110.20137.20R0011">
+        <T AttributeName="Text" Text="SA/S12.16.5.1 Schakelaktor,12-voudig,16A,DIN-rail" />
+      </TE>
+    </TU>
+  </L>
+  <L Identifier="de-DE">
+    <TU RefId="M-0002_H-2CDG.20110.20137.20R0011-1_P-2CDG.20110.20137.20R0011">
+      <TE RefId="M-0002_H-2CDG.20110.20137.20R0011-1_P-2CDG.20110.20137.20R0011">
+        <T AttributeName="Text" Text="SA/S12.16.5.1 Schaltaktor,12fach,16A,REG" />
+      </TE>
+    </TU>
+  </L>
+  <L Identifier="en-US">
+    <TU RefId="M-0002_H-2CDG.20110.20137.20R0011-1_P-2CDG.20110.20137.20R0011">
+      <TE RefId="M-0002_H-2CDG.20110.20137.20R0011-1_P-2CDG.20110.20137.20R0011">
+        <T AttributeName="Text" Text="SA/S12.16.5.1 Switch Actuator,12-fold,16A,MDRC" />
+        <T AttributeName="VisibleDescription" Text="&#xD;&#xA;        " />
+      </TE>
+      <TE RefId="M-0002_H-2CDG.20110.20137.20R0011-1_P-2CDG.20110.20137.20R0011_AT-Colour">
+        <T AttributeName="Value" Text="&#xD;&#xA;        " />
+      </TE>
+      <TE RefId="M-0002_H-2CDG.20110.20137.20R0011-1_P-2CDG.20110.20137.20R0011_AT-Series">
+        <T AttributeName="Value" Text="&#xD;&#xA;        " />
+      </TE>
+      <TE RefId="M-0002_H-2CDG.20110.20137.20R0011-1_P-2CDG.20110.20137.20R0011_AT-CatalogName">
+        <T AttributeName="Value" Text="&#xD;&#xA;        " />
+      </TE>
+    </TU>
+  </L>
+  <L Identifier="ru-RU">
+    <TU RefId="M-0002_H-2CDG.20110.20137.20R0011-1_P-2CDG.20110.20137.20R0011">
+      <TE RefId="M-0002_H-2CDG.20110.20137.20R0011-1_P-2CDG.20110.20137.20R0011">
+        <T AttributeName="Text" Text="SA/S12.16.5.1 Активатор,12-кан.,16A,MDRC" />
+      </TE>
+    </TU>
+  </L>
+  <L Identifier="pl-PL">
+    <TU RefId="M-0002_H-2CDG.20110.20137.20R0011-1_P-2CDG.20110.20137.20R0011">
+      <TE RefId="M-0002_H-2CDG.20110.20137.20R0011-1_P-2CDG.20110.20137.20R0011">
+        <T AttributeName="Text" Text="SA/S12.16.5.1 wyjście binarne,12 kanałowe,16A,MDRC" />
+      </TE>
+    </TU>
+  </L>
+</LS>

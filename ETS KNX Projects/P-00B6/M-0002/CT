@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LS>
+  <L Identifier="en">
+    <TU RefId="M-0002_CS-OU">
+      <TE RefId="M-0002_CS-OU">
+        <T AttributeName="Name" Text="Output" />
+      </TE>
+    </TU>
+  </L>
+  <L Identifier="de-DE">
+    <TU RefId="M-0002_CS-OU">
+      <TE RefId="M-0002_CS-OU">
+        <T AttributeName="Name" Text="Ausgabe" />
+      </TE>
+    </TU>
+    <TU RefId="M-0002_CS-OU-B12">
+      <TE RefId="M-0002_CS-OU-B12">
+        <T AttributeName="Name" Text="Binärausgang, 12-fach" />
+      </TE>
+    </TU>
+    <TU RefId="M-0002_H-2CDG.20110.20137.20R0011-1_HP-A06C-32-D64B_CI-2CDG.20110.20137.20R0011-1">
+      <TE RefId="M-0002_H-2CDG.20110.20137.20R0011-1_HP-A06C-32-D64B_CI-2CDG.20110.20137.20R0011-1">
+        <T AttributeName="Name" Text="SA/S12.16.5.1 Schaltaktor,12fach,16A,REG" />
+        <T AttributeName="VisibleDescription" Text="Schalten 12f 16C/3.2c" />
+      </TE>
+    </TU>
+  </L>
+  <L Identifier="pl-PL">
+    <TU RefId="M-0002_CS-OU">
+      <TE RefId="M-0002_CS-OU">
+        <T AttributeName="Name" Text="Wyjście" />
+      </TE>
+    </TU>
+    <TU RefId="M-0002_CS-OU-B12">
+      <TE RefId="M-0002_CS-OU-B12">
+        <T AttributeName="Name" Text="Wyjście binarne, 12-ne" />
+      </TE>
+    </TU>
+    <TU RefId="M-0002_H-2CDG.20110.20137.20R0011-1_HP-A06C-32-D64B_CI-2CDG.20110.20137.20R0011-1">
+      <TE RefId="M-0002_H-2CDG.20110.20137.20R0011-1_HP-A06C-32-D64B_CI-2CDG.20110.20137.20R0011-1">
+        <T AttributeName="Name" Text="SA/S12.16.5.1 wyjście binarne,12 kanałowe,16A,MDRC" />
+        <T AttributeName="VisibleDescription" Text="Przełącz 12f 16C/3.2c" />
+      </TE>
+    </TU>
+  </L>
+  <L Identifier="it-IT">
+    <TU RefId="M-0002_CS-OU">
+      <TE RefId="M-0002_CS-OU">
+        <T AttributeName="Name" Text="Output" />
+      </TE>
+    </TU>
+    <TU RefId="M-0002_CS-OU-B12">
+      <TE RefId="M-0002_CS-OU-B12">
+        <T AttributeName="Name" Text="Terminale di uscita binario,12canali" />
+      </TE>
+    </TU>
+    <TU RefId="M-0002_H-2CDG.20110.20137.20R0011-1_HP-A06C-32-D64B_CI-2CDG.20110.20137.20R0011-1">
+      <TE RefId="M-0002_H-2CDG.20110.20137.20R0011-1_HP-A06C-32-D64B_CI-2CDG.20110.20137.20R0011-1">
+        <T AttributeName="Name" Text="SA/S12.16.5.1 Terminale di uscita,12can.,16A,MDRC" />
+        <T AttributeName="VisibleDescription" Text="Commut. 12canali 16C/3.2c" />
+      </TE>
+    </TU>
+  </L>
+  <L Identifier="ru-RU">
+    <TU RefId="M-0002_CS-OU">
+      <TE RefId="M-0002_CS-OU">
+        <T AttributeName="Name" Text="Вывод" />
+      </TE>
+    </TU>
+    <TU RefId="M-0002_CS-OU-B12">
+      <TE RefId="M-0002_CS-OU-B12">
+        <T AttributeName="Name" Text="Бинарный выход, 12-канальный" />
+      </TE>
+    </TU>
+    <TU RefId="M-0002_H-2CDG.20110.20137.20R0011-1_HP-A06C-32-D64B_CI-2CDG.20110.20137.20R0011-1">
+      <TE RefId="M-0002_H-2CDG.20110.20137.20R0011-1_HP-A06C-32-D64B_CI-2CDG.20110.20137.20R0011-1">
+        <T AttributeName="Name" Text="SA/S12.16.5.1 Активатор,12-кан.,16A,MDRC" />
+        <T AttributeName="VisibleDescription" Text="Переключение 12-кан. 16C/3.2c" />
+      </TE>
+    </TU>
+  </L>
+  <L Identifier="en-US">
+    <TU RefId="M-0002_CS-OU">
+      <TE RefId="M-0002_CS-OU">
+        <T AttributeName="Name" Text="Output" />
+        <T AttributeName="VisibleDescription" Text="&#xD;&#xA;        " />
+      </TE>
+    </TU>
+    <TU RefId="M-0002_CS-OU-B12">
+      <TE RefId="M-0002_CS-OU-B12">
+        <T AttributeName="Name" Text="Binary output, 12-fold" />
+        <T AttributeName="VisibleDescription" Text="&#xD;&#xA;        " />
+      </TE>
+    </TU>
+    <TU RefId="M-0002_H-2CDG.20110.20137.20R0011-1_HP-A06C-32-D64B_CI-2CDG.20110.20137.20R0011-1">
+      <TE RefId="M-0002_H-2CDG.20110.20137.20R0011-1_HP-A06C-32-D64B_CI-2CDG.20110.20137.20R0011-1">
+        <T AttributeName="Name" Text="SA/S12.16.5.1 Switch Actuator,12-fold,16A,MDRC" />
+        <T AttributeName="VisibleDescription" Text="Switch 12f 16C/3.2c" />
+      </TE>
+    </TU>
+  </L>
+  <L Identifier="fr-FR">
+    <TU RefId="M-0002_CS-OU">
+      <TE RefId="M-0002_CS-OU">
+        <T AttributeName="Name" Text="Sortie" />
+      </TE>
+    </TU>
+    <TU RefId="M-0002_CS-OU-B12">
+      <TE RefId="M-0002_CS-OU-B12">
+        <T AttributeName="Name" Text="Sortie binaire,12sorties " />
+      </TE>
+    </TU>
+    <TU RefId="M-0002_H-2CDG.20110.20137.20R0011-1_HP-A06C-32-D64B_CI-2CDG.20110.20137.20R0011-1">
+      <TE RefId="M-0002_H-2CDG.20110.20137.20R0011-1_HP-A06C-32-D64B_CI-2CDG.20110.20137.20R0011-1">
+        <T AttributeName="Name" Text="SA/S12.16.5.1 Module 12sorties TOR,16A,MRD" />
+        <T AttributeName="VisibleDescription" Text="Commutation 12sorties 16 C/3.2c" />
+      </TE>
+    </TU>
+  </L>
+  <L Identifier="es-ES">
+    <TU RefId="M-0002_CS-OU">
+      <TE RefId="M-0002_CS-OU">
+        <T AttributeName="Name" Text="Salida" />
+      </TE>
+    </TU>
+    <TU RefId="M-0002_CS-OU-B12">
+      <TE RefId="M-0002_CS-OU-B12">
+        <T AttributeName="Name" Text="Salida binaria,12canales" />
+      </TE>
+    </TU>
+    <TU RefId="M-0002_H-2CDG.20110.20137.20R0011-1_HP-A06C-32-D64B_CI-2CDG.20110.20137.20R0011-1">
+      <TE RefId="M-0002_H-2CDG.20110.20137.20R0011-1_HP-A06C-32-D64B_CI-2CDG.20110.20137.20R0011-1">
+        <T AttributeName="Name" Text="SA/S12.16.5.1 Actuador interr.,12c.,16A,MDRC" />
+        <T AttributeName="VisibleDescription" Text="Conmutación 12canales 16C/3.2c" />
+      </TE>
+    </TU>
+  </L>
+  <L Identifier="nl-NL">
+    <TU RefId="M-0002_CS-OU">
+      <TE RefId="M-0002_CS-OU">
+        <T AttributeName="Name" Text="Output" />
+      </TE>
+    </TU>
+    <TU RefId="M-0002_CS-OU-B12">
+      <TE RefId="M-0002_CS-OU-B12">
+        <T AttributeName="Name" Text="Binaire uitgang, 12-voudig" />
+      </TE>
+    </TU>
+    <TU RefId="M-0002_H-2CDG.20110.20137.20R0011-1_HP-A06C-32-D64B_CI-2CDG.20110.20137.20R0011-1">
+      <TE RefId="M-0002_H-2CDG.20110.20137.20R0011-1_HP-A06C-32-D64B_CI-2CDG.20110.20137.20R0011-1">
+        <T AttributeName="Name" Text="SA/S12.16.5.1 Schakelaktor,12-voudig,16A,DIN-rail" />
+        <T AttributeName="VisibleDescription" Text="Schakelen 12f 16C/3.2c" />
+      </TE>
+    </TU>
+  </L>
+</LS>

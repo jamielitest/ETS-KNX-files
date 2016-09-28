@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LS>
+  <L Identifier="nl-NL">
+    <TU RefId="M-0048_H-4969204-1_P-4969204">
+      <TE RefId="M-0048_H-4969204-1_P-4969204">
+        <T AttributeName="Text" Text="TA 4 (4-voudige binaire ingang/uitvoer)" />
+      </TE>
+    </TU>
+    <TU RefId="M-0048_H-4969202-1_P-4969202">
+      <TE RefId="M-0048_H-4969202-1_P-4969202">
+        <T AttributeName="Text" Text="TA 2 (2-voudige binaire ingang/uitvoer)" />
+      </TE>
+    </TU>
+  </L>
+  <L Identifier="it-IT">
+    <TU RefId="M-0048_H-4969204-1_P-4969204">
+      <TE RefId="M-0048_H-4969204-1_P-4969204">
+        <T AttributeName="Text" Text="TA 4 (4 x ingresso/uscita binari)" />
+      </TE>
+    </TU>
+    <TU RefId="M-0048_H-4969202-1_P-4969202">
+      <TE RefId="M-0048_H-4969202-1_P-4969202">
+        <T AttributeName="Text" Text="TA 2  (2 x ingresso/uscita binari)" />
+      </TE>
+    </TU>
+  </L>
+  <L Identifier="fr-FR">
+    <TU RefId="M-0048_H-4969204-1_P-4969204">
+      <TE RefId="M-0048_H-4969204-1_P-4969204">
+        <T AttributeName="Text" Text="TA 4  (avec entrée/sortie binaire 4 canaux)" />
+      </TE>
+    </TU>
+    <TU RefId="M-0048_H-4969202-1_P-4969202">
+      <TE RefId="M-0048_H-4969202-1_P-4969202">
+        <T AttributeName="Text" Text="TA 2 (avec entrée/sortie binaire 2 canaux)" />
+      </TE>
+    </TU>
+  </L>
+  <L Identifier="es-ES">
+    <TU RefId="M-0048_H-4969204-1_P-4969204">
+      <TE RefId="M-0048_H-4969204-1_P-4969204">
+        <T AttributeName="Text" Text="TA 4 (6 entradas/salidas binarias)" />
+      </TE>
+    </TU>
+    <TU RefId="M-0048_H-4969202-1_P-4969202">
+      <TE RefId="M-0048_H-4969202-1_P-4969202">
+        <T AttributeName="Text" Text="TA 2 (2 entradas/salidas binarias)" />
+      </TE>
+    </TU>
+  </L>
+  <L Identifier="de-DE">
+    <TU RefId="M-0048_H-4969204-1_P-4969204">
+      <TE RefId="M-0048_H-4969204-1_P-4969204">
+        <T AttributeName="Text" Text="TA 4  (4 fach Binäreingang-/ausgabe)" />
+      </TE>
+    </TU>
+    <TU RefId="M-0048_H-4969202-1_P-4969202">
+      <TE RefId="M-0048_H-4969202-1_P-4969202">
+        <T AttributeName="Text" Text="TA 2  (2 fach Binäreingang-/ausgabe)" />
+      </TE>
+    </TU>
+  </L>
+  <L Identifier="en-US">
+    <TU RefId="M-0048_H-4969204-1_P-4969204">
+      <TE RefId="M-0048_H-4969204-1_P-4969204">
+        <T AttributeName="Text" Text="TA 4  (4-fold Binary input/output)" />
+      </TE>
+    </TU>
+    <TU RefId="M-0048_H-4969202-1_P-4969202">
+      <TE RefId="M-0048_H-4969202-1_P-4969202">
+        <T AttributeName="Text" Text="TA 2  (2-fold Binary input/output)" />
+      </TE>
+    </TU>
+  </L>
+</LS>

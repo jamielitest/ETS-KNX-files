@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LS>
+  <L Identifier="de-DE">
+    <TU RefId="M-0008_CS-PB">
+      <TE RefId="M-0008_CS-PB">
+        <T AttributeName="Name" Text="Taster" />
+      </TE>
+    </TU>
+    <TU RefId="M-0008_CS-PB-P1">
+      <TE RefId="M-0008_CS-PB-P1">
+        <T AttributeName="Name" Text="Taster, 1fach" />
+      </TE>
+    </TU>
+    <TU RefId="M-0008_H-8.20.2F.2F.2018400-1-O0001_HP-1056-01-90FF-O0001_CI-184.2000-1">
+      <TE RefId="M-0008_H-8.20.2F.2F.2018400-1-O0001_HP-1056-01-90FF-O0001_CI-184.2000-1">
+        <T AttributeName="Name" Text="Taster-Busankoppler 1fach mit Zweipunktbedienung" />
+        <T AttributeName="VisibleDescription" Text="184 00, Schalten, Dimmen, Jalousie 105601" />
+      </TE>
+    </TU>
+    <TU RefId="M-0008_CS-PS">
+      <TE RefId="M-0008_CS-PS">
+        <T AttributeName="Name" Text="Phys. Sensoren" />
+      </TE>
+    </TU>
+    <TU RefId="M-0008_CS-PS-TS">
+      <TE RefId="M-0008_CS-PS-TS">
+        <T AttributeName="Name" Text="Temperatur" />
+      </TE>
+    </TU>
+    <TU RefId="M-0008_H-8.20.2F.2F.20577.20xx-1_HP-700C-12-7011_CI-577.20xx-1">
+      <TE RefId="M-0008_H-8.20.2F.2F.20577.20xx-1_HP-700C-12-7011_CI-577.20xx-1">
+        <T AttributeName="Name" Text="Temperatursensor UP" />
+        <T AttributeName="VisibleDescription" Text="577 xx, Temperatursensor 700C12" />
+      </TE>
+    </TU>
+    <TU RefId="M-0008_CS-HE">
+      <TE RefId="M-0008_CS-HE">
+        <T AttributeName="Name" Text="Heizung, Klima, Lüftung" />
+      </TE>
+    </TU>
+    <TU RefId="M-0008_CS-HE-RE">
+      <TE RefId="M-0008_CS-HE-RE">
+        <T AttributeName="Name" Text="Regler" />
+      </TE>
+    </TU>
+    <TU RefId="M-0008_H-8.20.2F.2F.202104.20xx-1-O00F4_HP-7062-11-148E-O00F4_CI-2104.20xx-1">
+      <TE RefId="M-0008_H-8.20.2F.2F.202104.20xx-1-O00F4_HP-7062-11-148E-O00F4_CI-2104.20xx-1">
+        <T AttributeName="Name" Text="CO2-Sensor" />
+        <T AttributeName="VisibleDescription" Text="2104 xx, CO2-Sensor 706211" />
+      </TE>
+    </TU>
+  </L>
+  <L Identifier="en-US">
+    <TU RefId="M-0008_CS-PB">
+      <TE RefId="M-0008_CS-PB">
+        <T AttributeName="Name" Text="push button" />
+      </TE>
+    </TU>
+    <TU RefId="M-0008_CS-PB-P1">
+      <TE RefId="M-0008_CS-PB-P1">
+        <T AttributeName="Name" Text="push button, 1fold" />
+      </TE>
+    </TU>
+    <TU RefId="M-0008_H-8.20.2F.2F.2018400-1-O0001_HP-1056-01-90FF-O0001_CI-184.2000-1">
+      <TE RefId="M-0008_H-8.20.2F.2F.2018400-1-O0001_HP-1056-01-90FF-O0001_CI-184.2000-1">
+        <T AttributeName="Name" Text="Two-position control single push-button BC" />
+        <T AttributeName="VisibleDescription" Text="184 00, switching, dimming, shutter 105601" />
+      </TE>
+    </TU>
+    <TU RefId="M-0008_CS-HE">
+      <TE RefId="M-0008_CS-HE">
+        <T AttributeName="Name" Text="heating, air condition, ventilation" />
+      </TE>
+    </TU>
+    <TU RefId="M-0008_CS-HE-RE">
+      <TE RefId="M-0008_CS-HE-RE">
+        <T AttributeName="Name" Text="regulator" />
+      </TE>
+    </TU>
+    <TU RefId="M-0008_H-8.20.2F.2F.202104.20xx-1-O00F4_HP-7062-11-148E-O00F4_CI-2104.20xx-1">
+      <TE RefId="M-0008_H-8.20.2F.2F.202104.20xx-1-O00F4_HP-7062-11-148E-O00F4_CI-2104.20xx-1">
+        <T AttributeName="VisibleDescription" Text="2104 xx, CO2 sensor 706211" />
+      </TE>
+    </TU>
+  </L>
+</LS>

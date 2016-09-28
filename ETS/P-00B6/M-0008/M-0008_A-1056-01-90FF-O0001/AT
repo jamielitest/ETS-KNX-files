@@ -1,0 +1,673 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LS>
+  <L Identifier="en-US">
+    <TU RefId="M-0008_A-1056-01-90FF-O0001">
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FFunktion.20Jalousie_EN-8480">
+        <T AttributeName="Text" Text="top = DOWN, below = UP" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FFunktion.20Jalousie_EN-8225">
+        <T AttributeName="Text" Text="top = UP, below = DOWN" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FFunktion.20Dimmen.20stop_EN-1798">
+        <T AttributeName="Text" Text="top = brighter (TOGGLE), below = darker (TOGGLE)" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FFunktion.20Dimmen.20stop_EN-1284">
+        <T AttributeName="Text" Text="top = brighter (ON), below = darker (OFF)" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FEinbaulage_EN-0">
+        <T AttributeName="Text" Text="normal   (LEDs top)" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FEinbaulage_EN-1">
+        <T AttributeName="Text" Text="invers (LEDs below)" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FLED.20links.20Dimmen_EN-0">
+        <T AttributeName="Text" Text="always OFF" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FLED.20links.20Dimmen_EN-1">
+        <T AttributeName="Text" Text="always ON" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FLED.20links.20Dimmen_EN-2">
+        <T AttributeName="Text" Text="for object 0" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FLED.20links.20Dimmen_EN-4">
+        <T AttributeName="Text" Text="for object 2" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FDimVal.20Stop.20.28inv.29_EN-265">
+        <T AttributeName="Text" Text="100 %" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FFunktion.20Dimmen.20zykl_EN-2826">
+        <T AttributeName="Text" Text="top = brighter (TOGGLE), below = darker (TOGGLE)" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FFunktion.20Dimmen.20zykl_EN-2312">
+        <T AttributeName="Text" Text="top = brighter (ON), below = darker (OFF)" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FDimVal.20zykl.20.28inv.29_EN-265">
+        <T AttributeName="Text" Text="100 %" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FDimVal.20zykl.20.28inv.29_EN-522">
+        <T AttributeName="Text" Text="50 %" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FDimVal.20zykl.20.28inv.29_EN-779">
+        <T AttributeName="Text" Text="25 %" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FDimVal.20zykl.20.28inv.29_EN-1036">
+        <T AttributeName="Text" Text="12,5 %" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FDimVal.20zykl.20.28inv.29_EN-1293">
+        <T AttributeName="Text" Text="6 %" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FDimVal.20zykl.20.28inv.29_EN-1550">
+        <T AttributeName="Text" Text="3 %" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FDimVal.20zykl.20.28inv.29_EN-1807">
+        <T AttributeName="Text" Text="1,5 %" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FFunktion.20Schalten_EN-17">
+        <T AttributeName="Text" Text="ON" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FFunktion.20Schalten_EN-16">
+        <T AttributeName="Text" Text="OFF" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FFunktion.20Schalten_EN-18">
+        <T AttributeName="Text" Text="TOGGLE" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FZykl.5FSend_EN-2">
+        <T AttributeName="Text" Text="300 ms" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FZykl.5FSend_EN-3">
+        <T AttributeName="Text" Text="400 ms" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FZykl.5FSend_EN-4">
+        <T AttributeName="Text" Text="500 ms" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FZykl.5FSend_EN-5">
+        <T AttributeName="Text" Text="600 ms" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FZykl.5FSend_EN-6">
+        <T AttributeName="Text" Text="800 ms" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FZykl.5FSend_EN-8">
+        <T AttributeName="Text" Text="1,0 s" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FZykl.5FSend_EN-9">
+        <T AttributeName="Text" Text="1,2 s" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FZykl.5FSend_EN-12">
+        <T AttributeName="Text" Text="1,5 s" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FZykl.5FSend_EN-15">
+        <T AttributeName="Text" Text="2,0 s" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FZykl.5FSend_EN-19">
+        <T AttributeName="Text" Text="2,5 s" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FZykl.5FSend_EN-23">
+        <T AttributeName="Text" Text="3,0 s" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FZykl.5FSend_EN-31">
+        <T AttributeName="Text" Text="4,0 s" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FZykl.5FSend_EN-38">
+        <T AttributeName="Text" Text="5,0 s" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FZykl.5FSend_EN-46">
+        <T AttributeName="Text" Text="6,0 s" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FZykl.5FSend_EN-54">
+        <T AttributeName="Text" Text="7,0 s" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FFunktion.20Dimmen.20stop.20.28inv.29_EN-1543">
+        <T AttributeName="Text" Text="TOGGLE / TOGGLE" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FFunktion.20Dimmen.20stop.20.28inv.29_EN-1029">
+        <T AttributeName="Text" Text="ON / OFF" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FFunktion.20Dimmen.20zykl.20.28inv.29_EN-2571">
+        <T AttributeName="Text" Text="TOGGLE / TOGGLE" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FFunktion.20Dimmen.20zykl.20.28inv.29_EN-2057">
+        <T AttributeName="Text" Text="ON / OFF" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FFunktion.20Jalousie.20.28inv.29_EN-8225">
+        <T AttributeName="Text" Text="shutter DOWN / UP" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FFunktion.20Jalousie.20.28inv.29_EN-8480">
+        <T AttributeName="Text" Text="shutter UP / DOWN" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FDimVal.20Stop_EN-2305">
+        <T AttributeName="Text" Text="100 %" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FBetätigungsdauer_EN-2">
+        <T AttributeName="Text" Text="300 ms" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FBetätigungsdauer_EN-3">
+        <T AttributeName="Text" Text="400 ms" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FBetätigungsdauer_EN-4">
+        <T AttributeName="Text" Text="500 ms" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FBetätigungsdauer_EN-5">
+        <T AttributeName="Text" Text="600 ms" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FBetätigungsdauer_EN-6">
+        <T AttributeName="Text" Text="800 ms" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FBetätigungsdauer_EN-8">
+        <T AttributeName="Text" Text="1,0 s" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FBetätigungsdauer_EN-9">
+        <T AttributeName="Text" Text="1,2 s" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FBetätigungsdauer_EN-12">
+        <T AttributeName="Text" Text="1,5 s" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FBetätigungsdauer_EN-15">
+        <T AttributeName="Text" Text="2,0 s" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FBetätigungsdauer_EN-19">
+        <T AttributeName="Text" Text="2,5 s" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FBetätigungsdauer_EN-23">
+        <T AttributeName="Text" Text="3,0 s" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FBetätigungsdauer_EN-31">
+        <T AttributeName="Text" Text="4,0 s" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FBetätigungsdauer_EN-38">
+        <T AttributeName="Text" Text="5,0 s" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FBetätigungsdauer_EN-46">
+        <T AttributeName="Text" Text="6,0 s" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FBetätigungsdauer_EN-54">
+        <T AttributeName="Text" Text="7,0 s" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FLED.20links.20Schalt.2FJalo_EN-0">
+        <T AttributeName="Text" Text="always OFF" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FLED.20links.20Schalt.2FJalo_EN-1">
+        <T AttributeName="Text" Text="always ON" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FLED.20links.20Schalt.2FJalo_EN-2">
+        <T AttributeName="Text" Text="for object 0" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FLED.20links.20Schalt.2FJalo_EN-3">
+        <T AttributeName="Text" Text="for object 1" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FLED.20links.20Schalt.2FJalo_EN-4">
+        <T AttributeName="Text" Text="for object 2" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FDimVal.20zykl_EN-2305">
+        <T AttributeName="Text" Text="100 %" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FDimVal.20zykl_EN-2562">
+        <T AttributeName="Text" Text="50 %" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FDimVal.20zykl_EN-2819">
+        <T AttributeName="Text" Text="25 %" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FDimVal.20zykl_EN-3076">
+        <T AttributeName="Text" Text="12,5 %" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FDimVal.20zykl_EN-3333">
+        <T AttributeName="Text" Text="6 %" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FDimVal.20zykl_EN-3590">
+        <T AttributeName="Text" Text="3 %" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FDimVal.20zykl_EN-3847">
+        <T AttributeName="Text" Text="1,5 %" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FLED.20Darstellung_EN-51">
+        <T AttributeName="Text" Text="normal" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FLED.20Darstellung_EN-48">
+        <T AttributeName="Text" Text="inverse" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FGrundfunktion_EN-0">
+        <T AttributeName="Text" Text="switching" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FGrundfunktion_EN-1">
+        <T AttributeName="Text" Text="shutter" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FGrundfunktion_EN-2">
+        <T AttributeName="Text" Text="dimming with stop telegram" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FGrundfunktion_EN-3">
+        <T AttributeName="Text" Text="dimming with telegram repetition" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_O-0">
+        <T AttributeName="Text" Text="push button top" />
+        <T AttributeName="FunctionText" Text="switching" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_O-0_R-29">
+        <T AttributeName="Text" Text="push button" />
+        <T AttributeName="FunctionText" Text="step modus" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_O-0_R-38">
+        <T AttributeName="Text" Text="push button" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_O-0_R-42">
+        <T AttributeName="Text" Text="push button" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_O-1">
+        <T AttributeName="Text" Text="push button below" />
+        <T AttributeName="FunctionText" Text="switching" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_O-1_R-30">
+        <T AttributeName="Text" Text="push button" />
+        <T AttributeName="FunctionText" Text="move modus" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_O-1_R-39">
+        <T AttributeName="Text" Text="push button" />
+        <T AttributeName="FunctionText" Text="dimming" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_O-1_R-44">
+        <T AttributeName="Text" Text="push button" />
+        <T AttributeName="FunctionText" Text="dimming" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_O-2">
+        <T AttributeName="Text" Text="status LED" />
+        <T AttributeName="FunctionText" Text="LED-triggering" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_P-183">
+        <T AttributeName="Text" Text="built-in position (fix first!)" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_P-184">
+        <T AttributeName="Text" Text="built-in position of push button" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_P-113">
+        <T AttributeName="Text" Text="push button" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_P-108">
+        <T AttributeName="Text" Text="function of the push button" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_UP-36">
+        <T AttributeName="Text" Text="command operating rocker top" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_UP-112">
+        <T AttributeName="Text" Text="command operating rocker bottom" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_UP-110">
+        <T AttributeName="Text" Text="command operating rocker" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_UP-128">
+        <T AttributeName="Text" Text="command operating rocker" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_UP-131">
+        <T AttributeName="Text" Text="command operating rocker" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_UP-129">
+        <T AttributeName="Text" Text="dimming brighter / darker by" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_UP-132">
+        <T AttributeName="Text" Text="dimming brighter / darker by" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_P-140">
+        <T AttributeName="Text" Text="time between step and move" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_P-140_R-148">
+        <T AttributeName="Text" Text="time between switching and dimming" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_P-140_R-149">
+        <T AttributeName="Text" Text="time between switching and dimming" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_P-141">
+        <T AttributeName="Text" Text="time between two telegrams" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_UP-105">
+        <T AttributeName="Text" Text="function of the status-LED" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_UP-143">
+        <T AttributeName="Text" Text="function of the status-LED" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_P-107">
+        <T AttributeName="Text" Text="status LED representation" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001">
+        <T AttributeName="Name" Text="switching, dimming, shutter 105601" />
+        <T AttributeName="VisibleDescription" Text="switching, dimming, shutter 105601&#xD;&#xA;" />
+        <T AttributeName="HelpFile" Text="8\info\gira.hlp" />
+      </TE>
+    </TU>
+  </L>
+  <L Identifier="de-DE">
+    <TU RefId="M-0008_A-1056-01-90FF-O0001">
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FFunktion.20Jalousie_EN-8480">
+        <T AttributeName="Text" Text="oben = AB, unten = AUF" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FFunktion.20Jalousie_EN-8225">
+        <T AttributeName="Text" Text="oben = AUF, unten = AB" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FFunktion.20Dimmen.20stop_EN-1798">
+        <T AttributeName="Text" Text="oben = heller (UM), unten = dunkler (UM)" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FFunktion.20Dimmen.20stop_EN-1284">
+        <T AttributeName="Text" Text="oben = heller (EIN), unten = dunkler (AUS)" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FEinbaulage_EN-0">
+        <T AttributeName="Text" Text="normal   (LEDs oben)" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FEinbaulage_EN-1">
+        <T AttributeName="Text" Text="invers (LEDs unten)" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FLED.20links.20Dimmen_EN-0">
+        <T AttributeName="Text" Text="immer AUS" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FLED.20links.20Dimmen_EN-1">
+        <T AttributeName="Text" Text="immer EIN" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FLED.20links.20Dimmen_EN-2">
+        <T AttributeName="Text" Text="für Objekt 0" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FLED.20links.20Dimmen_EN-4">
+        <T AttributeName="Text" Text="für Objekt 2" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FDimVal.20Stop.20.28inv.29_EN-265">
+        <T AttributeName="Text" Text="100 %" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FFunktion.20Dimmen.20zykl_EN-2826">
+        <T AttributeName="Text" Text="oben = heller (UM), unten = dunkler (UM)" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FFunktion.20Dimmen.20zykl_EN-2312">
+        <T AttributeName="Text" Text="oben = heller (EIN), unten = dunkler (AUS)" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FDimVal.20zykl.20.28inv.29_EN-265">
+        <T AttributeName="Text" Text="100 %" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FDimVal.20zykl.20.28inv.29_EN-522">
+        <T AttributeName="Text" Text="50 %" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FDimVal.20zykl.20.28inv.29_EN-779">
+        <T AttributeName="Text" Text="25 %" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FDimVal.20zykl.20.28inv.29_EN-1036">
+        <T AttributeName="Text" Text="12,5 %" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FDimVal.20zykl.20.28inv.29_EN-1293">
+        <T AttributeName="Text" Text="6 %" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FDimVal.20zykl.20.28inv.29_EN-1550">
+        <T AttributeName="Text" Text="3 %" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FDimVal.20zykl.20.28inv.29_EN-1807">
+        <T AttributeName="Text" Text="1,5 %" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FFunktion.20Schalten_EN-17">
+        <T AttributeName="Text" Text="EIN" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FFunktion.20Schalten_EN-16">
+        <T AttributeName="Text" Text="AUS" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FFunktion.20Schalten_EN-18">
+        <T AttributeName="Text" Text="UM" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FZykl.5FSend_EN-2">
+        <T AttributeName="Text" Text="300 ms" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FZykl.5FSend_EN-3">
+        <T AttributeName="Text" Text="400 ms" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FZykl.5FSend_EN-4">
+        <T AttributeName="Text" Text="500 ms" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FZykl.5FSend_EN-5">
+        <T AttributeName="Text" Text="600 ms" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FZykl.5FSend_EN-6">
+        <T AttributeName="Text" Text="800 ms" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FZykl.5FSend_EN-8">
+        <T AttributeName="Text" Text="1,0 s" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FZykl.5FSend_EN-9">
+        <T AttributeName="Text" Text="1,2 s" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FZykl.5FSend_EN-12">
+        <T AttributeName="Text" Text="1,5 s" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FZykl.5FSend_EN-15">
+        <T AttributeName="Text" Text="2,0 s" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FZykl.5FSend_EN-19">
+        <T AttributeName="Text" Text="2,5 s" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FZykl.5FSend_EN-23">
+        <T AttributeName="Text" Text="3,0 s" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FZykl.5FSend_EN-31">
+        <T AttributeName="Text" Text="4,0 s" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FZykl.5FSend_EN-38">
+        <T AttributeName="Text" Text="5,0 s" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FZykl.5FSend_EN-46">
+        <T AttributeName="Text" Text="6,0 s" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FZykl.5FSend_EN-54">
+        <T AttributeName="Text" Text="7,0 s" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FFunktion.20Dimmen.20stop.20.28inv.29_EN-1543">
+        <T AttributeName="Text" Text="UM / UM" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FFunktion.20Dimmen.20stop.20.28inv.29_EN-1029">
+        <T AttributeName="Text" Text="EIN / AUS" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FFunktion.20Dimmen.20zykl.20.28inv.29_EN-2571">
+        <T AttributeName="Text" Text="UM / UM" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FFunktion.20Dimmen.20zykl.20.28inv.29_EN-2057">
+        <T AttributeName="Text" Text="EIN / AUS" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FFunktion.20Jalousie.20.28inv.29_EN-8225">
+        <T AttributeName="Text" Text="Jalousie AB / AUF" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FFunktion.20Jalousie.20.28inv.29_EN-8480">
+        <T AttributeName="Text" Text="Jalousie AUF / AB" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FDimVal.20Stop_EN-2305">
+        <T AttributeName="Text" Text="100 %" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FBetätigungsdauer_EN-2">
+        <T AttributeName="Text" Text="300 ms" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FBetätigungsdauer_EN-3">
+        <T AttributeName="Text" Text="400 ms" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FBetätigungsdauer_EN-4">
+        <T AttributeName="Text" Text="500 ms" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FBetätigungsdauer_EN-5">
+        <T AttributeName="Text" Text="600 ms" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FBetätigungsdauer_EN-6">
+        <T AttributeName="Text" Text="800 ms" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FBetätigungsdauer_EN-8">
+        <T AttributeName="Text" Text="1,0 s" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FBetätigungsdauer_EN-9">
+        <T AttributeName="Text" Text="1,2 s" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FBetätigungsdauer_EN-12">
+        <T AttributeName="Text" Text="1,5 s" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FBetätigungsdauer_EN-15">
+        <T AttributeName="Text" Text="2,0 s" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FBetätigungsdauer_EN-19">
+        <T AttributeName="Text" Text="2,5 s" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FBetätigungsdauer_EN-23">
+        <T AttributeName="Text" Text="3,0 s" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FBetätigungsdauer_EN-31">
+        <T AttributeName="Text" Text="4,0 s" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FBetätigungsdauer_EN-38">
+        <T AttributeName="Text" Text="5,0 s" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FBetätigungsdauer_EN-46">
+        <T AttributeName="Text" Text="6,0 s" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FBetätigungsdauer_EN-54">
+        <T AttributeName="Text" Text="7,0 s" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FLED.20links.20Schalt.2FJalo_EN-0">
+        <T AttributeName="Text" Text="immer AUS" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FLED.20links.20Schalt.2FJalo_EN-1">
+        <T AttributeName="Text" Text="immer EIN" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FLED.20links.20Schalt.2FJalo_EN-2">
+        <T AttributeName="Text" Text="für Objekt 0" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FLED.20links.20Schalt.2FJalo_EN-3">
+        <T AttributeName="Text" Text="für Objekt 1" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FLED.20links.20Schalt.2FJalo_EN-4">
+        <T AttributeName="Text" Text="für Objekt 2" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FDimVal.20zykl_EN-2305">
+        <T AttributeName="Text" Text="100 %" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FDimVal.20zykl_EN-2562">
+        <T AttributeName="Text" Text="50 %" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FDimVal.20zykl_EN-2819">
+        <T AttributeName="Text" Text="25 %" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FDimVal.20zykl_EN-3076">
+        <T AttributeName="Text" Text="12,5 %" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FDimVal.20zykl_EN-3333">
+        <T AttributeName="Text" Text="6 %" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FDimVal.20zykl_EN-3590">
+        <T AttributeName="Text" Text="3 %" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FDimVal.20zykl_EN-3847">
+        <T AttributeName="Text" Text="1,5 %" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FLED.20Darstellung_EN-51">
+        <T AttributeName="Text" Text="normal" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FLED.20Darstellung_EN-48">
+        <T AttributeName="Text" Text="invertiert" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FGrundfunktion_EN-0">
+        <T AttributeName="Text" Text="Schalten" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FGrundfunktion_EN-1">
+        <T AttributeName="Text" Text="Jalousie" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FGrundfunktion_EN-2">
+        <T AttributeName="Text" Text="Dimmen mit Stoptelegramm" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_PT-t.5FGrundfunktion_EN-3">
+        <T AttributeName="Text" Text="Dimmen mit Telegrammwiederholung" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_O-0">
+        <T AttributeName="Text" Text="Wippe oben" />
+        <T AttributeName="FunctionText" Text="Schalten" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_O-0_R-29">
+        <T AttributeName="Text" Text="Wippe" />
+        <T AttributeName="FunctionText" Text="Kurzzeitbetrieb" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_O-0_R-38">
+        <T AttributeName="Text" Text="Wippe" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_O-0_R-42">
+        <T AttributeName="Text" Text="Wippe" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_O-1">
+        <T AttributeName="Text" Text="Wippe unten" />
+        <T AttributeName="FunctionText" Text="Schalten" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_O-1_R-30">
+        <T AttributeName="Text" Text="Wippe" />
+        <T AttributeName="FunctionText" Text="Langzeitbetrieb" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_O-1_R-39">
+        <T AttributeName="Text" Text="Wippe" />
+        <T AttributeName="FunctionText" Text="Dimmen" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_O-1_R-44">
+        <T AttributeName="Text" Text="Wippe" />
+        <T AttributeName="FunctionText" Text="Dimmen" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_O-2">
+        <T AttributeName="Text" Text="Status-LED" />
+        <T AttributeName="FunctionText" Text="LED-Ansteuerung" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_P-183">
+        <T AttributeName="Text" Text="Einbaulage (zuerst festlegen !)" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_P-184">
+        <T AttributeName="Text" Text="Einbaulage des Tasters" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_P-113">
+        <T AttributeName="Text" Text="Wippe" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_P-108">
+        <T AttributeName="Text" Text="Funktion der Wippe" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_UP-36">
+        <T AttributeName="Text" Text="Befehl bei Wippenbetätigung oben" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_UP-112">
+        <T AttributeName="Text" Text="Befehl bei Wippenbetätigung unten" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_UP-110">
+        <T AttributeName="Text" Text="Befehl bei Wippenbetätigung" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_UP-128">
+        <T AttributeName="Text" Text="Befehl bei Wippenbetätigung" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_UP-131">
+        <T AttributeName="Text" Text="Befehl bei Wippenbetätigung" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_UP-129">
+        <T AttributeName="Text" Text="heller / dunkler dimmen um" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_UP-132">
+        <T AttributeName="Text" Text="heller / dunkler dimmen um" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_P-140">
+        <T AttributeName="Text" Text="Zeit zwischen Kurz- und Langzeitbetrieb" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_P-140_R-148">
+        <T AttributeName="Text" Text="Zeit zwischen Schalten und Dimmen" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_P-140_R-149">
+        <T AttributeName="Text" Text="Zeit zwischen Schalten und Dimmen" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_P-141">
+        <T AttributeName="Text" Text="Zeit zwischen zwei Telegrammen" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_UP-105">
+        <T AttributeName="Text" Text="Funktion der Status-LED" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_UP-143">
+        <T AttributeName="Text" Text="Funktion der Status-LED" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001_P-107">
+        <T AttributeName="Text" Text="Status-LED-Darstellung" />
+      </TE>
+      <TE RefId="M-0008_A-1056-01-90FF-O0001">
+        <T AttributeName="Name" Text="Schalten, Dimmen, Jalousie 105601" />
+        <T AttributeName="VisibleDescription" Text="Schalten, Dimmen, Jalousie 105601" />
+        <T AttributeName="HelpFile" Text="8\info\Gira.hlp" />
+      </TE>
+    </TU>
+  </L>
+  <L Identifier="nb-NO">
+    <TU RefId="M-0008_A-1056-01-90FF-O0001">
+      <TE RefId="M-0008_A-1056-01-90FF-O0001">
+        <T AttributeName="VisibleDescription" Text="av/på, dimming, persienne 105601" />
+        <T AttributeName="HelpFile" Text="8\info\Gira.hlp" />
+      </TE>
+    </TU>
+  </L>
+</LS>

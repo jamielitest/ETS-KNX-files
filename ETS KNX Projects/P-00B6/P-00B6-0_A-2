@@ -1,0 +1,702 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Area Id="P-00B6-0_A-2" Address="1" Name="New area" Puid="3">
+  <Line Id="P-00B6-0_L-2" Address="0" Name="Main line" MediumTypeRefId="MT-5" Puid="4" />
+  <Line Id="P-00B6-0_L-3" Address="1" Name="New line" MediumTypeRefId="MT-0" Puid="5">
+    <DI Id="P-00B6-0_DI-1" Address="52" Name="" ProductRefId="M-00E8_H-200905-0_P-200.209.2005.20.2A.20.20.20" Hardware2ProgramRefId="M-00E8_H-200905-0_HP-000B-10-5F52" Comment="" Description="SP2.BC1" SerialNumber="AOgGCdWU" IndividualAddressLoaded="true" MediumConfigLoaded="true" IsCommunicationObjectVisibilityCalculated="true" Birdy-IsChannelVisibilityCalculated="true" LastModified="2016-09-28T00:33:48.2741984Z" LastDownload="2016-09-15T22:59:51.2560622Z" Puid="7">
+      <PIs>
+        <PI RefId="M-00E8_A-000B-10-5F52_UP-5030_R-5030" Value="0" />
+        <PI RefId="M-00E8_A-000B-10-5F52_P-1029_R-1029" Value="1" />
+        <PI RefId="M-00E8_A-000B-10-5F52_P-5076_R-5076" Value="20" />
+        <PI RefId="M-00E8_A-000B-10-5F52_P-5033_R-5033" Value="30" />
+      </PIs>
+      <CIs>
+        <CI RefId="M-00E8_A-000B-10-5F52_O-33_R-10072" IsActive="true" />
+        <CI RefId="M-00E8_A-000B-10-5F52_O-35_R-10074" IsActive="true" />
+        <CI RefId="M-00E8_A-000B-10-5F52_O-0_R-10000" IsActive="true">
+          <Cs>
+            <S GroupAddressRefId="P-00B6-0_GA-17" />
+          </Cs>
+        </CI>
+        <CI RefId="M-00E8_A-000B-10-5F52_O-13_R-10019" IsActive="true" />
+        <CI RefId="M-00E8_A-000B-10-5F52_O-34_R-10073" IsActive="true" />
+        <CI RefId="M-00E8_A-000B-10-5F52_O-24_R-10029" IsActive="true" />
+        <CI RefId="M-00E8_A-000B-10-5F52_O-15_R-10071" IsActive="true">
+          <Cs>
+            <S GroupAddressRefId="P-00B6-0_GA-18" />
+          </Cs>
+        </CI>
+      </CIs>
+      <Security />
+    </DI>
+    <DI Id="P-00B6-0_DI-2" Address="53" Name="" ProductRefId="M-00E8_H-200905-0_P-200.209.2005.20.2A.20.20.20" Hardware2ProgramRefId="M-00E8_H-200905-0_HP-000B-10-5F52" Comment="" Description="SP3.BC1" SerialNumber="AOgGCdWR" IndividualAddressLoaded="true" MediumConfigLoaded="true" IsCommunicationObjectVisibilityCalculated="true" Birdy-IsChannelVisibilityCalculated="true" LastModified="2016-09-28T00:33:37.777571Z" LastDownload="2016-09-15T23:03:09.5673888Z" Puid="8">
+      <PIs>
+        <PI RefId="M-00E8_A-000B-10-5F52_P-1029_R-1029" Value="1" />
+        <PI RefId="M-00E8_A-000B-10-5F52_UP-5030_R-5030" Value="0" />
+        <PI RefId="M-00E8_A-000B-10-5F52_P-5033_R-5033" Value="30" />
+      </PIs>
+      <CIs>
+        <CI RefId="M-00E8_A-000B-10-5F52_O-33_R-10072" IsActive="true" />
+        <CI RefId="M-00E8_A-000B-10-5F52_O-35_R-10074" IsActive="true" />
+        <CI RefId="M-00E8_A-000B-10-5F52_O-0_R-10000" IsActive="true">
+          <Cs>
+            <S GroupAddressRefId="P-00B6-0_GA-29" />
+          </Cs>
+        </CI>
+        <CI RefId="M-00E8_A-000B-10-5F52_O-13_R-10019" IsActive="true" />
+        <CI RefId="M-00E8_A-000B-10-5F52_O-34_R-10073" IsActive="true" />
+        <CI RefId="M-00E8_A-000B-10-5F52_O-24_R-10029" IsActive="true" />
+        <CI RefId="M-00E8_A-000B-10-5F52_O-15_R-10071" IsActive="true">
+          <Cs>
+            <S GroupAddressRefId="P-00B6-0_GA-30" />
+          </Cs>
+        </CI>
+      </CIs>
+      <Security />
+    </DI>
+    <DI Id="P-00B6-0_DI-3" Address="51" Name="" ProductRefId="M-00E8_H-200905-0_P-200.209.2005.20.2A.20.20.20" Hardware2ProgramRefId="M-00E8_H-200905-0_HP-000B-10-5F52" Comment="" Description="SP1.BC1" SerialNumber="AOgGBgyw" ApplicationProgramLoaded="true" CommunicationPartLoaded="true" IndividualAddressLoaded="true" MediumConfigLoaded="true" ParametersLoaded="true" IsCommunicationObjectVisibilityCalculated="true" Birdy-IsChannelVisibilityCalculated="true" LastModified="2016-09-28T00:19:43.5345484Z" LastDownload="2016-09-28T00:19:58.3574971Z" LastUsedAPDULength="15" Puid="9">
+      <PIs>
+        <PI RefId="M-00E8_A-000B-10-5F52_P-5009_R-5009" Value="5" />
+        <PI RefId="M-00E8_A-000B-10-5F52_P-1029_R-1029" Value="1" />
+        <PI RefId="M-00E8_A-000B-10-5F52_UP-5030_R-5030" Value="0" />
+        <PI RefId="M-00E8_A-000B-10-5F52_P-5033_R-5033" Value="30" />
+        <PI RefId="M-00E8_A-000B-10-5F52_P-5076_R-5076" Value="20" />
+      </PIs>
+      <CIs>
+        <CI RefId="M-00E8_A-000B-10-5F52_O-33_R-10072" IsActive="true" />
+        <CI RefId="M-00E8_A-000B-10-5F52_O-35_R-10074" IsActive="true" />
+        <CI RefId="M-00E8_A-000B-10-5F52_O-0_R-10000" ReadFlag="Enabled" IsActive="true">
+          <Cs>
+            <S GroupAddressRefId="P-00B6-0_GA-1" />
+          </Cs>
+        </CI>
+        <CI RefId="M-00E8_A-000B-10-5F52_O-13_R-10019" IsActive="true" />
+        <CI RefId="M-00E8_A-000B-10-5F52_O-34_R-10073" IsActive="true" />
+        <CI RefId="M-00E8_A-000B-10-5F52_O-24_R-10029" IsActive="true" />
+        <CI RefId="M-00E8_A-000B-10-5F52_O-15_R-10071" IsActive="true">
+          <Cs>
+            <S GroupAddressRefId="P-00B6-0_GA-2" />
+          </Cs>
+        </CI>
+      </CIs>
+      <Security />
+    </DI>
+    <DI Id="P-00B6-0_DI-4" Address="54" Name="" ProductRefId="M-00E8_H-200905-0_P-200.209.2005.20.2A.20.20.20" Hardware2ProgramRefId="M-00E8_H-200905-0_HP-000B-10-5F52" Comment="" Description="SP4.BC1" SerialNumber="AOgGCdWh" IndividualAddressLoaded="true" MediumConfigLoaded="true" IsCommunicationObjectVisibilityCalculated="true" Birdy-IsChannelVisibilityCalculated="true" LastModified="2016-09-28T00:57:17.8079338Z" LastDownload="2016-09-15T23:05:57.81441Z" Puid="10">
+      <PIs>
+        <PI RefId="M-00E8_A-000B-10-5F52_P-1029_R-1029" Value="1" />
+        <PI RefId="M-00E8_A-000B-10-5F52_P-5033_R-5033" Value="30" />
+      </PIs>
+      <CIs>
+        <CI RefId="M-00E8_A-000B-10-5F52_O-33_R-10072" IsActive="true" />
+        <CI RefId="M-00E8_A-000B-10-5F52_O-35_R-10074" IsActive="true" />
+        <CI RefId="M-00E8_A-000B-10-5F52_O-0_R-10000" IsActive="true">
+          <Cs>
+            <S GroupAddressRefId="P-00B6-0_GA-65" />
+          </Cs>
+        </CI>
+        <CI RefId="M-00E8_A-000B-10-5F52_O-13_R-10019" IsActive="true" />
+        <CI RefId="M-00E8_A-000B-10-5F52_O-34_R-10073" IsActive="true" />
+        <CI RefId="M-00E8_A-000B-10-5F52_O-24_R-10029" IsActive="true" />
+        <CI RefId="M-00E8_A-000B-10-5F52_O-15_R-10071" IsActive="true">
+          <Cs>
+            <S GroupAddressRefId="P-00B6-0_GA-66" />
+          </Cs>
+        </CI>
+      </CIs>
+      <Security />
+    </DI>
+    <DI Id="P-00B6-0_DI-5" Address="59" Name="" ProductRefId="M-00E8_H-200905-0_P-200.209.2005.20.2A.20.20.20" Hardware2ProgramRefId="M-00E8_H-200905-0_HP-000B-10-5F52" Comment="" Description="SP9.BC1" SerialNumber="AOgGCdWi" IndividualAddressLoaded="true" MediumConfigLoaded="true" IsCommunicationObjectVisibilityCalculated="true" Birdy-IsChannelVisibilityCalculated="true" LastModified="2016-09-28T00:59:10.7315012Z" LastDownload="2016-09-15T23:19:23.6746608Z" Puid="11">
+      <PIs>
+        <PI RefId="M-00E8_A-000B-10-5F52_P-1029_R-1029" Value="1" />
+        <PI RefId="M-00E8_A-000B-10-5F52_P-5033_R-5033" Value="30" />
+      </PIs>
+      <CIs>
+        <CI RefId="M-00E8_A-000B-10-5F52_O-33_R-10072" IsActive="true" />
+        <CI RefId="M-00E8_A-000B-10-5F52_O-35_R-10074" IsActive="true" />
+        <CI RefId="M-00E8_A-000B-10-5F52_O-0_R-10000" IsActive="true">
+          <Cs>
+            <S GroupAddressRefId="P-00B6-0_GA-101" />
+          </Cs>
+        </CI>
+        <CI RefId="M-00E8_A-000B-10-5F52_O-13_R-10019" IsActive="true" />
+        <CI RefId="M-00E8_A-000B-10-5F52_O-34_R-10073" IsActive="true" />
+        <CI RefId="M-00E8_A-000B-10-5F52_O-24_R-10029" IsActive="true" />
+        <CI RefId="M-00E8_A-000B-10-5F52_O-15_R-10071" IsActive="true">
+          <Cs>
+            <S GroupAddressRefId="P-00B6-0_GA-102" />
+          </Cs>
+        </CI>
+      </CIs>
+      <Security />
+    </DI>
+    <DI Id="P-00B6-0_DI-6" Address="55" Name="" ProductRefId="M-00E8_H-200905-0_P-200.209.2005.20.2A.20.20.20" Hardware2ProgramRefId="M-00E8_H-200905-0_HP-000B-10-5F52" Comment="" Description="SP5.BC1" SerialNumber="AOgGCdWn" IndividualAddressLoaded="true" MediumConfigLoaded="true" IsCommunicationObjectVisibilityCalculated="true" Birdy-IsChannelVisibilityCalculated="true" LastModified="2016-09-28T00:56:44.3162401Z" LastDownload="2016-09-15T23:08:55.3196347Z" Puid="12">
+      <PIs>
+        <PI RefId="M-00E8_A-000B-10-5F52_P-1029_R-1029" Value="1" />
+        <PI RefId="M-00E8_A-000B-10-5F52_UP-5030_R-5030" Value="0" />
+        <PI RefId="M-00E8_A-000B-10-5F52_P-5033_R-5033" Value="30" />
+      </PIs>
+      <CIs>
+        <CI RefId="M-00E8_A-000B-10-5F52_O-33_R-10072" IsActive="true" />
+        <CI RefId="M-00E8_A-000B-10-5F52_O-35_R-10074" IsActive="true" />
+        <CI RefId="M-00E8_A-000B-10-5F52_O-0_R-10000" IsActive="true">
+          <Cs>
+            <S GroupAddressRefId="P-00B6-0_GA-53" />
+          </Cs>
+        </CI>
+        <CI RefId="M-00E8_A-000B-10-5F52_O-13_R-10019" IsActive="true" />
+        <CI RefId="M-00E8_A-000B-10-5F52_O-34_R-10073" IsActive="true" />
+        <CI RefId="M-00E8_A-000B-10-5F52_O-24_R-10029" IsActive="true" />
+        <CI RefId="M-00E8_A-000B-10-5F52_O-15_R-10071" IsActive="true">
+          <Cs>
+            <S GroupAddressRefId="P-00B6-0_GA-54" />
+          </Cs>
+        </CI>
+      </CIs>
+      <Security />
+    </DI>
+    <DI Id="P-00B6-0_DI-7" Address="58" Name="" ProductRefId="M-00E8_H-200905-0_P-200.209.2005.20.2A.20.20.20" Hardware2ProgramRefId="M-00E8_H-200905-0_HP-000B-10-5F52" Comment="" Description="SP8.BC1" SerialNumber="AOgGCdWm" IndividualAddressLoaded="true" MediumConfigLoaded="true" IsCommunicationObjectVisibilityCalculated="true" Birdy-IsChannelVisibilityCalculated="true" LastModified="2016-09-28T00:58:37.5830792Z" LastDownload="2016-09-15T23:16:54.7349517Z" Puid="13">
+      <PIs>
+        <PI RefId="M-00E8_A-000B-10-5F52_P-1029_R-1029" Value="1" />
+        <PI RefId="M-00E8_A-000B-10-5F52_P-5033_R-5033" Value="30" />
+      </PIs>
+      <CIs>
+        <CI RefId="M-00E8_A-000B-10-5F52_O-33_R-10072" IsActive="true" />
+        <CI RefId="M-00E8_A-000B-10-5F52_O-35_R-10074" IsActive="true" />
+        <CI RefId="M-00E8_A-000B-10-5F52_O-0_R-10000" IsActive="true">
+          <Cs>
+            <S GroupAddressRefId="P-00B6-0_GA-101" />
+          </Cs>
+        </CI>
+        <CI RefId="M-00E8_A-000B-10-5F52_O-13_R-10019" IsActive="true" />
+        <CI RefId="M-00E8_A-000B-10-5F52_O-34_R-10073" IsActive="true" />
+        <CI RefId="M-00E8_A-000B-10-5F52_O-24_R-10029" IsActive="true" />
+        <CI RefId="M-00E8_A-000B-10-5F52_O-15_R-10071" IsActive="true">
+          <Cs>
+            <S GroupAddressRefId="P-00B6-0_GA-102" />
+          </Cs>
+        </CI>
+      </CIs>
+      <Security />
+    </DI>
+    <DI Id="P-00B6-0_DI-8" Address="56" Name="" ProductRefId="M-00E8_H-200905-0_P-200.209.2005.20.2A.20.20.20" Hardware2ProgramRefId="M-00E8_H-200905-0_HP-000B-10-5F52" Comment="" Description="SP6.BC1" SerialNumber="AOgGCdWo" IndividualAddressLoaded="true" MediumConfigLoaded="true" IsCommunicationObjectVisibilityCalculated="true" Birdy-IsChannelVisibilityCalculated="true" LastModified="2016-09-28T00:59:29.9442071Z" LastDownload="2016-09-15T23:11:38.8013396Z" Puid="14">
+      <PIs>
+        <PI RefId="M-00E8_A-000B-10-5F52_P-1029_R-1029" Value="1" />
+        <PI RefId="M-00E8_A-000B-10-5F52_P-5033_R-5033" Value="30" />
+      </PIs>
+      <CIs>
+        <CI RefId="M-00E8_A-000B-10-5F52_O-33_R-10072" IsActive="true" />
+        <CI RefId="M-00E8_A-000B-10-5F52_O-35_R-10074" IsActive="true" />
+        <CI RefId="M-00E8_A-000B-10-5F52_O-0_R-10000" IsActive="true">
+          <Cs>
+            <S GroupAddressRefId="P-00B6-0_GA-137" />
+          </Cs>
+        </CI>
+        <CI RefId="M-00E8_A-000B-10-5F52_O-13_R-10019" IsActive="true" />
+        <CI RefId="M-00E8_A-000B-10-5F52_O-34_R-10073" IsActive="true" />
+        <CI RefId="M-00E8_A-000B-10-5F52_O-24_R-10029" IsActive="true" />
+        <CI RefId="M-00E8_A-000B-10-5F52_O-15_R-10071" IsActive="true">
+          <Cs>
+            <S GroupAddressRefId="P-00B6-0_GA-138" />
+          </Cs>
+        </CI>
+      </CIs>
+      <Security />
+    </DI>
+    <DI Id="P-00B6-0_DI-9" Address="57" Name="" ProductRefId="M-00E8_H-200905-0_P-200.209.2005.20.2A.20.20.20" Hardware2ProgramRefId="M-00E8_H-200905-0_HP-000B-10-5F52" Comment="" Description="SP7.BC1" SerialNumber="AOgGCdWZ" IndividualAddressLoaded="true" MediumConfigLoaded="true" IsCommunicationObjectVisibilityCalculated="true" Birdy-IsChannelVisibilityCalculated="true" LastModified="2016-09-28T01:00:00.5096005Z" LastDownload="2016-09-15T23:13:42.6106256Z" Puid="15">
+      <PIs>
+        <PI RefId="M-00E8_A-000B-10-5F52_P-1029_R-1029" Value="1" />
+        <PI RefId="M-00E8_A-000B-10-5F52_P-5033_R-5033" Value="30" />
+      </PIs>
+      <CIs>
+        <CI RefId="M-00E8_A-000B-10-5F52_O-33_R-10072" IsActive="true" />
+        <CI RefId="M-00E8_A-000B-10-5F52_O-35_R-10074" IsActive="true" />
+        <CI RefId="M-00E8_A-000B-10-5F52_O-0_R-10000" IsActive="true">
+          <Cs>
+            <S GroupAddressRefId="P-00B6-0_GA-200" />
+          </Cs>
+        </CI>
+        <CI RefId="M-00E8_A-000B-10-5F52_O-13_R-10019" IsActive="true" />
+        <CI RefId="M-00E8_A-000B-10-5F52_O-34_R-10073" IsActive="true" />
+        <CI RefId="M-00E8_A-000B-10-5F52_O-24_R-10029" IsActive="true" />
+        <CI RefId="M-00E8_A-000B-10-5F52_O-15_R-10071" IsActive="true">
+          <Cs>
+            <S GroupAddressRefId="P-00B6-0_GA-201" />
+          </Cs>
+        </CI>
+      </CIs>
+      <Security />
+    </DI>
+    <DI Id="P-00B6-0_DI-14" Address="105" Name="" ProductRefId="M-0048_H-4969204-1_P-4969204" Hardware2ProgramRefId="M-0048_H-4969204-1_HP-4964-10-F885" Comment="" Description="DI5.BC1" IndividualAddressLoaded="true" MediumConfigLoaded="true" IsCommunicationObjectVisibilityCalculated="true" Birdy-IsChannelVisibilityCalculated="true" LastModified="2016-08-30T03:34:20.3410481Z" LastDownload="2016-09-02T02:11:25.49549Z" Puid="20">
+      <CIs>
+        <CI RefId="M-0048_A-4964-10-F885_O-2_R-3112" IsActive="true" />
+        <CI RefId="M-0048_A-4964-10-F885_O-5_R-4093" IsActive="true" />
+        <CI RefId="M-0048_A-4964-10-F885_O-8_R-4071" IsActive="true" />
+        <CI RefId="M-0048_A-4964-10-F885_O-11_R-4049" IsActive="true" />
+        <CI RefId="M-0048_A-4964-10-F885_O-0_R-3102" IsActive="true" />
+        <CI RefId="M-0048_A-4964-10-F885_O-3_R-4088" IsActive="true" />
+        <CI RefId="M-0048_A-4964-10-F885_O-6_R-4066" IsActive="true" />
+        <CI RefId="M-0048_A-4964-10-F885_O-9_R-4044" IsActive="true" />
+      </CIs>
+      <Security />
+    </DI>
+    <DI Id="P-00B6-0_DI-15" Address="104" Name="" ProductRefId="M-0048_H-4969204-1_P-4969204" Hardware2ProgramRefId="M-0048_H-4969204-1_HP-4964-10-F885" Comment="" Description="DI4.BC1" IndividualAddressLoaded="true" MediumConfigLoaded="true" IsCommunicationObjectVisibilityCalculated="true" Birdy-IsChannelVisibilityCalculated="true" LastModified="2016-08-30T03:34:23.0898427Z" LastDownload="2016-09-02T02:06:45.4464687Z" Puid="21">
+      <CIs>
+        <CI RefId="M-0048_A-4964-10-F885_O-2_R-3112" IsActive="true" />
+        <CI RefId="M-0048_A-4964-10-F885_O-5_R-4093" IsActive="true" />
+        <CI RefId="M-0048_A-4964-10-F885_O-8_R-4071" IsActive="true" />
+        <CI RefId="M-0048_A-4964-10-F885_O-11_R-4049" IsActive="true" />
+        <CI RefId="M-0048_A-4964-10-F885_O-0_R-3102" IsActive="true" />
+        <CI RefId="M-0048_A-4964-10-F885_O-3_R-4088" IsActive="true" />
+        <CI RefId="M-0048_A-4964-10-F885_O-6_R-4066" IsActive="true" />
+        <CI RefId="M-0048_A-4964-10-F885_O-9_R-4044" IsActive="true" />
+      </CIs>
+      <Security />
+    </DI>
+    <DI Id="P-00B6-0_DI-16" Address="101" Name="" ProductRefId="M-0048_H-4969204-1_P-4969204" Hardware2ProgramRefId="M-0048_H-4969204-1_HP-4964-10-F885" Comment="" Description="DI1.BC1" IndividualAddressLoaded="true" MediumConfigLoaded="true" IsCommunicationObjectVisibilityCalculated="true" Birdy-IsChannelVisibilityCalculated="true" LastModified="2016-08-30T03:34:25.5904216Z" LastDownload="2016-09-02T01:53:00.9496658Z" Puid="22">
+      <CIs>
+        <CI RefId="M-0048_A-4964-10-F885_O-2_R-3112" IsActive="true" />
+        <CI RefId="M-0048_A-4964-10-F885_O-5_R-4093" IsActive="true" />
+        <CI RefId="M-0048_A-4964-10-F885_O-8_R-4071" IsActive="true" />
+        <CI RefId="M-0048_A-4964-10-F885_O-11_R-4049" IsActive="true" />
+        <CI RefId="M-0048_A-4964-10-F885_O-0_R-3102" IsActive="true" />
+        <CI RefId="M-0048_A-4964-10-F885_O-3_R-4088" IsActive="true" />
+        <CI RefId="M-0048_A-4964-10-F885_O-6_R-4066" IsActive="true" />
+        <CI RefId="M-0048_A-4964-10-F885_O-9_R-4044" IsActive="true" />
+      </CIs>
+      <Security />
+    </DI>
+    <DI Id="P-00B6-0_DI-17" Address="102" Name="" ProductRefId="M-0048_H-4969202-1_P-4969202" Hardware2ProgramRefId="M-0048_H-4969202-1_HP-4962-10-705C" Comment="" Description="DI2.BC1" IndividualAddressLoaded="true" MediumConfigLoaded="true" IsCommunicationObjectVisibilityCalculated="true" Birdy-IsChannelVisibilityCalculated="true" LastModified="2016-08-30T03:36:20.2708578Z" LastDownload="2016-09-02T02:00:04.2761425Z" Puid="23">
+      <CIs>
+        <CI RefId="M-0048_A-4962-10-705C_O-2_R-3112" IsActive="true" />
+        <CI RefId="M-0048_A-4962-10-705C_O-5_R-4093" IsActive="true" />
+        <CI RefId="M-0048_A-4962-10-705C_O-0_R-3102" IsActive="true" />
+        <CI RefId="M-0048_A-4962-10-705C_O-3_R-4088" IsActive="true" />
+      </CIs>
+      <Security />
+    </DI>
+    <DI Id="P-00B6-0_DI-18" Address="103" Name="" ProductRefId="M-0048_H-4969202-1_P-4969202" Hardware2ProgramRefId="M-0048_H-4969202-1_HP-4962-10-705C" Comment="" Description="DI3.BC1" IndividualAddressLoaded="true" MediumConfigLoaded="true" IsCommunicationObjectVisibilityCalculated="true" Birdy-IsChannelVisibilityCalculated="true" LastModified="2016-08-30T03:36:28.1548711Z" LastDownload="2016-09-02T02:03:34.9831311Z" Puid="24">
+      <CIs>
+        <CI RefId="M-0048_A-4962-10-705C_O-2_R-3112" IsActive="true" />
+        <CI RefId="M-0048_A-4962-10-705C_O-5_R-4093" IsActive="true" />
+        <CI RefId="M-0048_A-4962-10-705C_O-0_R-3102" IsActive="true" />
+        <CI RefId="M-0048_A-4962-10-705C_O-3_R-4088" IsActive="true" />
+      </CIs>
+      <Security />
+    </DI>
+    <DI Id="P-00B6-0_DI-19" Address="107" Name="" ProductRefId="M-0048_H-4969202-1_P-4969202" Hardware2ProgramRefId="M-0048_H-4969202-1_HP-4962-10-705C" Comment="" Description="DI7.BC1" IndividualAddressLoaded="true" MediumConfigLoaded="true" IsCommunicationObjectVisibilityCalculated="true" Birdy-IsChannelVisibilityCalculated="true" LastModified="2016-08-30T03:36:31.5487125Z" LastDownload="2016-09-02T02:18:05.1258777Z" Puid="25">
+      <CIs>
+        <CI RefId="M-0048_A-4962-10-705C_O-2_R-3112" IsActive="true" />
+        <CI RefId="M-0048_A-4962-10-705C_O-5_R-4093" IsActive="true" />
+        <CI RefId="M-0048_A-4962-10-705C_O-0_R-3102" IsActive="true" />
+        <CI RefId="M-0048_A-4962-10-705C_O-3_R-4088" IsActive="true" />
+      </CIs>
+      <Security />
+    </DI>
+    <DI Id="P-00B6-0_DI-20" Address="106" Name="" ProductRefId="M-0048_H-4969202-1_P-4969202" Hardware2ProgramRefId="M-0048_H-4969202-1_HP-4962-10-705C" Comment="" Description="DI6.BC1" IndividualAddressLoaded="true" MediumConfigLoaded="true" IsCommunicationObjectVisibilityCalculated="true" Birdy-IsChannelVisibilityCalculated="true" LastModified="2016-08-30T03:36:37.14799Z" LastDownload="2016-09-02T02:14:23.8090629Z" Puid="26">
+      <CIs>
+        <CI RefId="M-0048_A-4962-10-705C_O-2_R-3112" IsActive="true" />
+        <CI RefId="M-0048_A-4962-10-705C_O-5_R-4093" IsActive="true" />
+        <CI RefId="M-0048_A-4962-10-705C_O-0_R-3102" IsActive="true" />
+        <CI RefId="M-0048_A-4962-10-705C_O-3_R-4088" IsActive="true" />
+      </CIs>
+      <Security />
+    </DI>
+    <DI Id="P-00B6-0_DI-21" Address="12" Name="" ProductRefId="M-0008_H-8.20.2F.2F.2018400-1-O0001_P-184.2000" Hardware2ProgramRefId="M-0008_H-8.20.2F.2F.2018400-1-O0001_HP-1056-01-90FF-O0001" Comment="" Description="PBK11.BC1" IndividualAddressLoaded="true" MediumConfigLoaded="true" IsCommunicationObjectVisibilityCalculated="true" Birdy-IsChannelVisibilityCalculated="true" LastModified="2016-08-30T04:03:07.9257876Z" LastDownload="2016-09-15T22:18:23.0296921Z" Puid="27">
+      <CIs>
+        <CI RefId="M-0008_A-1056-01-90FF-O0001_O-0_R-1" IsActive="true">
+          <Cs>
+            <S GroupAddressRefId="P-00B6-0_GA-215" />
+          </Cs>
+        </CI>
+        <CI RefId="M-0008_A-1056-01-90FF-O0001_O-1_R-11" IsActive="true">
+          <Cs>
+            <S GroupAddressRefId="P-00B6-0_GA-216" />
+          </Cs>
+        </CI>
+      </CIs>
+      <Security />
+    </DI>
+    <DI Id="P-00B6-0_DI-22" Address="60" Name="" ProductRefId="M-008E_H-40078410076xx-1_P-40078410076xx" Hardware2ProgramRefId="M-008E_H-40078410076xx-1_HP-5709-10-7652" Comment="" Description="SP10.BC1" IsCommunicationObjectVisibilityCalculated="true" Birdy-IsChannelVisibilityCalculated="true" LastModified="2016-08-30T04:03:38.1391866Z" Puid="28">
+      <CIs>
+        <CI RefId="M-008E_A-5709-10-7652_O-30_R-31" IsActive="true" />
+        <CI RefId="M-008E_A-5709-10-7652_O-31_R-32" IsActive="true" />
+        <CI RefId="M-008E_A-5709-10-7652_O-32_R-33" IsActive="true" />
+        <CI RefId="M-008E_A-5709-10-7652_O-0_R-1" IsActive="true" />
+        <CI RefId="M-008E_A-5709-10-7652_O-3_R-4" IsActive="true" />
+        <CI RefId="M-008E_A-5709-10-7652_O-7_R-8" IsActive="true" />
+        <CI RefId="M-008E_A-5709-10-7652_O-10_R-11" IsActive="true" />
+      </CIs>
+      <Security />
+    </DI>
+    <DI Id="P-00B6-0_DI-23" Address="61" Name="" ProductRefId="M-008E_H-40078410076xx-1_P-40078410076xx" Hardware2ProgramRefId="M-008E_H-40078410076xx-1_HP-5709-10-7652" Comment="" Description="SP11.BC1" IsCommunicationObjectVisibilityCalculated="true" Birdy-IsChannelVisibilityCalculated="true" LastModified="2016-08-30T04:03:40.6091018Z" Puid="29">
+      <CIs>
+        <CI RefId="M-008E_A-5709-10-7652_O-30_R-31" IsActive="true" />
+        <CI RefId="M-008E_A-5709-10-7652_O-31_R-32" IsActive="true" />
+        <CI RefId="M-008E_A-5709-10-7652_O-32_R-33" IsActive="true" />
+        <CI RefId="M-008E_A-5709-10-7652_O-0_R-1" IsActive="true" />
+        <CI RefId="M-008E_A-5709-10-7652_O-3_R-4" IsActive="true" />
+        <CI RefId="M-008E_A-5709-10-7652_O-7_R-8" IsActive="true" />
+        <CI RefId="M-008E_A-5709-10-7652_O-10_R-11" IsActive="true" />
+      </CIs>
+      <Security />
+    </DI>
+    <DI Id="P-00B6-0_DI-27" Address="63" Name="" ProductRefId="M-00E8_H-200900-1_P-200.209.2000.20.2A" Hardware2ProgramRefId="M-00E8_H-200900-1_HP-000A-10-18A6" Comment="" Description="SP13.BC1" SerialNumber="AOgGCdHv" IndividualAddressLoaded="true" MediumConfigLoaded="true" IsCommunicationObjectVisibilityCalculated="true" Birdy-IsChannelVisibilityCalculated="true" LastModified="2016-09-28T00:57:46.5921898Z" LastDownload="2016-09-15T23:28:17.7585278Z" Puid="77">
+      <PIs>
+        <PI RefId="M-00E8_A-000A-10-18A6_P-1029_R-1029" Value="1" />
+        <PI RefId="M-00E8_A-000A-10-18A6_P-5033_R-5033" Value="30" />
+      </PIs>
+      <CIs>
+        <CI RefId="M-00E8_A-000A-10-18A6_O-33_R-10072" IsActive="true" />
+        <CI RefId="M-00E8_A-000A-10-18A6_O-35_R-10074" IsActive="true" />
+        <CI RefId="M-00E8_A-000A-10-18A6_O-0_R-10000" IsActive="true">
+          <Cs>
+            <S GroupAddressRefId="P-00B6-0_GA-210" />
+          </Cs>
+        </CI>
+        <CI RefId="M-00E8_A-000A-10-18A6_O-13_R-10019" IsActive="true" />
+        <CI RefId="M-00E8_A-000A-10-18A6_O-34_R-10073" IsActive="true" />
+        <CI RefId="M-00E8_A-000A-10-18A6_O-24_R-10029" IsActive="true" />
+        <CI RefId="M-00E8_A-000A-10-18A6_O-15_R-10071" IsActive="true">
+          <Cs>
+            <S GroupAddressRefId="P-00B6-0_GA-211" />
+          </Cs>
+        </CI>
+      </CIs>
+      <Security />
+    </DI>
+    <DI Id="P-00B6-0_DI-28" Address="62" Name="" ProductRefId="M-00E8_H-200900-1_P-200.209.2000.20.2A" Hardware2ProgramRefId="M-00E8_H-200900-1_HP-000A-10-18A6" Comment="" Description="SP12.BC1" SerialNumber="AOgGCdJT" IndividualAddressLoaded="true" MediumConfigLoaded="true" IsCommunicationObjectVisibilityCalculated="true" Birdy-IsChannelVisibilityCalculated="true" LastModified="2016-09-28T00:56:33.7277545Z" LastDownload="2016-09-15T23:25:33.8056448Z" Puid="78">
+      <PIs>
+        <PI RefId="M-00E8_A-000A-10-18A6_P-1029_R-1029" Value="1" />
+        <PI RefId="M-00E8_A-000A-10-18A6_UP-5030_R-5030" Value="0" />
+        <PI RefId="M-00E8_A-000A-10-18A6_P-5033_R-5033" Value="30" />
+      </PIs>
+      <CIs>
+        <CI RefId="M-00E8_A-000A-10-18A6_O-33_R-10072" IsActive="true" />
+        <CI RefId="M-00E8_A-000A-10-18A6_O-35_R-10074" IsActive="true" />
+        <CI RefId="M-00E8_A-000A-10-18A6_O-0_R-10000" IsActive="true">
+          <Cs>
+            <S GroupAddressRefId="P-00B6-0_GA-207" />
+          </Cs>
+        </CI>
+        <CI RefId="M-00E8_A-000A-10-18A6_O-13_R-10019" IsActive="true" />
+        <CI RefId="M-00E8_A-000A-10-18A6_O-34_R-10073" IsActive="true" />
+        <CI RefId="M-00E8_A-000A-10-18A6_O-24_R-10029" IsActive="true" />
+        <CI RefId="M-00E8_A-000A-10-18A6_O-15_R-10071" IsActive="true">
+          <Cs>
+            <S GroupAddressRefId="P-00B6-0_GA-208" />
+          </Cs>
+        </CI>
+      </CIs>
+      <Security />
+    </DI>
+    <DI Id="P-00B6-0_DI-30" Address="14" Name="" ProductRefId="M-0008_H-8.20.2F.2F.2018400-1-O0001_P-184.2000" Hardware2ProgramRefId="M-0008_H-8.20.2F.2F.2018400-1-O0001_HP-1056-01-90FF-O0001" Comment="" Description="PBK13.BC1" IndividualAddressLoaded="true" MediumConfigLoaded="true" IsCommunicationObjectVisibilityCalculated="true" Birdy-IsChannelVisibilityCalculated="true" LastModified="2016-08-30T22:22:50.3171128Z" LastDownload="2016-09-15T22:23:30.8919672Z" Puid="80">
+      <CIs>
+        <CI RefId="M-0008_A-1056-01-90FF-O0001_O-0_R-1" IsActive="true">
+          <Cs>
+            <S GroupAddressRefId="P-00B6-0_GA-195" />
+          </Cs>
+        </CI>
+        <CI RefId="M-0008_A-1056-01-90FF-O0001_O-1_R-11" IsActive="true">
+          <Cs>
+            <S GroupAddressRefId="P-00B6-0_GA-196" />
+          </Cs>
+        </CI>
+      </CIs>
+      <Security />
+    </DI>
+    <DI Id="P-00B6-0_DI-31" Address="203" Name="" ProductRefId="M-0008_H-8.20.2F.2F.202104.20xx-1-O00F4_P-2104.20xx" Hardware2ProgramRefId="M-0008_H-8.20.2F.2F.202104.20xx-1-O00F4_HP-7062-11-148E-O00F4" Comment="" Description="SRC3.BC1" IsCommunicationObjectVisibilityCalculated="true" Birdy-IsChannelVisibilityCalculated="true" LastModified="2016-08-31T00:42:02.0450131Z" Puid="81">
+      <CIs>
+        <CI RefId="M-0008_A-7062-11-148E-O00F4_O-82_R-11187" IsActive="true" />
+        <CI RefId="M-0008_A-7062-11-148E-O00F4_O-112_R-12761" IsActive="true" />
+        <CI RefId="M-0008_A-7062-11-148E-O00F4_O-23_R-10766" IsActive="true" />
+        <CI RefId="M-0008_A-7062-11-148E-O00F4_O-59_R-12758" IsActive="true" />
+        <CI RefId="M-0008_A-7062-11-148E-O00F4_O-80_R-11236" IsActive="true" />
+        <CI RefId="M-0008_A-7062-11-148E-O00F4_O-110_R-12760" IsActive="true" />
+        <CI RefId="M-0008_A-7062-11-148E-O00F4_O-81_R-11166" IsActive="true" />
+        <CI RefId="M-0008_A-7062-11-148E-O00F4_O-111_R-12759" IsActive="true" />
+        <CI RefId="M-0008_A-7062-11-148E-O00F4_O-108_R-11237" IsActive="true" />
+        <CI RefId="M-0008_A-7062-11-148E-O00F4_O-83_R-12762" IsActive="true" />
+        <CI RefId="M-0008_A-7062-11-148E-O00F4_O-1_R-11107" IsActive="true">
+          <Cs>
+            <S GroupAddressRefId="P-00B6-0_GA-27" />
+          </Cs>
+        </CI>
+        <CI RefId="M-0008_A-7062-11-148E-O00F4_O-3_R-11108" IsActive="true" />
+        <CI RefId="M-0008_A-7062-11-148E-O00F4_O-0_R-10985" IsActive="true" />
+        <CI RefId="M-0008_A-7062-11-148E-O00F4_O-2_R-10986" IsActive="true" />
+        <CI RefId="M-0008_A-7062-11-148E-O00F4_O-42_R-12214" IsActive="true" />
+        <CI RefId="M-0008_A-7062-11-148E-O00F4_O-28_R-12050" IsActive="true" />
+        <CI RefId="M-0008_A-7062-11-148E-O00F4_O-32_R-12049" IsActive="true" />
+        <CI RefId="M-0008_A-7062-11-148E-O00F4_O-34_R-12054" IsActive="true" />
+        <CI RefId="M-0008_A-7062-11-148E-O00F4_O-36_R-12228" IsActive="true" />
+        <CI RefId="M-0008_A-7062-11-148E-O00F4_O-55_R-12225" IsActive="true" />
+        <CI RefId="M-0008_A-7062-11-148E-O00F4_O-56_R-12226" IsActive="true" />
+        <CI RefId="M-0008_A-7062-11-148E-O00F4_O-33_R-12044" IsActive="true" />
+        <CI RefId="M-0008_A-7062-11-148E-O00F4_O-52_R-12210" IsActive="true" />
+        <CI RefId="M-0008_A-7062-11-148E-O00F4_O-53_R-12211" IsActive="true" />
+        <CI RefId="M-0008_A-7062-11-148E-O00F4_O-26_R-12206" IsActive="true" />
+        <CI RefId="M-0008_A-7062-11-148E-O00F4_O-50_R-12209" IsActive="true" />
+      </CIs>
+      <Security />
+    </DI>
+    <DI Id="P-00B6-0_DI-32" Address="202" Name="" ProductRefId="M-0008_H-8.20.2F.2F.202104.20xx-1-O00F4_P-2104.20xx" Hardware2ProgramRefId="M-0008_H-8.20.2F.2F.202104.20xx-1-O00F4_HP-7062-11-148E-O00F4" Comment="" Description="SRC2.BC1" IsCommunicationObjectVisibilityCalculated="true" Birdy-IsChannelVisibilityCalculated="true" LastModified="2016-08-31T00:42:10.6910743Z" Puid="82">
+      <CIs>
+        <CI RefId="M-0008_A-7062-11-148E-O00F4_O-82_R-11187" IsActive="true">
+          <Cs>
+            <S GroupAddressRefId="P-00B6-0_GA-21" />
+          </Cs>
+        </CI>
+        <CI RefId="M-0008_A-7062-11-148E-O00F4_O-112_R-12761" IsActive="true" />
+        <CI RefId="M-0008_A-7062-11-148E-O00F4_O-23_R-10766" IsActive="true" />
+        <CI RefId="M-0008_A-7062-11-148E-O00F4_O-59_R-12758" IsActive="true" />
+        <CI RefId="M-0008_A-7062-11-148E-O00F4_O-80_R-11236" IsActive="true">
+          <Cs>
+            <S GroupAddressRefId="P-00B6-0_GA-19" />
+          </Cs>
+        </CI>
+        <CI RefId="M-0008_A-7062-11-148E-O00F4_O-110_R-12760" IsActive="true" />
+        <CI RefId="M-0008_A-7062-11-148E-O00F4_O-81_R-11166" IsActive="true">
+          <Cs>
+            <S GroupAddressRefId="P-00B6-0_GA-20" />
+          </Cs>
+        </CI>
+        <CI RefId="M-0008_A-7062-11-148E-O00F4_O-111_R-12759" IsActive="true" />
+        <CI RefId="M-0008_A-7062-11-148E-O00F4_O-108_R-11237" IsActive="true" />
+        <CI RefId="M-0008_A-7062-11-148E-O00F4_O-83_R-12762" IsActive="true" />
+        <CI RefId="M-0008_A-7062-11-148E-O00F4_O-1_R-11107" IsActive="true">
+          <Cs>
+            <S GroupAddressRefId="P-00B6-0_GA-15" />
+          </Cs>
+        </CI>
+        <CI RefId="M-0008_A-7062-11-148E-O00F4_O-3_R-11108" IsActive="true" />
+        <CI RefId="M-0008_A-7062-11-148E-O00F4_O-0_R-10985" IsActive="true" />
+        <CI RefId="M-0008_A-7062-11-148E-O00F4_O-2_R-10986" IsActive="true" />
+        <CI RefId="M-0008_A-7062-11-148E-O00F4_O-42_R-12214" IsActive="true" />
+        <CI RefId="M-0008_A-7062-11-148E-O00F4_O-28_R-12050" IsActive="true" />
+        <CI RefId="M-0008_A-7062-11-148E-O00F4_O-32_R-12049" IsActive="true" />
+        <CI RefId="M-0008_A-7062-11-148E-O00F4_O-34_R-12054" IsActive="true" />
+        <CI RefId="M-0008_A-7062-11-148E-O00F4_O-36_R-12228" IsActive="true" />
+        <CI RefId="M-0008_A-7062-11-148E-O00F4_O-55_R-12225" IsActive="true" />
+        <CI RefId="M-0008_A-7062-11-148E-O00F4_O-56_R-12226" IsActive="true" />
+        <CI RefId="M-0008_A-7062-11-148E-O00F4_O-33_R-12044" IsActive="true" />
+        <CI RefId="M-0008_A-7062-11-148E-O00F4_O-52_R-12210" IsActive="true" />
+        <CI RefId="M-0008_A-7062-11-148E-O00F4_O-53_R-12211" IsActive="true" />
+        <CI RefId="M-0008_A-7062-11-148E-O00F4_O-26_R-12206" IsActive="true" />
+        <CI RefId="M-0008_A-7062-11-148E-O00F4_O-50_R-12209" IsActive="true" />
+      </CIs>
+      <Security />
+    </DI>
+    <DI Id="P-00B6-0_DI-33" Address="201" Name="" ProductRefId="M-0008_H-8.20.2F.2F.202104.20xx-1-O00F4_P-2104.20xx" Hardware2ProgramRefId="M-0008_H-8.20.2F.2F.202104.20xx-1-O00F4_HP-7062-11-148E-O00F4" Comment="" Description="SRC1.BC1" SerialNumber="AAoRmi0P" ApplicationProgramLoaded="true" CommunicationPartLoaded="true" IndividualAddressLoaded="true" MediumConfigLoaded="true" ParametersLoaded="true" IsCommunicationObjectVisibilityCalculated="true" Birdy-IsChannelVisibilityCalculated="true" LastModified="2016-09-27T23:58:46.6502524Z" CheckSums="AQABAAEAAAABAAAAAwIAAAABNpoBSBA=" LoadedImage="7dTLTxNBHMDx325pZ9kWaO2qWCJCjBFjCFpjiIgxTSPGVIOKhogxRkOMGt8gUSSKhEcVH/gAX6jgC73h3ZN/gPFEPHvy4IGDN6L1O2210oaEEI9M85nfzu83s7szTdYQQ0wR+lRLREWqSLj61TslDaLMRlF5RA+soKh82PDC5xJVgEIUwY8AFiAIBwuxCItRjCUIoSRmqaVBSy1zWaqcuJy4okGplTxnFVajknEVcS3PWkdcH1WqOipqAzaS24TNiJCPkttC3ErcRoxhB+qxi2c1cP+9MaUag0rtI7c/aqkDxIOsP8T7HGZOM/G/qrfUERzFce5/IibqJE7hNM7gLM6hBa2cQxsuoB0duIxOdKGbe/agF32I4xquox83uMdN9niLeBsDuONKY593cQ/3Mcg5DeEB1w/xCI/xhNwwnnL9DM8xglHO6gVecv0Kr/EGY+TeRlVivs232bc/n5uaOpFjDFyG7gK1Hsk3TSe7043viwymV0kk2VvJz1aerPGHh8KTU+4pd5HNLAnRxIgHSn2hge/OlwrzQ+GE49SEJyua9CTJaob3m7fbW+bb7hsvcKYVjFqPmXxT40cqUySexCfjo1EpLimupvNLrehHlkpYKxEPg2azQpfqcuu2rqvPZt5XSp6JnHpQ74m6rZc2JdfL9Dpb36nfrKX1fJvd+cv6GZHdenyx/VKHO3U0e/T4SufVLtsfKCuPyJgEbKenty/uGxkdf59I8JGnSebPyOw4ldUT/ibS/Vz+5OyDnrGYm88M9StJ+vfvtFnW01e5dcmuywzr59p+Aw==" LastDownload="2016-09-28T00:03:28.039174Z" LastUsedAPDULength="15" Puid="83">
+      <PIs>
+        <PI RefId="M-0008_A-7062-11-148E-O00F4_P-27_R-27" Value="0" />
+        <PI RefId="M-0008_A-7062-11-148E-O00F4_P-79_R-79" Value="60" />
+        <PI RefId="M-0008_A-7062-11-148E-O00F4_P-104_R-104" Value="60" />
+        <PI RefId="M-0008_A-7062-11-148E-O00F4_P-114_R-114" Value="60" />
+        <PI RefId="M-0008_A-7062-11-148E-O00F4_P-127_R-127" Value="60" />
+      </PIs>
+      <CIs>
+        <CI RefId="M-0008_A-7062-11-148E-O00F4_O-82_R-11187" IsActive="true">
+          <Cs>
+            <S GroupAddressRefId="P-00B6-0_GA-5" />
+          </Cs>
+        </CI>
+        <CI RefId="M-0008_A-7062-11-148E-O00F4_O-112_R-12761" IsActive="true" />
+        <CI RefId="M-0008_A-7062-11-148E-O00F4_O-23_R-10766" IsActive="true" />
+        <CI RefId="M-0008_A-7062-11-148E-O00F4_O-59_R-12758" IsActive="true" />
+        <CI RefId="M-0008_A-7062-11-148E-O00F4_O-80_R-11236" IsActive="true">
+          <Cs>
+            <S GroupAddressRefId="P-00B6-0_GA-3" />
+          </Cs>
+        </CI>
+        <CI RefId="M-0008_A-7062-11-148E-O00F4_O-110_R-12760" IsActive="true" />
+        <CI RefId="M-0008_A-7062-11-148E-O00F4_O-81_R-11166" IsActive="true">
+          <Cs>
+            <S GroupAddressRefId="P-00B6-0_GA-4" />
+          </Cs>
+        </CI>
+        <CI RefId="M-0008_A-7062-11-148E-O00F4_O-111_R-12759" IsActive="true" />
+        <CI RefId="M-0008_A-7062-11-148E-O00F4_O-108_R-11237" IsActive="true" />
+        <CI RefId="M-0008_A-7062-11-148E-O00F4_O-83_R-12762" IsActive="true" />
+        <CI RefId="M-0008_A-7062-11-148E-O00F4_O-1_R-11107" IsActive="true">
+          <Cs>
+            <S GroupAddressRefId="P-00B6-0_GA-10" />
+          </Cs>
+        </CI>
+        <CI RefId="M-0008_A-7062-11-148E-O00F4_O-0_R-10985" IsActive="true" />
+        <CI RefId="M-0008_A-7062-11-148E-O00F4_O-2_R-10986" IsActive="true" />
+        <CI RefId="M-0008_A-7062-11-148E-O00F4_O-42_R-12214" IsActive="true" />
+        <CI RefId="M-0008_A-7062-11-148E-O00F4_O-28_R-12050" IsActive="true" />
+        <CI RefId="M-0008_A-7062-11-148E-O00F4_O-32_R-12049" IsActive="true" />
+        <CI RefId="M-0008_A-7062-11-148E-O00F4_O-34_R-12054" IsActive="true" />
+        <CI RefId="M-0008_A-7062-11-148E-O00F4_O-36_R-12228" IsActive="true" />
+        <CI RefId="M-0008_A-7062-11-148E-O00F4_O-55_R-12225" IsActive="true" />
+        <CI RefId="M-0008_A-7062-11-148E-O00F4_O-56_R-12226" IsActive="true" />
+        <CI RefId="M-0008_A-7062-11-148E-O00F4_O-33_R-12044" IsActive="true" />
+        <CI RefId="M-0008_A-7062-11-148E-O00F4_O-52_R-12210" IsActive="true" />
+        <CI RefId="M-0008_A-7062-11-148E-O00F4_O-53_R-12211" IsActive="true" />
+        <CI RefId="M-0008_A-7062-11-148E-O00F4_O-26_R-12206" IsActive="true" />
+        <CI RefId="M-0008_A-7062-11-148E-O00F4_O-50_R-12209" IsActive="true" />
+        <CI RefId="M-0008_A-7062-11-148E-O00F4_O-3_R-11108" IsActive="true" />
+      </CIs>
+      <Security />
+    </DI>
+    <DI Id="P-00B6-0_DI-34" Address="109" Name="" ProductRefId="M-0048_H-4969202-1_P-4969202" Hardware2ProgramRefId="M-0048_H-4969202-1_HP-4962-10-705C" Comment="" Description="DI9.BC1" IndividualAddressLoaded="true" MediumConfigLoaded="true" IsCommunicationObjectVisibilityCalculated="true" Birdy-IsChannelVisibilityCalculated="true" LastModified="2016-08-31T02:03:18.3855426Z" LastDownload="2016-09-02T02:23:00.7824818Z" Puid="84">
+      <CIs>
+        <CI RefId="M-0048_A-4962-10-705C_O-2_R-3112" IsActive="true" />
+        <CI RefId="M-0048_A-4962-10-705C_O-5_R-4093" IsActive="true" />
+        <CI RefId="M-0048_A-4962-10-705C_O-0_R-3102" IsActive="true" />
+        <CI RefId="M-0048_A-4962-10-705C_O-3_R-4088" IsActive="true" />
+      </CIs>
+      <Security />
+    </DI>
+    <DI Id="P-00B6-0_DI-35" Address="108" Name="" ProductRefId="M-0048_H-4969202-1_P-4969202" Hardware2ProgramRefId="M-0048_H-4969202-1_HP-4962-10-705C" Comment="" Description="DI8.BC1" IndividualAddressLoaded="true" MediumConfigLoaded="true" IsCommunicationObjectVisibilityCalculated="true" Birdy-IsChannelVisibilityCalculated="true" LastModified="2016-08-31T02:03:21.018709Z" LastDownload="2016-09-02T02:20:45.0217819Z" Puid="85">
+      <CIs>
+        <CI RefId="M-0048_A-4962-10-705C_O-2_R-3112" IsActive="true" />
+        <CI RefId="M-0048_A-4962-10-705C_O-5_R-4093" IsActive="true" />
+        <CI RefId="M-0048_A-4962-10-705C_O-0_R-3102" IsActive="true" />
+        <CI RefId="M-0048_A-4962-10-705C_O-3_R-4088" IsActive="true" />
+      </CIs>
+      <Security />
+    </DI>
+    <DI Id="P-00B6-0_DI-36" Address="151" Name="" ProductRefId="M-0002_H-2CDG.20110.20138.20R0011-1_P-2CDG.20110.20138.20R0011" Hardware2ProgramRefId="M-0002_H-2CDG.20110.20138.20R0011-1_HP-A05E-32-47E4" Comment="" Description="SWA1.BC1" SerialNumber="AAI6ER1R" ApplicationProgramLoaded="true" IndividualAddressLoaded="true" MediumConfigLoaded="true" ParametersLoaded="true" IsCommunicationObjectVisibilityCalculated="true" Birdy-IsChannelVisibilityCalculated="true" LastModified="2016-09-28T00:32:15.7396841Z" LastDownload="2016-09-28T00:01:36.4167009Z" LastUsedAPDULength="15" Puid="396">
+      <CIs>
+        <CI RefId="M-0002_A-A05E-32-47E4_O-0_R-6274" IsActive="true" />
+        <CI RefId="M-0002_A-A05E-32-47E4_O-29_R-6839" IsActive="true" />
+        <CI RefId="M-0002_A-A05E-32-47E4_O-10_R-6820" IsActive="true">
+          <Cs>
+            <S GroupAddressRefId="P-00B6-0_GA-202" />
+          </Cs>
+        </CI>
+        <CI RefId="M-0002_A-A05E-32-47E4_O-49_R-6662" IsActive="true" />
+        <CI RefId="M-0002_A-A05E-32-47E4_O-30_R-6639" IsActive="true">
+          <Cs>
+            <S GroupAddressRefId="P-00B6-0_GA-106" />
+          </Cs>
+        </CI>
+        <CI RefId="M-0002_A-A05E-32-47E4_O-69_R-6767" IsActive="true" />
+        <CI RefId="M-0002_A-A05E-32-47E4_O-50_R-6744" IsActive="true">
+          <Cs>
+            <S GroupAddressRefId="P-00B6-0_GA-58" />
+          </Cs>
+        </CI>
+        <CI RefId="M-0002_A-A05E-32-47E4_O-89_R-6874" IsActive="true" />
+        <CI RefId="M-0002_A-A05E-32-47E4_O-70_R-6846" IsActive="true">
+          <Cs>
+            <S GroupAddressRefId="P-00B6-0_GA-198" />
+          </Cs>
+        </CI>
+        <CI RefId="M-0002_A-A05E-32-47E4_O-109_R-6629" IsActive="true" />
+        <CI RefId="M-0002_A-A05E-32-47E4_O-90_R-2155" IsActive="true">
+          <Cs>
+            <S GroupAddressRefId="P-00B6-0_GA-70" />
+          </Cs>
+        </CI>
+        <CI RefId="M-0002_A-A05E-32-47E4_O-129_R-6697" IsActive="true" />
+        <CI RefId="M-0002_A-A05E-32-47E4_O-110_R-6674" IsActive="true">
+          <Cs>
+            <S GroupAddressRefId="P-00B6-0_GA-199" />
+          </Cs>
+        </CI>
+        <CI RefId="M-0002_A-A05E-32-47E4_O-149_R-6802" IsActive="true" />
+        <CI RefId="M-0002_A-A05E-32-47E4_O-130_R-6783" IsActive="true">
+          <Cs>
+            <S GroupAddressRefId="P-00B6-0_GA-118" />
+          </Cs>
+        </CI>
+        <CI RefId="M-0002_A-A05E-32-47E4_O-169_R-6732" IsActive="true" />
+        <CI RefId="M-0002_A-A05E-32-47E4_O-150_R-6713" IsActive="true">
+          <Cs>
+            <S GroupAddressRefId="P-00B6-0_GA-6" />
+          </Cs>
+        </CI>
+        <CI RefId="M-0002_A-A05E-32-47E4_O-189_R-6918" IsActive="true" />
+        <CI RefId="M-0002_A-A05E-32-47E4_O-170_R-6917" IsActive="true">
+          <Cs>
+            <S GroupAddressRefId="P-00B6-0_GA-59" />
+          </Cs>
+        </CI>
+        <CI RefId="M-0002_A-A05E-32-47E4_O-209_R-7019" IsActive="true" />
+        <CI RefId="M-0002_A-A05E-32-47E4_O-190_R-6986" IsActive="true">
+          <Cs>
+            <S GroupAddressRefId="P-00B6-0_GA-34" />
+          </Cs>
+        </CI>
+        <CI RefId="M-0002_A-A05E-32-47E4_O-229_R-6983" IsActive="true" />
+        <CI RefId="M-0002_A-A05E-32-47E4_O-210_R-6959" IsActive="true">
+          <Cs>
+            <S GroupAddressRefId="P-00B6-0_GA-71" />
+          </Cs>
+        </CI>
+        <CI RefId="M-0002_A-A05E-32-47E4_O-249_R-6947" IsActive="true" />
+        <CI RefId="M-0002_A-A05E-32-47E4_O-230_R-7022" IsActive="true">
+          <Cs>
+            <S GroupAddressRefId="P-00B6-0_GA-22" />
+            <Rcv GroupAddressRefId="P-00B6-0_GA-59" />
+          </Cs>
+        </CI>
+      </CIs>
+      <Security />
+    </DI>
+    <DI Id="P-00B6-0_DI-37" Address="152" Name="" ProductRefId="M-0002_H-2CDG.20110.20138.20R0011-1_P-2CDG.20110.20138.20R0011" Hardware2ProgramRefId="M-0002_H-2CDG.20110.20138.20R0011-1_HP-A05E-32-47E4" Comment="" Description="SWA2.BC1" IsCommunicationObjectVisibilityCalculated="true" Birdy-IsChannelVisibilityCalculated="true" LastModified="2016-09-27T23:02:43.0743766Z" Puid="397">
+      <CIs>
+        <CI RefId="M-0002_A-A05E-32-47E4_O-0_R-6274" IsActive="true" />
+        <CI RefId="M-0002_A-A05E-32-47E4_O-29_R-6839" IsActive="true" />
+        <CI RefId="M-0002_A-A05E-32-47E4_O-10_R-6820" IsActive="true">
+          <Cs>
+            <S GroupAddressRefId="P-00B6-0_GA-142" />
+          </Cs>
+        </CI>
+        <CI RefId="M-0002_A-A05E-32-47E4_O-49_R-6662" IsActive="true" />
+        <CI RefId="M-0002_A-A05E-32-47E4_O-30_R-6639" IsActive="true">
+          <Cs>
+            <S GroupAddressRefId="P-00B6-0_GA-7" />
+          </Cs>
+        </CI>
+        <CI RefId="M-0002_A-A05E-32-47E4_O-69_R-6767" IsActive="true" />
+        <CI RefId="M-0002_A-A05E-32-47E4_O-50_R-6744" IsActive="true">
+          <Cs>
+            <S GroupAddressRefId="P-00B6-0_GA-35" />
+          </Cs>
+        </CI>
+        <CI RefId="M-0002_A-A05E-32-47E4_O-89_R-6874" IsActive="true" />
+        <CI RefId="M-0002_A-A05E-32-47E4_O-70_R-6846" IsActive="true">
+          <Cs>
+            <S GroupAddressRefId="P-00B6-0_GA-23" />
+          </Cs>
+        </CI>
+        <CI RefId="M-0002_A-A05E-32-47E4_O-109_R-6629" IsActive="true" />
+        <CI RefId="M-0002_A-A05E-32-47E4_O-90_R-2155" IsActive="true">
+          <Cs>
+            <S GroupAddressRefId="P-00B6-0_GA-209" />
+          </Cs>
+        </CI>
+        <CI RefId="M-0002_A-A05E-32-47E4_O-129_R-6697" IsActive="true" />
+        <CI RefId="M-0002_A-A05E-32-47E4_O-110_R-6674" IsActive="true">
+          <Cs>
+            <S GroupAddressRefId="P-00B6-0_GA-206" />
+          </Cs>
+        </CI>
+        <CI RefId="M-0002_A-A05E-32-47E4_O-149_R-6802" IsActive="true" />
+        <CI RefId="M-0002_A-A05E-32-47E4_O-130_R-6783" IsActive="true">
+          <Cs>
+            <S GroupAddressRefId="P-00B6-0_GA-82" />
+          </Cs>
+        </CI>
+        <CI RefId="M-0002_A-A05E-32-47E4_O-169_R-6732" IsActive="true" />
+        <CI RefId="M-0002_A-A05E-32-47E4_O-150_R-6713" IsActive="true">
+          <Cs>
+            <S GroupAddressRefId="P-00B6-0_GA-212" />
+          </Cs>
+        </CI>
+        <CI RefId="M-0002_A-A05E-32-47E4_O-189_R-6918" IsActive="true" />
+        <CI RefId="M-0002_A-A05E-32-47E4_O-170_R-6917" IsActive="true" />
+        <CI RefId="M-0002_A-A05E-32-47E4_O-209_R-7019" IsActive="true" />
+        <CI RefId="M-0002_A-A05E-32-47E4_O-190_R-6986" IsActive="true" />
+        <CI RefId="M-0002_A-A05E-32-47E4_O-229_R-6983" IsActive="true" />
+        <CI RefId="M-0002_A-A05E-32-47E4_O-210_R-6959" IsActive="true" />
+        <CI RefId="M-0002_A-A05E-32-47E4_O-249_R-6947" IsActive="true" />
+        <CI RefId="M-0002_A-A05E-32-47E4_O-230_R-7022" IsActive="true" />
+      </CIs>
+      <Security />
+    </DI>
+  </Line>
+</Area>

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<C>
+  <CatSec Id="M-0002_CS-OU" Name="Output" Number="OU" VisibleDescription="&#xD;&#xA;        " DefaultLanguage="en-US">
+    <CatSec Id="M-0002_CS-OU-B12" Name="Binary output, 12-fold" Number="B12" VisibleDescription="&#xD;&#xA;        " DefaultLanguage="en-US">
+      <CITEM Id="M-0002_H-2CDG.20110.20137.20R0011-1_HP-A06C-32-D64B_CI-2CDG.20110.20137.20R0011-1" Name="SA/S12.16.5.1 Switch Actuator,12-fold,16A,MDRC" Number="1" VisibleDescription="Switch 12f 16C/3.2c" ProductRefId="M-0002_H-2CDG.20110.20137.20R0011-1_P-2CDG.20110.20137.20R0011" Hardware2ProgramRefId="M-0002_H-2CDG.20110.20137.20R0011-1_HP-A06C-32-D64B" DefaultLanguage="en-US" />
+    </CatSec>
+  </CatSec>
+</C>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<C>
+  <CatSec Id="M-00E8_CS-HTSPCA001" Name="Physical sensors" Number="HTSPCA001" VisibleDescription="" DefaultLanguage="en-US">
+    <CatSec Id="M-00E8_CS-HTSPCA001-presence" Name="Presence detectors" Number="presence" VisibleDescription="" DefaultLanguage="en-US">
+      <CITEM Id="M-00E8_H-200905-0_HP-000B-10-5F52_CI-200.209.2005.20.2A.20.20.20-0" Name="PresenceLight 180-KNX" Number="0" VisibleDescription="2xLicht, 2xHKL, Überwachung, Helligkeit, Präsenzmelder mit Konstantlichtregelung" ProductRefId="M-00E8_H-200905-0_P-200.209.2005.20.2A.20.20.20" Hardware2ProgramRefId="M-00E8_H-200905-0_HP-000B-10-5F52" DefaultLanguage="de-DE" />
+      <CITEM Id="M-00E8_H-200900-1_HP-000A-10-18A6_CI-200.209.2000.20.2A-0" Name="PresenceLight 360-KNX" Number="0" VisibleDescription="2xLicht, 2xHKL, Überwachung, Helligkeit, Präsenzmelder mit Konstantlichtregelung" ProductRefId="M-00E8_H-200900-1_P-200.209.2000.20.2A" Hardware2ProgramRefId="M-00E8_H-200900-1_HP-000A-10-18A6" DefaultLanguage="de-DE" />
+    </CatSec>
+  </CatSec>
+</C>

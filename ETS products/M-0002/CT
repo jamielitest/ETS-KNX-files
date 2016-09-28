@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LS>
+  <L Identifier="en">
+    <TU RefId="M-0002_CS-OU">
+      <TE RefId="M-0002_CS-OU">
+        <T AttributeName="Name" Text="Output" />
+      </TE>
+    </TU>
+  </L>
+</LS>

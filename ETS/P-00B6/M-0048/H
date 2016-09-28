@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<H>
+  <H Id="M-0048_H-4969204-1" Name="TA 4" SerialNumber="4969204" VersionNumber="1" HasIndividualAddress="true" HasApplicationProgram="true">
+    <Prods>
+      <Prod Id="M-0048_H-4969204-1_P-4969204" Text="TA 4  (4 fach Binäreingang-/ausgabe)" OrderNumber="4969204" IsRailMounted="false" WidthInMillimeter="37" DefaultLanguage="de-DE" Hash="REllDWCSCG3wyIItms/+mjv6kB4=">
+        <RI RegistrationStatus="Registered" RegistrationSignature="iQo7kXSWE7+R6yHNqEeN8+qCxVJFqxTTTxR/SqW+0MKkF8O9n96wiw2dMCIhwbQ7T4BovQCEKcGBXIYy+iiCPMD1nIoDioV7aI1bUm3lJ8maUeBwedbYMU7aIpPjr55Bm9ljSgTMFXl9jrrnvIdG/1zBH5RB1qEEhEb19FfWPDU=" />
+      </Prod>
+    </Prods>
+    <H2Ps>
+      <H2P Id="M-0048_H-4969204-1_HP-4964-10-F885" MediumTypes="MT-0" Hash="3D8or6PUGpF5iPYeWKds4FgddRw=">
+        <APR RefId="M-0048_A-4964-10-F885" />
+        <RI RegistrationStatus="Registered" RegistrationNumber="2007/8065" OriginalRegistrationNumber="1900/0" RegistrationSignature="grsrICZg43Yf0buKrrpl0E29nIoW/AOuv3obPWa8TrSI4OOtgNTv/m9WoLPddnmA3mQYbfe9mcCWbHkZGC1GZrE7xt0TXN3fXpQ+JDEr8p0psyaYyToNMx4taPgHF1PMzEK4CdA6zONHERLYBauyWOeM7zUBwl+uaV9W7ar864w=" />
+      </H2P>
+    </H2Ps>
+  </H>
+  <H Id="M-0048_H-4969202-1" Name="TA 2" SerialNumber="4969202" VersionNumber="1" HasIndividualAddress="true" HasApplicationProgram="true">
+    <Prods>
+      <Prod Id="M-0048_H-4969202-1_P-4969202" Text="TA 2  (2 fach Binäreingang-/ausgabe)" OrderNumber="4969202" IsRailMounted="false" WidthInMillimeter="37" DefaultLanguage="de-DE" Hash="/UVEAQ1rjlg1g6J9N/0K2f4KVzI=">
+        <RI RegistrationStatus="Registered" RegistrationSignature="BX9OyyV1Ff+9JK7A3JU6jmqY6f9FuDaFUpl0FYSy51+JkR13eJDb2zlaTBpkRSKVWX/kFnTg+Y5U+vnG1/QJ1+c6LRcwXsIf2h5L9qSYSXzHa4GrO6eTkb2pcUcrEf0K6vQRmtjBnbf4h6m4rB2IERydK7awWIxhdJiz+Lp5Mnw=" />
+      </Prod>
+    </Prods>
+    <H2Ps>
+      <H2P Id="M-0048_H-4969202-1_HP-4962-10-705C" MediumTypes="MT-0" Hash="vcm9ng1SUmAL7JiR3KWCX5g8Vaw=">
+        <APR RefId="M-0048_A-4962-10-705C" />
+        <RI RegistrationStatus="Registered" RegistrationNumber="2007/8065" OriginalRegistrationNumber="1900/0" RegistrationSignature="KvgR205ehmjaBV7OSokU6CjVYVJ0liYkU+J3qQxNTE5G/iQYCMapsyfCLt75GIjbrWSOJiKVtmKi6e4plTi0mpcw1Lxbd7abeFaBi+GfJh2pRlAltoVznaGLeB8ZuXpTHXETvreJ6jZ13gPkJMoOiaB597rW2F8k5+viCpa56Fk=" />
+      </H2P>
+    </H2Ps>
+  </H>
+</H>

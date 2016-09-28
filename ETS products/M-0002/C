@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<C>
+  <CatSec Id="M-0002_CS-OU" Name="Output" Number="OU" VisibleDescription="&#xD;&#xA;        " DefaultLanguage="en-US">
+    <CatSec Id="M-0002_CS-OU-B2" Name="Binary output, 2-fold" Number="B2" VisibleDescription="&#xD;&#xA;        " DefaultLanguage="en-US">
+      <CITEM Id="M-0002_H-2CDG.20110.20112.20R0011-2_HP-A05B-32-07D8_CI-2CDG.20110.20112.20R0011-1" Name="SA/S2.16.6.1 Switch Actuator,2-fold,16A,MDRC" Number="1" VisibleDescription="Switch 2f 16CS/3.2b" ProductRefId="M-0002_H-2CDG.20110.20112.20R0011-2_P-2CDG.20110.20112.20R0011" Hardware2ProgramRefId="M-0002_H-2CDG.20110.20112.20R0011-2_HP-A05B-32-07D8" DefaultLanguage="en-US" />
+    </CatSec>
+    <CatSec Id="M-0002_CS-OU-B12" Name="Binary output, 12-fold" Number="B12" VisibleDescription="&#xD;&#xA;        " DefaultLanguage="en-US">
+      <CITEM Id="M-0002_H-2CDG.20110.20138.20R0011-1_HP-A05E-32-47E4_CI-2CDG.20110.20138.20R0011-1" Name="SA/S12.16.6.1 Switch Actuator,12-fold,16A,MDRC" Number="1" VisibleDescription="Switch 12f 16CS/3.2b" ProductRefId="M-0002_H-2CDG.20110.20138.20R0011-1_P-2CDG.20110.20138.20R0011" Hardware2ProgramRefId="M-0002_H-2CDG.20110.20138.20R0011-1_HP-A05E-32-47E4" DefaultLanguage="en-US" />
+    </CatSec>
+    <CatSec Id="M-0002_CS-OU-B4" Name="Binary output, 4-fold" Number="B4" VisibleDescription="&#xD;&#xA;        " DefaultLanguage="en-US">
+      <CITEM Id="M-0002_H-2CDG.20110.20113.20R0011-1_HP-A05C-32-3F16_CI-2CDG.20110.20113.20R0011-1" Name="SA/S4.16.6.1 Switch Actuator,4-fold,16A,MDRC" Number="1" VisibleDescription="Switch 4f 16CS/3.2b" ProductRefId="M-0002_H-2CDG.20110.20113.20R0011-1_P-2CDG.20110.20113.20R0011" Hardware2ProgramRefId="M-0002_H-2CDG.20110.20113.20R0011-1_HP-A05C-32-3F16" DefaultLanguage="en-US" />
+    </CatSec>
+    <CatSec Id="M-0002_CS-OU-B8" Name="Binary output, 8-fold " Number="B8" VisibleDescription="&#xD;&#xA;        " DefaultLanguage="en-US">
+      <CITEM Id="M-0002_H-2CDG.20110.20114.20R0011-1_HP-A05D-32-4FA1_CI-2CDG.20110.20114.20R0011-1" Name="SA/S8.16.6.1 Switch Actuator,8-fold,16A,MDRC" Number="1" VisibleDescription="Switch 8f 16CS/3.2b" ProductRefId="M-0002_H-2CDG.20110.20114.20R0011-1_P-2CDG.20110.20114.20R0011" Hardware2ProgramRefId="M-0002_H-2CDG.20110.20114.20R0011-1_HP-A05D-32-4FA1" DefaultLanguage="en-US" />
+    </CatSec>
+  </CatSec>
+</C>

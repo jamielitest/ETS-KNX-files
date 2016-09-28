@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LS>
+  <L Identifier="fr-FR">
+    <TU RefId="M-00E8_H-200905-0_P-200.209.2005.20.2A.20.20.20">
+      <TE RefId="M-00E8_H-200905-0_P-200.209.2005.20.2A.20.20.20">
+        <T AttributeName="Text" Text="PresenceLight 180-KNX" />
+      </TE>
+    </TU>
+    <TU RefId="M-00E8_H-200900-1_P-200.209.2000.20.2A">
+      <TE RefId="M-00E8_H-200900-1_P-200.209.2000.20.2A">
+        <T AttributeName="Text" Text="PresenceLight 360-KNX" />
+      </TE>
+    </TU>
+  </L>
+  <L Identifier="es-ES">
+    <TU RefId="M-00E8_H-200905-0_P-200.209.2005.20.2A.20.20.20">
+      <TE RefId="M-00E8_H-200905-0_P-200.209.2005.20.2A.20.20.20">
+        <T AttributeName="Text" Text="PresenceLight 180-KNX" />
+      </TE>
+    </TU>
+    <TU RefId="M-00E8_H-200900-1_P-200.209.2000.20.2A">
+      <TE RefId="M-00E8_H-200900-1_P-200.209.2000.20.2A">
+        <T AttributeName="Text" Text="PresenceLight 360-KNX" />
+      </TE>
+    </TU>
+  </L>
+  <L Identifier="en-US">
+    <TU RefId="M-00E8_H-200905-0_P-200.209.2005.20.2A.20.20.20">
+      <TE RefId="M-00E8_H-200905-0_P-200.209.2005.20.2A.20.20.20">
+        <T AttributeName="Text" Text="PresenceLight 180-KNX" />
+      </TE>
+    </TU>
+    <TU RefId="M-00E8_H-200900-1_P-200.209.2000.20.2A">
+      <TE RefId="M-00E8_H-200900-1_P-200.209.2000.20.2A">
+        <T AttributeName="Text" Text="PresenceLight 360-KNX" />
+      </TE>
+    </TU>
+  </L>
+  <L Identifier="it-IT">
+    <TU RefId="M-00E8_H-200905-0_P-200.209.2005.20.2A.20.20.20">
+      <TE RefId="M-00E8_H-200905-0_P-200.209.2005.20.2A.20.20.20">
+        <T AttributeName="Text" Text="PL180_KNX" />
+      </TE>
+    </TU>
+    <TU RefId="M-00E8_H-200900-1_P-200.209.2000.20.2A">
+      <TE RefId="M-00E8_H-200900-1_P-200.209.2000.20.2A">
+        <T AttributeName="Text" Text="PresenceLight 360-KNX" />
+      </TE>
+    </TU>
+  </L>
+  <L Identifier="de-DE">
+    <TU RefId="M-00E8_H-200905-0_P-200.209.2005.20.2A.20.20.20">
+      <TE RefId="M-00E8_H-200905-0_P-200.209.2005.20.2A.20.20.20">
+        <T AttributeName="Text" Text="PresenceLight 180-KNX" />
+      </TE>
+    </TU>
+    <TU RefId="M-00E8_H-200900-1_P-200.209.2000.20.2A">
+      <TE RefId="M-00E8_H-200900-1_P-200.209.2000.20.2A">
+        <T AttributeName="Text" Text="PresenceLight 360-KNX" />
+      </TE>
+    </TU>
+  </L>
+  <L Identifier="sv-SE">
+    <TU RefId="M-00E8_H-200905-0_P-200.209.2005.20.2A.20.20.20">
+      <TE RefId="M-00E8_H-200905-0_P-200.209.2005.20.2A.20.20.20">
+        <T AttributeName="Text" Text="PresenceLight 180-KNX" />
+      </TE>
+    </TU>
+    <TU RefId="M-00E8_H-200900-1_P-200.209.2000.20.2A">
+      <TE RefId="M-00E8_H-200900-1_P-200.209.2000.20.2A">
+        <T AttributeName="Text" Text="PresenceLight 360-KNX" />
+      </TE>
+    </TU>
+  </L>
+  <L Identifier="nl-NL">
+    <TU RefId="M-00E8_H-200900-1_P-200.209.2000.20.2A">
+      <TE RefId="M-00E8_H-200900-1_P-200.209.2000.20.2A">
+        <T AttributeName="Text" Text="PresenceLight 360-KNX" />
+      </TE>
+    </TU>
+  </L>
+</LS>
