@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BPs>
+  <BP Type="Building" Id="P-01B6-0_BP-1" Name="temp" Puid="6">
+    <BP Type="Room" Id="P-01B6-0_BP-2" Name="temp" Puid="7">
+      <DIR RefId="P-01B6-0_DI-1" />
+      <DIR RefId="P-01B6-0_DI-2" />
+    </BP>
+  </BP>
+</BPs>

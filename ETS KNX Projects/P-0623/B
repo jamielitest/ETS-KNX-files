@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BPs>
+  <BP Type="Building" Id="P-0623-0_BP-1" Name="111 Cory Road Dyson" Puid="6">
+    <BP Type="BuildingPart" Id="P-0623-0_BP-6" Name="Outside" Puid="11">
+      <BP Type="Room" Id="P-0623-0_BP-9" Name="Deck East" Puid="14">
+        <DIR RefId="P-0623-0_DI-2" />
+      </BP>
+      <BP Type="Room" Id="P-0623-0_BP-10" Name="Deck - West" Puid="15">
+        <DIR RefId="P-0623-0_DI-3" />
+      </BP>
+      <BP Type="Room" Id="P-0623-0_BP-11" Name="Driveway" Puid="16">
+        <DIR RefId="P-0623-0_DI-1" />
+      </BP>
+    </BP>
+    <BP Type="Floor" Id="P-0623-0_BP-7" Name="First Floor" Puid="12">
+      <BP Type="Room" Id="P-0623-0_BP-2" Name="Garage" Puid="7">
+        <DIR RefId="P-0623-0_DI-4" />
+      </BP>
+      <BP Type="Room" Id="P-0623-0_BP-4" Name="Living_dining_kitchen" Puid="9">
+        <DIR RefId="P-0623-0_DI-6" />
+      </BP>
+      <BP Type="Room" Id="P-0623-0_BP-5" Name="hall" Puid="10">
+        <DIR RefId="P-0623-0_DI-7" />
+      </BP>
+    </BP>
+    <BP Type="Floor" Id="P-0623-0_BP-8" Name="Lower floor" Puid="13">
+      <BP Type="Room" Id="P-0623-0_BP-3" Name="Lounge" Puid="8">
+        <DIR RefId="P-0623-0_DI-5" />
+      </BP>
+    </BP>
+  </BP>
+</BPs>

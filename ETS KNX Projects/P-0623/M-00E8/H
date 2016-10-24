@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<H>
+  <H Id="M-00E8_H-50000087-0" Name="thePrema S360KNX" SerialNumber="50000087" VersionNumber="0" BusCurrent="13" HasIndividualAddress="true" HasApplicationProgram="true">
+    <Prods>
+      <Prod Id="M-00E8_H-50000087-0_P-207.209.2050.2A" Text="thePrema S360 KNX" OrderNumber="207 9 50*" IsRailMounted="false" DefaultLanguage="en-US" Hash="Js74XD2TDrtDBkJXl79MtPumNr4=">
+        <RI RegistrationStatus="Certified" RegistrationDate="2014-03-28" RegistrationSignature="FW1A9CkTpbsN59baRkKIiWsXbYfQMiycnO39F5SlF65XoAnY6PJmst9bfDYQftX8xMINgT1qsK/gqJKIPZ8s/CB5gw1Apz+OVAZGI9rrApcb2TwLNWWIJdU5hFhWGmVUlYvmvoFFY+NP9ZXbZfnKoGqPsE4BjPkqp/+O+8J0CwQ=" />
+      </Prod>
+    </Prods>
+    <H2Ps>
+      <H2P Id="M-00E8_H-50000087-0_HP-000D-13-FA1F" MediumTypes="MT-0" Hash="bQ1YPMC0MYT8zSb/u2m+wk8VR8M=">
+        <APR RefId="M-00E8_A-000D-13-FA1F" />
+        <RI RegistrationStatus="Certified" RegistrationNumber="2016/12831" RegistrationDate="2016-02-04" RegistrationSignature="LPqPaG/N3QBQl8f8f2FTpUNjcbc4xSNMEqzBFLRW1LyMlmOMesIYlbvfG7zc7ne4SVAGZ4SKBUJkMlLIDcdpu5L5EW+GaXvZEh+RX5KDpMzi7QdQA18l+c7cqd5geUtyFsswKL1RJaJxHyLxjdXahKhaYHKj2iaZ7W3LiHm/0zE=" />
+      </H2P>
+    </H2Ps>
+  </H>
+  <H Id="M-00E8_H-200905-0" Name="PresenceLight 180-KNX" SerialNumber="200905" VersionNumber="0" BusCurrent="15" HasIndividualAddress="true" HasApplicationProgram="true">
+    <Prods>
+      <Prod Id="M-00E8_H-200905-0_P-200.209.2005.20.2A.20.20.20" Text="PresenceLight 180-KNX" OrderNumber="200 9 05 *   " IsRailMounted="false" DefaultLanguage="de-DE" Hash="1rMuIY0iGLM843Fc20mJF7kEJfQ=" />
+    </Prods>
+    <H2Ps>
+      <H2P Id="M-00E8_H-200905-0_HP-000B-10-5F52" MediumTypes="MT-0" Hash="k491qqG8Eretp0XR6TzbD/VmUZk=">
+        <APR RefId="M-00E8_A-000B-10-5F52" />
+        <RI RegistrationSignature="h5j1p+e5uIrliYIeED7qqwMfRX+qeFuPVsAKIPUTJc2mex8vtuFCstGgW9zfuBu0kFlj4IHjQoSOYn6aRnzcsAtwgMyRKlvlHxr45ySyj3tiTalsMikgDniLJuAaShwlvOA/e9LcMx7Mhr1LN5+E7J/4h97bwCpGLqMPK+2i1E8=" RegistrationNumber="2011/9448" RegistrationStatus="Certified" />
+      </H2P>
+    </H2Ps>
+  </H>
+</H>

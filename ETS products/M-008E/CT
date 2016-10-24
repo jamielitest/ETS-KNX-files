@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LS>
+  <L Identifier="en-US">
+    <TU RefId="M-008E_CS-BWM">
+      <TE RefId="M-008E_CS-BWM">
+        <T AttributeName="Name" Text="Motiondectector" />
+      </TE>
+    </TU>
+    <TU RefId="M-008E_H-40078410076xx-1_HP-5709-10-7652_CI-40078410076xx-1">
+      <TE RefId="M-008E_H-40078410076xx-1_HP-5709-10-7652_CI-40078410076xx-1">
+        <T AttributeName="Name" Text="STEINEL iHF 3D KNX" />
+      </TE>
+    </TU>
+    <TU RefId="M-008E_CS-PM">
+      <TE RefId="M-008E_CS-PM">
+        <T AttributeName="Name" Text="Presence detector" />
+      </TE>
+    </TU>
+    <TU RefId="M-008E_CS-PM-CP">
+      <TE RefId="M-008E_CS-PM-CP">
+        <T AttributeName="Name" Text="presence Control PRO" />
+      </TE>
+    </TU>
+    <TU RefId="M-008E_H-4007841008802-2_HP-5960-21-B1E1_CI-4007841008802-1">
+      <TE RefId="M-008E_H-4007841008802-2_HP-5960-21-B1E1_CI-4007841008802-1">
+        <T AttributeName="Name" Text="STEINEL DUAL HF KNX" />
+      </TE>
+    </TU>
+  </L>
+  <L Identifier="en">
+    <TU RefId="M-008E_CS-BWM">
+      <TE RefId="M-008E_CS-BWM">
+        <T AttributeName="Name" Text="Motion detector" />
+      </TE>
+    </TU>
+    <TU RefId="M-008E_CS-BWM-SI">
+      <TE RefId="M-008E_CS-BWM-SI">
+        <T AttributeName="Name" Text="sensIQ" />
+      </TE>
+    </TU>
+    <TU RefId="M-008E_H-40078410040xx-1_HP-0040-10-08CC_CI-40078410040xx-1">
+      <TE RefId="M-008E_H-40078410040xx-1_HP-0040-10-08CC_CI-40078410040xx-1">
+        <T AttributeName="Name" Text="STEINEL sensIQ S KNX" />
+      </TE>
+    </TU>
+  </L>
+</LS>

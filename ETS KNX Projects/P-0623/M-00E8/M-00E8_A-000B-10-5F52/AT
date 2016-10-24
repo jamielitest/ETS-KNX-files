@@ -1,0 +1,2993 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LS>
+  <L Identifier="en-US">
+    <TU RefId="M-00E8_A-000B-10-5F52">
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FActiveNotactive_EN-0">
+        <T AttributeName="Text" Text="Inactive" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FActiveNotactive_EN-1">
+        <T AttributeName="Text" Text="Active" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FActiveNotactivePP_EN-0">
+        <T AttributeName="Text" Text="Inactive" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FActiveNotactivePP_EN-1">
+        <T AttributeName="Text" Text="Active.." />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FausEin_EN-0">
+        <T AttributeName="Text" Text="Off" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FausEin_EN-1">
+        <T AttributeName="Text" Text="On" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FAusgangswert.5FSzene_EN-0">
+        <T AttributeName="Text" Text="Off" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FAusgangswert.5FSzene_EN-1">
+        <T AttributeName="Text" Text="1%" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FAusgangswert.5FSzene_EN-2">
+        <T AttributeName="Text" Text="2%" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FAusgangswert.5FSzene_EN-3">
+        <T AttributeName="Text" Text="3%" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FAusgangswert.5FSzene_EN-4">
+        <T AttributeName="Text" Text="4%" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FAusgangswert.5FSzene_EN-5">
+        <T AttributeName="Text" Text="5%" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FAusgangswert.5FSzene_EN-6">
+        <T AttributeName="Text" Text="6%" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FAusgangswert.5FSzene_EN-7">
+        <T AttributeName="Text" Text="7%" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FAusgangswert.5FSzene_EN-8">
+        <T AttributeName="Text" Text="8%" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FAusgangswert.5FSzene_EN-9">
+        <T AttributeName="Text" Text="9%" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FAusgangswert.5FSzene_EN-10">
+        <T AttributeName="Text" Text="10%" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FAusgangswert.5FSzene_EN-15">
+        <T AttributeName="Text" Text="15%" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FAusgangswert.5FSzene_EN-20">
+        <T AttributeName="Text" Text="20%" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FAusgangswert.5FSzene_EN-25">
+        <T AttributeName="Text" Text="25%" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FAusgangswert.5FSzene_EN-30">
+        <T AttributeName="Text" Text="30%" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FAusgangswert.5FSzene_EN-40">
+        <T AttributeName="Text" Text="40%" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FAusgangswert.5FSzene_EN-50">
+        <T AttributeName="Text" Text="50%" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FAusgangswert.5FSzene_EN-60">
+        <T AttributeName="Text" Text="60%" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FAusgangswert.5FSzene_EN-70">
+        <T AttributeName="Text" Text="70%" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FAusgangswert.5FSzene_EN-80">
+        <T AttributeName="Text" Text="80%" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FAusgangswert.5FSzene_EN-90">
+        <T AttributeName="Text" Text="90%" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FAusgangswert.5FSzene_EN-100">
+        <T AttributeName="Text" Text="100%" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5Fbetriebsart_EN-0">
+        <T AttributeName="Text" Text="Master in parallel connection" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5Fbetriebsart_EN-1">
+        <T AttributeName="Text" Text="Master in single unit operation" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5Fbetriebsart_EN-2">
+        <T AttributeName="Text" Text="Slave" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FBusruckkehr_EN-0">
+        <T AttributeName="Text" Text="Room monitoring channel disabled" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FBusruckkehr_EN-1">
+        <T AttributeName="Text" Text="Room monitoring channel enabled" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FDiffHelligkeit_EN-0">
+        <T AttributeName="Text" Text="do not send" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FDiffHelligkeit_EN-5">
+        <T AttributeName="Text" Text="5%" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FDiffHelligkeit_EN-10">
+        <T AttributeName="Text" Text="10%" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FDiffHelligkeit_EN-20">
+        <T AttributeName="Text" Text="20%" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FDiffHelligkeit_EN-30">
+        <T AttributeName="Text" Text="30%" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FDiffHelligkeit_EN-40">
+        <T AttributeName="Text" Text="40%" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FDiffHelligkeit_EN-50">
+        <T AttributeName="Text" Text="50%" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FDiffHelligkeit_EN-60">
+        <T AttributeName="Text" Text="60%" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FDiffHelligkeit_EN-70">
+        <T AttributeName="Text" Text="70%" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FDiffHelligkeit_EN-80">
+        <T AttributeName="Text" Text="80%" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FDifPercent_EN-4294967236">
+        <T AttributeName="Text" Text="-60%" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FDifPercent_EN-4294967246">
+        <T AttributeName="Text" Text="-50%" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FDifPercent_EN-4294967256">
+        <T AttributeName="Text" Text="-40%" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FDifPercent_EN-4294967266">
+        <T AttributeName="Text" Text="-30%" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FDifPercent_EN-4294967276">
+        <T AttributeName="Text" Text="-20%" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FDifPercent_EN-4294967286">
+        <T AttributeName="Text" Text="-10%" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FDifPercent_EN-4294967291">
+        <T AttributeName="Text" Text="-5%" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FDifPercent_EN-0">
+        <T AttributeName="Text" Text="0% synchronous" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FDifPercent_EN-5">
+        <T AttributeName="Text" Text="5%" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FDifPercent_EN-10">
+        <T AttributeName="Text" Text="10%" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FDifPercent_EN-20">
+        <T AttributeName="Text" Text="20%" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FDifPercent_EN-30">
+        <T AttributeName="Text" Text="30%" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FDifPercent_EN-40">
+        <T AttributeName="Text" Text="40%" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FDifPercent_EN-50">
+        <T AttributeName="Text" Text="50%" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FDifPercent_EN-60">
+        <T AttributeName="Text" Text="60%" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FDifPercent_EN-70">
+        <T AttributeName="Text" Text="70%" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FDifPercent_EN-80">
+        <T AttributeName="Text" Text="80%" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FDifPercent_EN-90">
+        <T AttributeName="Text" Text="90%" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FDifPercent_EN-100">
+        <T AttributeName="Text" Text="100%" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FDifPercent_EN-110">
+        <T AttributeName="Text" Text="110%" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FDifPercent_EN-120">
+        <T AttributeName="Text" Text="120%" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FdimmWert_EN-1">
+        <T AttributeName="Text" Text="1%" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FdimmWert_EN-2">
+        <T AttributeName="Text" Text="2%" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FdimmWert_EN-3">
+        <T AttributeName="Text" Text="3%" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FdimmWert_EN-4">
+        <T AttributeName="Text" Text="4%" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FdimmWert_EN-5">
+        <T AttributeName="Text" Text="5%" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FdimmWert_EN-6">
+        <T AttributeName="Text" Text="6%" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FdimmWert_EN-7">
+        <T AttributeName="Text" Text="7%" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FdimmWert_EN-8">
+        <T AttributeName="Text" Text="8%" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FdimmWert_EN-9">
+        <T AttributeName="Text" Text="9%" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FdimmWert_EN-10">
+        <T AttributeName="Text" Text="10%" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FdimmWert_EN-15">
+        <T AttributeName="Text" Text="15%" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FdimmWert_EN-20">
+        <T AttributeName="Text" Text="20%" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FdimmWert_EN-25">
+        <T AttributeName="Text" Text="25%" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FdimmWert_EN-30">
+        <T AttributeName="Text" Text="30%" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FdimmWert_EN-40">
+        <T AttributeName="Text" Text="40%" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FdimmWert_EN-50">
+        <T AttributeName="Text" Text="50%" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FdimmWert_EN-60">
+        <T AttributeName="Text" Text="60%" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FdimmWert_EN-70">
+        <T AttributeName="Text" Text="70%" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FdimmWert_EN-80">
+        <T AttributeName="Text" Text="80%" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FdimmWert_EN-90">
+        <T AttributeName="Text" Text="90%" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FdimmWert_EN-100">
+        <T AttributeName="Text" Text="100%" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FstandbydimmWert_EN-5">
+        <T AttributeName="Text" Text="5%" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FstandbydimmWert_EN-6">
+        <T AttributeName="Text" Text="6%" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FstandbydimmWert_EN-7">
+        <T AttributeName="Text" Text="7%" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FstandbydimmWert_EN-8">
+        <T AttributeName="Text" Text="8%" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FstandbydimmWert_EN-9">
+        <T AttributeName="Text" Text="9%" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FstandbydimmWert_EN-10">
+        <T AttributeName="Text" Text="10%" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FdownloadVerhalten_EN-1">
+        <T AttributeName="Text" Text="Overwrite via download" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FdownloadVerhalten_EN-0">
+        <T AttributeName="Text" Text="Unchanged via download" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FEmpfindlichkeit_EN-1">
+        <T AttributeName="Text" Text="1 very insensitive" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FEmpfindlichkeit_EN-2">
+        <T AttributeName="Text" Text="2 insensitive" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FEmpfindlichkeit_EN-3">
+        <T AttributeName="Text" Text="3 standard" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FEmpfindlichkeit_EN-4">
+        <T AttributeName="Text" Text="4 sensitive" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FEmpfindlichkeit_EN-5">
+        <T AttributeName="Text" Text="5 very sensitive" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FESVPrasenz_EN-0">
+        <T AttributeName="Text" Text="Inactive" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FESVPrasenz_EN-10">
+        <T AttributeName="Text" Text="10 sec" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FESVPrasenz_EN-20">
+        <T AttributeName="Text" Text="20 sec" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FESVPrasenz_EN-30">
+        <T AttributeName="Text" Text="30 sec" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FESVPrasenz_EN-45">
+        <T AttributeName="Text" Text="45 sec" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FESVPrasenz_EN-60">
+        <T AttributeName="Text" Text="1 min" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FESVPrasenz_EN-120">
+        <T AttributeName="Text" Text="2 min" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FESVPrasenz_EN-180">
+        <T AttributeName="Text" Text="3 min" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FESVPrasenz_EN-240">
+        <T AttributeName="Text" Text="4 min" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FESVPrasenz_EN-300">
+        <T AttributeName="Text" Text="5 min" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FESVPrasenz_EN-360">
+        <T AttributeName="Text" Text="6 min" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FESVPrasenz_EN-420">
+        <T AttributeName="Text" Text="7 min" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FESVPrasenz_EN-480">
+        <T AttributeName="Text" Text="8 min" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FESVPrasenz_EN-540">
+        <T AttributeName="Text" Text="9 min" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FESVPrasenz_EN-600">
+        <T AttributeName="Text" Text="10 min" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FESVPrasenz_EN-720">
+        <T AttributeName="Text" Text="12 min" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FESVPrasenz_EN-900">
+        <T AttributeName="Text" Text="15 min" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FESVPrasenz_EN-1200">
+        <T AttributeName="Text" Text="20 min" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FESVPrasenz_EN-1500">
+        <T AttributeName="Text" Text="25 min" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FESVPrasenz_EN-1800">
+        <T AttributeName="Text" Text="30 min" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FHKanalSperrverhalten_EN-0">
+        <T AttributeName="Text" Text="Do not send telegram" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FHKanalSperrverhalten_EN-1">
+        <T AttributeName="Text" Text="Send ON telegram" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FHKanalSperrverhalten_EN-2">
+        <T AttributeName="Text" Text="Send OFF telegram" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5Fjanein_EN-0">
+        <T AttributeName="Text" Text="Disabled" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5Fjanein_EN-1">
+        <T AttributeName="Text" Text="Enabled" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKanalASetting_EN-1">
+        <T AttributeName="Text" Text="Switching" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKanalASetting_EN-2">
+        <T AttributeName="Text" Text="Constant light control.." />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-1">
+        <T AttributeName="Text" Text="0,05" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-2">
+        <T AttributeName="Text" Text="0,1" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-3">
+        <T AttributeName="Text" Text="0,15" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-4">
+        <T AttributeName="Text" Text="0,2" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-5">
+        <T AttributeName="Text" Text="0,25" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-6">
+        <T AttributeName="Text" Text="0.3 standard" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-7">
+        <T AttributeName="Text" Text="0,35" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-8">
+        <T AttributeName="Text" Text="0,4" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-9">
+        <T AttributeName="Text" Text="0,45" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-10">
+        <T AttributeName="Text" Text="0,5" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-11">
+        <T AttributeName="Text" Text="0,55" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-12">
+        <T AttributeName="Text" Text="0,6" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-13">
+        <T AttributeName="Text" Text="0,65" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-14">
+        <T AttributeName="Text" Text="0,7" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-15">
+        <T AttributeName="Text" Text="0,75" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-16">
+        <T AttributeName="Text" Text="0,8" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-17">
+        <T AttributeName="Text" Text="0,85" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-18">
+        <T AttributeName="Text" Text="0,9" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-19">
+        <T AttributeName="Text" Text="0,95" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-20">
+        <T AttributeName="Text" Text="1" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-21">
+        <T AttributeName="Text" Text="1,05" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-22">
+        <T AttributeName="Text" Text="1,1" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-23">
+        <T AttributeName="Text" Text="1,15" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-24">
+        <T AttributeName="Text" Text="1,2" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-25">
+        <T AttributeName="Text" Text="1,25" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-26">
+        <T AttributeName="Text" Text="1,3" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-27">
+        <T AttributeName="Text" Text="1,35" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-28">
+        <T AttributeName="Text" Text="1,4" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-29">
+        <T AttributeName="Text" Text="1,45" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-30">
+        <T AttributeName="Text" Text="1,5" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-31">
+        <T AttributeName="Text" Text="1,55" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-32">
+        <T AttributeName="Text" Text="1,6" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-33">
+        <T AttributeName="Text" Text="1,65" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-34">
+        <T AttributeName="Text" Text="1,7" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-35">
+        <T AttributeName="Text" Text="1,75" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-36">
+        <T AttributeName="Text" Text="1,8" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-37">
+        <T AttributeName="Text" Text="1,85" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-38">
+        <T AttributeName="Text" Text="1,9" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-39">
+        <T AttributeName="Text" Text="1,95" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-40">
+        <T AttributeName="Text" Text="2" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-41">
+        <T AttributeName="Text" Text="2,05" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-42">
+        <T AttributeName="Text" Text="2,1" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-43">
+        <T AttributeName="Text" Text="2,15" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-44">
+        <T AttributeName="Text" Text="2,2" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-45">
+        <T AttributeName="Text" Text="2,25" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-46">
+        <T AttributeName="Text" Text="2,3" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-47">
+        <T AttributeName="Text" Text="2,35" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-48">
+        <T AttributeName="Text" Text="2,4" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-49">
+        <T AttributeName="Text" Text="2,45" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-50">
+        <T AttributeName="Text" Text="2,5" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-51">
+        <T AttributeName="Text" Text="2,55" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-52">
+        <T AttributeName="Text" Text="2,6" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-53">
+        <T AttributeName="Text" Text="2,65" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-54">
+        <T AttributeName="Text" Text="2,7" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-55">
+        <T AttributeName="Text" Text="2,75" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-56">
+        <T AttributeName="Text" Text="2,8" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-57">
+        <T AttributeName="Text" Text="2,85" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-58">
+        <T AttributeName="Text" Text="2,9" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-59">
+        <T AttributeName="Text" Text="2,95" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-60">
+        <T AttributeName="Text" Text="3" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-61">
+        <T AttributeName="Text" Text="3,05" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-62">
+        <T AttributeName="Text" Text="3,1" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-63">
+        <T AttributeName="Text" Text="3,15" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-64">
+        <T AttributeName="Text" Text="3,2" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-65">
+        <T AttributeName="Text" Text="3,25" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-66">
+        <T AttributeName="Text" Text="3,3" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-67">
+        <T AttributeName="Text" Text="3,35" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-68">
+        <T AttributeName="Text" Text="3,4" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-69">
+        <T AttributeName="Text" Text="3,45" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-70">
+        <T AttributeName="Text" Text="3,5" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-71">
+        <T AttributeName="Text" Text="3,55" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-72">
+        <T AttributeName="Text" Text="3,6" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-73">
+        <T AttributeName="Text" Text="3,65" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-74">
+        <T AttributeName="Text" Text="3,7" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-75">
+        <T AttributeName="Text" Text="3,75" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-76">
+        <T AttributeName="Text" Text="3,8" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-77">
+        <T AttributeName="Text" Text="3,85" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-78">
+        <T AttributeName="Text" Text="3,9" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-79">
+        <T AttributeName="Text" Text="3,95" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-80">
+        <T AttributeName="Text" Text="4" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-81">
+        <T AttributeName="Text" Text="4,05" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-82">
+        <T AttributeName="Text" Text="4,1" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-83">
+        <T AttributeName="Text" Text="4,15" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-84">
+        <T AttributeName="Text" Text="4,2" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-85">
+        <T AttributeName="Text" Text="4,25" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-86">
+        <T AttributeName="Text" Text="4,3" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-87">
+        <T AttributeName="Text" Text="4,35" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-88">
+        <T AttributeName="Text" Text="4,4" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-89">
+        <T AttributeName="Text" Text="4,45" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-90">
+        <T AttributeName="Text" Text="4,5" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-91">
+        <T AttributeName="Text" Text="4,55" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-92">
+        <T AttributeName="Text" Text="4,6" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-93">
+        <T AttributeName="Text" Text="4,65" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-94">
+        <T AttributeName="Text" Text="4,7" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-95">
+        <T AttributeName="Text" Text="4,75" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-96">
+        <T AttributeName="Text" Text="4,8" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-97">
+        <T AttributeName="Text" Text="4,85" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-98">
+        <T AttributeName="Text" Text="4,9" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-99">
+        <T AttributeName="Text" Text="4,95" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-100">
+        <T AttributeName="Text" Text="5" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-101">
+        <T AttributeName="Text" Text="5,05" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-102">
+        <T AttributeName="Text" Text="5,1" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-103">
+        <T AttributeName="Text" Text="5,15" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-104">
+        <T AttributeName="Text" Text="5,2" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-105">
+        <T AttributeName="Text" Text="5,25" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-106">
+        <T AttributeName="Text" Text="5,3" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-107">
+        <T AttributeName="Text" Text="5,35" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-108">
+        <T AttributeName="Text" Text="5,4" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-109">
+        <T AttributeName="Text" Text="5,45" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-110">
+        <T AttributeName="Text" Text="5,5" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-111">
+        <T AttributeName="Text" Text="5,55" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-112">
+        <T AttributeName="Text" Text="5,6" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-113">
+        <T AttributeName="Text" Text="5,65" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-114">
+        <T AttributeName="Text" Text="5,7" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-115">
+        <T AttributeName="Text" Text="5,75" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-116">
+        <T AttributeName="Text" Text="5,8" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-117">
+        <T AttributeName="Text" Text="5,85" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-118">
+        <T AttributeName="Text" Text="5,9" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-119">
+        <T AttributeName="Text" Text="5,95" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-120">
+        <T AttributeName="Text" Text="6" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-121">
+        <T AttributeName="Text" Text="6,05" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-122">
+        <T AttributeName="Text" Text="6,1" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-123">
+        <T AttributeName="Text" Text="6,15" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-124">
+        <T AttributeName="Text" Text="6,2" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-125">
+        <T AttributeName="Text" Text="6,25" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-126">
+        <T AttributeName="Text" Text="6,3" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-127">
+        <T AttributeName="Text" Text="6,35" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-128">
+        <T AttributeName="Text" Text="6,4" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-129">
+        <T AttributeName="Text" Text="6,45" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-130">
+        <T AttributeName="Text" Text="6,5" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-131">
+        <T AttributeName="Text" Text="6,55" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-132">
+        <T AttributeName="Text" Text="6,6" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-133">
+        <T AttributeName="Text" Text="6,65" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-134">
+        <T AttributeName="Text" Text="6,7" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-135">
+        <T AttributeName="Text" Text="6,75" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-136">
+        <T AttributeName="Text" Text="6,8" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-137">
+        <T AttributeName="Text" Text="6,85" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-138">
+        <T AttributeName="Text" Text="6,9" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-139">
+        <T AttributeName="Text" Text="6,95" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-140">
+        <T AttributeName="Text" Text="7" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-141">
+        <T AttributeName="Text" Text="7,05" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-142">
+        <T AttributeName="Text" Text="7,1" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-143">
+        <T AttributeName="Text" Text="7,15" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-144">
+        <T AttributeName="Text" Text="7,2" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-145">
+        <T AttributeName="Text" Text="7,25" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-146">
+        <T AttributeName="Text" Text="7,3" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-147">
+        <T AttributeName="Text" Text="7,35" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-148">
+        <T AttributeName="Text" Text="7,4" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-149">
+        <T AttributeName="Text" Text="7,45" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-150">
+        <T AttributeName="Text" Text="7,5" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-151">
+        <T AttributeName="Text" Text="7,55" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-152">
+        <T AttributeName="Text" Text="7,6" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-153">
+        <T AttributeName="Text" Text="7,65" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-154">
+        <T AttributeName="Text" Text="7,7" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-155">
+        <T AttributeName="Text" Text="7,75" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-156">
+        <T AttributeName="Text" Text="7,8" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-157">
+        <T AttributeName="Text" Text="7,85" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-158">
+        <T AttributeName="Text" Text="7,9" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-159">
+        <T AttributeName="Text" Text="7,95" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-160">
+        <T AttributeName="Text" Text="8" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-161">
+        <T AttributeName="Text" Text="8,05" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-162">
+        <T AttributeName="Text" Text="8,1" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-163">
+        <T AttributeName="Text" Text="8,15" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-164">
+        <T AttributeName="Text" Text="8,2" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-165">
+        <T AttributeName="Text" Text="8,25" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-166">
+        <T AttributeName="Text" Text="8,3" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-167">
+        <T AttributeName="Text" Text="8,35" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-168">
+        <T AttributeName="Text" Text="8,4" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-169">
+        <T AttributeName="Text" Text="8,45" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-170">
+        <T AttributeName="Text" Text="8,5" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-171">
+        <T AttributeName="Text" Text="8,55" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-172">
+        <T AttributeName="Text" Text="8,6" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-173">
+        <T AttributeName="Text" Text="8,65" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-174">
+        <T AttributeName="Text" Text="8,7" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-175">
+        <T AttributeName="Text" Text="8,75" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-176">
+        <T AttributeName="Text" Text="8,8" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-177">
+        <T AttributeName="Text" Text="8,85" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-178">
+        <T AttributeName="Text" Text="8,9" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-179">
+        <T AttributeName="Text" Text="8,95" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-180">
+        <T AttributeName="Text" Text="9" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-181">
+        <T AttributeName="Text" Text="9,05" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-182">
+        <T AttributeName="Text" Text="9,1" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-183">
+        <T AttributeName="Text" Text="9,15" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-184">
+        <T AttributeName="Text" Text="9,2" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-185">
+        <T AttributeName="Text" Text="9,25" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-186">
+        <T AttributeName="Text" Text="9,3" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-187">
+        <T AttributeName="Text" Text="9,35" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-188">
+        <T AttributeName="Text" Text="9,4" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-189">
+        <T AttributeName="Text" Text="9,45" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-190">
+        <T AttributeName="Text" Text="9,5" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-191">
+        <T AttributeName="Text" Text="9,55" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-192">
+        <T AttributeName="Text" Text="9,6" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-193">
+        <T AttributeName="Text" Text="9,65" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-194">
+        <T AttributeName="Text" Text="9,7" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-195">
+        <T AttributeName="Text" Text="9,75" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-196">
+        <T AttributeName="Text" Text="9,8" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-197">
+        <T AttributeName="Text" Text="9,85" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-198">
+        <T AttributeName="Text" Text="9,9" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-199">
+        <T AttributeName="Text" Text="9,95" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FKorfakt_EN-200">
+        <T AttributeName="Text" Text="10" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwert_EN-5">
+        <T AttributeName="Text" Text="5 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwert_EN-6">
+        <T AttributeName="Text" Text="6 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwert_EN-7">
+        <T AttributeName="Text" Text="7 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwert_EN-8">
+        <T AttributeName="Text" Text="8 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwert_EN-9">
+        <T AttributeName="Text" Text="9 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwert_EN-10">
+        <T AttributeName="Text" Text="10 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwert_EN-12">
+        <T AttributeName="Text" Text="12 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwert_EN-14">
+        <T AttributeName="Text" Text="14 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwert_EN-16">
+        <T AttributeName="Text" Text="16 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwert_EN-18">
+        <T AttributeName="Text" Text="18 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwert_EN-20">
+        <T AttributeName="Text" Text="20 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwert_EN-22">
+        <T AttributeName="Text" Text="22 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwert_EN-24">
+        <T AttributeName="Text" Text="24 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwert_EN-26">
+        <T AttributeName="Text" Text="26 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwert_EN-28">
+        <T AttributeName="Text" Text="28 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwert_EN-30">
+        <T AttributeName="Text" Text="30 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwert_EN-35">
+        <T AttributeName="Text" Text="35 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwert_EN-40">
+        <T AttributeName="Text" Text="40 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwert_EN-45">
+        <T AttributeName="Text" Text="45 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwert_EN-50">
+        <T AttributeName="Text" Text="50 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwert_EN-55">
+        <T AttributeName="Text" Text="55 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwert_EN-60">
+        <T AttributeName="Text" Text="60 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwert_EN-65">
+        <T AttributeName="Text" Text="65 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwert_EN-70">
+        <T AttributeName="Text" Text="70 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwert_EN-75">
+        <T AttributeName="Text" Text="75 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwert_EN-80">
+        <T AttributeName="Text" Text="80 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwert_EN-85">
+        <T AttributeName="Text" Text="85 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwert_EN-90">
+        <T AttributeName="Text" Text="90 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwert_EN-95">
+        <T AttributeName="Text" Text="95 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwert_EN-100">
+        <T AttributeName="Text" Text="100 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwert_EN-110">
+        <T AttributeName="Text" Text="110 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwert_EN-120">
+        <T AttributeName="Text" Text="120 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwert_EN-130">
+        <T AttributeName="Text" Text="130 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwert_EN-140">
+        <T AttributeName="Text" Text="140 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwert_EN-150">
+        <T AttributeName="Text" Text="150 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwert_EN-160">
+        <T AttributeName="Text" Text="160 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwert_EN-170">
+        <T AttributeName="Text" Text="170 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwert_EN-180">
+        <T AttributeName="Text" Text="180 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwert_EN-190">
+        <T AttributeName="Text" Text="190 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwert_EN-200">
+        <T AttributeName="Text" Text="200 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwert_EN-220">
+        <T AttributeName="Text" Text="220 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwert_EN-240">
+        <T AttributeName="Text" Text="240 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwert_EN-260">
+        <T AttributeName="Text" Text="260 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwert_EN-280">
+        <T AttributeName="Text" Text="280 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwert_EN-300">
+        <T AttributeName="Text" Text="300 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwert_EN-320">
+        <T AttributeName="Text" Text="320 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwert_EN-340">
+        <T AttributeName="Text" Text="340 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwert_EN-360">
+        <T AttributeName="Text" Text="360 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwert_EN-380">
+        <T AttributeName="Text" Text="380 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwert_EN-400">
+        <T AttributeName="Text" Text="400 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwert_EN-420">
+        <T AttributeName="Text" Text="420 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwert_EN-440">
+        <T AttributeName="Text" Text="440 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwert_EN-460">
+        <T AttributeName="Text" Text="460 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwert_EN-480">
+        <T AttributeName="Text" Text="480 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwert_EN-500">
+        <T AttributeName="Text" Text="500 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwert_EN-550">
+        <T AttributeName="Text" Text="550 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwert_EN-600">
+        <T AttributeName="Text" Text="600 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwert_EN-650">
+        <T AttributeName="Text" Text="650 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwert_EN-700">
+        <T AttributeName="Text" Text="700 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwert_EN-750">
+        <T AttributeName="Text" Text="750 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwert_EN-800">
+        <T AttributeName="Text" Text="800 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwert_EN-850">
+        <T AttributeName="Text" Text="850 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwert_EN-900">
+        <T AttributeName="Text" Text="900 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwert_EN-950">
+        <T AttributeName="Text" Text="950 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwert_EN-1000">
+        <T AttributeName="Text" Text="1000 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwert_EN-1100">
+        <T AttributeName="Text" Text="1100 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwert_EN-1200">
+        <T AttributeName="Text" Text="1200 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwert_EN-1300">
+        <T AttributeName="Text" Text="1300 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwert_EN-1400">
+        <T AttributeName="Text" Text="1400 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwert_EN-1500">
+        <T AttributeName="Text" Text="1500 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwert_EN-1600">
+        <T AttributeName="Text" Text="1600 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwert_EN-1700">
+        <T AttributeName="Text" Text="1700 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwert_EN-1800">
+        <T AttributeName="Text" Text="1800 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwert_EN-1900">
+        <T AttributeName="Text" Text="1900 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwert_EN-2000">
+        <T AttributeName="Text" Text="2000 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwert_EN-0">
+        <T AttributeName="Text" Text="Measurement off (depending on presence only)" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwertKonstantlicht_EN-5">
+        <T AttributeName="Text" Text="5 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwertKonstantlicht_EN-6">
+        <T AttributeName="Text" Text="6 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwertKonstantlicht_EN-7">
+        <T AttributeName="Text" Text="7 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwertKonstantlicht_EN-8">
+        <T AttributeName="Text" Text="8 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwertKonstantlicht_EN-9">
+        <T AttributeName="Text" Text="9 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwertKonstantlicht_EN-10">
+        <T AttributeName="Text" Text="10 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwertKonstantlicht_EN-12">
+        <T AttributeName="Text" Text="12 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwertKonstantlicht_EN-14">
+        <T AttributeName="Text" Text="14 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwertKonstantlicht_EN-16">
+        <T AttributeName="Text" Text="16 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwertKonstantlicht_EN-18">
+        <T AttributeName="Text" Text="18 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwertKonstantlicht_EN-20">
+        <T AttributeName="Text" Text="20 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwertKonstantlicht_EN-22">
+        <T AttributeName="Text" Text="22 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwertKonstantlicht_EN-24">
+        <T AttributeName="Text" Text="24 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwertKonstantlicht_EN-26">
+        <T AttributeName="Text" Text="26 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwertKonstantlicht_EN-28">
+        <T AttributeName="Text" Text="28 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwertKonstantlicht_EN-30">
+        <T AttributeName="Text" Text="30 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwertKonstantlicht_EN-35">
+        <T AttributeName="Text" Text="35 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwertKonstantlicht_EN-40">
+        <T AttributeName="Text" Text="40 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwertKonstantlicht_EN-45">
+        <T AttributeName="Text" Text="45 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwertKonstantlicht_EN-50">
+        <T AttributeName="Text" Text="50 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwertKonstantlicht_EN-55">
+        <T AttributeName="Text" Text="55 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwertKonstantlicht_EN-60">
+        <T AttributeName="Text" Text="60 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwertKonstantlicht_EN-65">
+        <T AttributeName="Text" Text="65 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwertKonstantlicht_EN-70">
+        <T AttributeName="Text" Text="70 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwertKonstantlicht_EN-75">
+        <T AttributeName="Text" Text="75 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwertKonstantlicht_EN-80">
+        <T AttributeName="Text" Text="80 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwertKonstantlicht_EN-85">
+        <T AttributeName="Text" Text="85 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwertKonstantlicht_EN-90">
+        <T AttributeName="Text" Text="90 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwertKonstantlicht_EN-95">
+        <T AttributeName="Text" Text="95 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwertKonstantlicht_EN-100">
+        <T AttributeName="Text" Text="100 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwertKonstantlicht_EN-110">
+        <T AttributeName="Text" Text="110 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwertKonstantlicht_EN-120">
+        <T AttributeName="Text" Text="120 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwertKonstantlicht_EN-130">
+        <T AttributeName="Text" Text="130 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwertKonstantlicht_EN-140">
+        <T AttributeName="Text" Text="140 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwertKonstantlicht_EN-150">
+        <T AttributeName="Text" Text="150 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwertKonstantlicht_EN-160">
+        <T AttributeName="Text" Text="160 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwertKonstantlicht_EN-170">
+        <T AttributeName="Text" Text="170 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwertKonstantlicht_EN-180">
+        <T AttributeName="Text" Text="180 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwertKonstantlicht_EN-190">
+        <T AttributeName="Text" Text="190 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwertKonstantlicht_EN-200">
+        <T AttributeName="Text" Text="200 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwertKonstantlicht_EN-220">
+        <T AttributeName="Text" Text="220 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwertKonstantlicht_EN-240">
+        <T AttributeName="Text" Text="240 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwertKonstantlicht_EN-260">
+        <T AttributeName="Text" Text="260 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwertKonstantlicht_EN-280">
+        <T AttributeName="Text" Text="280 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwertKonstantlicht_EN-300">
+        <T AttributeName="Text" Text="300 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwertKonstantlicht_EN-320">
+        <T AttributeName="Text" Text="320 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwertKonstantlicht_EN-340">
+        <T AttributeName="Text" Text="340 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwertKonstantlicht_EN-360">
+        <T AttributeName="Text" Text="360 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwertKonstantlicht_EN-380">
+        <T AttributeName="Text" Text="380 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwertKonstantlicht_EN-400">
+        <T AttributeName="Text" Text="400 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwertKonstantlicht_EN-420">
+        <T AttributeName="Text" Text="420 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwertKonstantlicht_EN-440">
+        <T AttributeName="Text" Text="440 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwertKonstantlicht_EN-460">
+        <T AttributeName="Text" Text="460 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwertKonstantlicht_EN-480">
+        <T AttributeName="Text" Text="480 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwertKonstantlicht_EN-500">
+        <T AttributeName="Text" Text="500 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwertKonstantlicht_EN-550">
+        <T AttributeName="Text" Text="550 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwertKonstantlicht_EN-600">
+        <T AttributeName="Text" Text="600 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwertKonstantlicht_EN-650">
+        <T AttributeName="Text" Text="650 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwertKonstantlicht_EN-700">
+        <T AttributeName="Text" Text="700 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwertKonstantlicht_EN-750">
+        <T AttributeName="Text" Text="750 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwertKonstantlicht_EN-800">
+        <T AttributeName="Text" Text="800 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwertKonstantlicht_EN-850">
+        <T AttributeName="Text" Text="850 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwertKonstantlicht_EN-900">
+        <T AttributeName="Text" Text="900 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwertKonstantlicht_EN-950">
+        <T AttributeName="Text" Text="950 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwertKonstantlicht_EN-1000">
+        <T AttributeName="Text" Text="1000 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwertKonstantlicht_EN-1100">
+        <T AttributeName="Text" Text="1100 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwertKonstantlicht_EN-1200">
+        <T AttributeName="Text" Text="1200 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwertKonstantlicht_EN-1300">
+        <T AttributeName="Text" Text="1300 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwertKonstantlicht_EN-1400">
+        <T AttributeName="Text" Text="1400 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwertKonstantlicht_EN-1500">
+        <T AttributeName="Text" Text="1500 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwertKonstantlicht_EN-1600">
+        <T AttributeName="Text" Text="1600 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwertKonstantlicht_EN-1700">
+        <T AttributeName="Text" Text="1700 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwertKonstantlicht_EN-1800">
+        <T AttributeName="Text" Text="1800 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwertKonstantlicht_EN-1900">
+        <T AttributeName="Text" Text="1900 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FLuxwertKonstantlicht_EN-2000">
+        <T AttributeName="Text" Text="2000 lx" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FMasterArt_EN-0">
+        <T AttributeName="Text" Text="Parallel connection" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FMasterArt_EN-1">
+        <T AttributeName="Text" Text="Single unit operation" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FMasterslave_EN-0">
+        <T AttributeName="Text" Text="Master" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FMasterslave_EN-2">
+        <T AttributeName="Text" Text="Slave" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FMKanalSperrververhalten_EN-0">
+        <T AttributeName="Text" Text="Send ON and OFF telegram" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FMKanalSperrververhalten_EN-1">
+        <T AttributeName="Text" Text="Only send ON telegram" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FNachlaufLicht_EN-30">
+        <T AttributeName="Text" Text="30 sec" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FNachlaufLicht_EN-60">
+        <T AttributeName="Text" Text="60 sec" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FNachlaufLicht_EN-90">
+        <T AttributeName="Text" Text="90 sec" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FNachlaufLicht_EN-120">
+        <T AttributeName="Text" Text="2 min" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FNachlaufLicht_EN-180">
+        <T AttributeName="Text" Text="3 min" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FNachlaufLicht_EN-240">
+        <T AttributeName="Text" Text="4 min" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FNachlaufLicht_EN-300">
+        <T AttributeName="Text" Text="5 min" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FNachlaufLicht_EN-360">
+        <T AttributeName="Text" Text="6 min" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FNachlaufLicht_EN-420">
+        <T AttributeName="Text" Text="7 min" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FNachlaufLicht_EN-480">
+        <T AttributeName="Text" Text="8 min" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FNachlaufLicht_EN-540">
+        <T AttributeName="Text" Text="9 min" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FNachlaufLicht_EN-600">
+        <T AttributeName="Text" Text="10 min" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FNachlaufLicht_EN-720">
+        <T AttributeName="Text" Text="12 min" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FNachlaufLicht_EN-900">
+        <T AttributeName="Text" Text="15 min" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FNachlaufLicht_EN-1200">
+        <T AttributeName="Text" Text="20 min" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FNachlaufLicht_EN-1500">
+        <T AttributeName="Text" Text="25 min" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FNachlaufLicht_EN-1800">
+        <T AttributeName="Text" Text="30 min" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FNachlaufLicht_EN-2100">
+        <T AttributeName="Text" Text="35 min" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FNachlaufLicht_EN-2400">
+        <T AttributeName="Text" Text="40 min" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FNachlaufLicht_EN-2700">
+        <T AttributeName="Text" Text="45 min" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FNachlaufLicht_EN-3000">
+        <T AttributeName="Text" Text="50 min" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FNachlaufLicht_EN-3300">
+        <T AttributeName="Text" Text="55 min" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FNachlaufLicht_EN-3600">
+        <T AttributeName="Text" Text="60 min" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FNLZExtSzene_EN-0">
+        <T AttributeName="Text" Text="Until enabled" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FNLZExtSzene_EN-1">
+        <T AttributeName="Text" Text="1 h" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FNLZExtSzene_EN-2">
+        <T AttributeName="Text" Text="2 h" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FNLZExtSzene_EN-3">
+        <T AttributeName="Text" Text="3 h" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FNLZExtSzene_EN-4">
+        <T AttributeName="Text" Text="4 h" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FNLZExtSzene_EN-5">
+        <T AttributeName="Text" Text="5 h" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FNLZExtSzene_EN-6">
+        <T AttributeName="Text" Text="6 h" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FNLZExtSzene_EN-7">
+        <T AttributeName="Text" Text="7 h" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FNLZExtSzene_EN-8">
+        <T AttributeName="Text" Text="8 h" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FNLZExtSzene_EN-9">
+        <T AttributeName="Text" Text="9 h" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FNLZPrasenz_EN-10">
+        <T AttributeName="Text" Text="10 sec" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FNLZPrasenz_EN-20">
+        <T AttributeName="Text" Text="20 sec" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FNLZPrasenz_EN-30">
+        <T AttributeName="Text" Text="30 sec" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FNLZPrasenz_EN-40">
+        <T AttributeName="Text" Text="40 sec" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FNLZPrasenz_EN-50">
+        <T AttributeName="Text" Text="50 sec" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FNLZPrasenz_EN-60">
+        <T AttributeName="Text" Text="1 min" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FNLZPrasenz_EN-120">
+        <T AttributeName="Text" Text="2 min" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FNLZPrasenz_EN-180">
+        <T AttributeName="Text" Text="3 min" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FNLZPrasenz_EN-240">
+        <T AttributeName="Text" Text="4 min" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FNLZPrasenz_EN-300">
+        <T AttributeName="Text" Text="5 min" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FNLZPrasenz_EN-360">
+        <T AttributeName="Text" Text="6 min" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FNLZPrasenz_EN-420">
+        <T AttributeName="Text" Text="7 min" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FNLZPrasenz_EN-480">
+        <T AttributeName="Text" Text="8 min" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FNLZPrasenz_EN-540">
+        <T AttributeName="Text" Text="9 min" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FNLZPrasenz_EN-600">
+        <T AttributeName="Text" Text="10 min" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FNLZPrasenz_EN-660">
+        <T AttributeName="Text" Text="11 min" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FNLZPrasenz_EN-720">
+        <T AttributeName="Text" Text="12 min" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FNLZPrasenz_EN-780">
+        <T AttributeName="Text" Text="13 min" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FNLZPrasenz_EN-840">
+        <T AttributeName="Text" Text="14 min" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FNLZPrasenz_EN-900">
+        <T AttributeName="Text" Text="15 min" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FNLZPrasenz_EN-960">
+        <T AttributeName="Text" Text="16 min" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FNLZPrasenz_EN-1020">
+        <T AttributeName="Text" Text="17 min" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FNLZPrasenz_EN-1080">
+        <T AttributeName="Text" Text="18 min" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FNLZPrasenz_EN-1140">
+        <T AttributeName="Text" Text="19 min" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FNLZPrasenz_EN-1200">
+        <T AttributeName="Text" Text="20 min" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FNLZPrasenz_EN-1500">
+        <T AttributeName="Text" Text="25 min" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FNLZPrasenz_EN-1800">
+        <T AttributeName="Text" Text="30 min" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FNLZPrasenz_EN-2100">
+        <T AttributeName="Text" Text="35 min" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FNLZPrasenz_EN-2400">
+        <T AttributeName="Text" Text="40 min" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FNLZPrasenz_EN-2700">
+        <T AttributeName="Text" Text="45 min" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FNLZPrasenz_EN-3000">
+        <T AttributeName="Text" Text="50 min" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FNLZPrasenz_EN-3300">
+        <T AttributeName="Text" Text="55 min" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FNLZPrasenz_EN-3600">
+        <T AttributeName="Text" Text="60 min" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FNLZPrasenz_EN-4200">
+        <T AttributeName="Text" Text="70 min" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FNLZPrasenz_EN-4800">
+        <T AttributeName="Text" Text="80 min" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FNLZPrasenz_EN-5400">
+        <T AttributeName="Text" Text="90 min" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FNLZPrasenz_EN-6000">
+        <T AttributeName="Text" Text="100 min" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FNLZPrasenz_EN-6600">
+        <T AttributeName="Text" Text="110 min" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FNLZPrasenz_EN-7200">
+        <T AttributeName="Text" Text="120 min" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FRERue_EN-1">
+        <T AttributeName="Text" Text="1 less" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FRERue_EN-2">
+        <T AttributeName="Text" Text="2 standard" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FRERue_EN-3">
+        <T AttributeName="Text" Text="3 intense" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FSceneSpeichern_EN-0">
+        <T AttributeName="Text" Text="ETS" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FSceneSpeichern_EN-1">
+        <T AttributeName="Text" Text="Remote control" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FBusSceneValue_EN-255">
+        <T AttributeName="Text" Text="Inactive" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FBusSceneValue_EN-0">
+        <T AttributeName="Text" Text="1" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FBusSceneValue_EN-1">
+        <T AttributeName="Text" Text="2" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FBusSceneValue_EN-2">
+        <T AttributeName="Text" Text="3" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FBusSceneValue_EN-3">
+        <T AttributeName="Text" Text="4" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FBusSceneValue_EN-4">
+        <T AttributeName="Text" Text="5" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FBusSceneValue_EN-5">
+        <T AttributeName="Text" Text="6" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FBusSceneValue_EN-6">
+        <T AttributeName="Text" Text="7" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FBusSceneValue_EN-7">
+        <T AttributeName="Text" Text="8" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FBusSceneValue_EN-8">
+        <T AttributeName="Text" Text="9" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FBusSceneValue_EN-9">
+        <T AttributeName="Text" Text="10" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FBusSceneValue_EN-10">
+        <T AttributeName="Text" Text="11" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FBusSceneValue_EN-11">
+        <T AttributeName="Text" Text="12" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FBusSceneValue_EN-12">
+        <T AttributeName="Text" Text="13" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FBusSceneValue_EN-13">
+        <T AttributeName="Text" Text="14" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FBusSceneValue_EN-14">
+        <T AttributeName="Text" Text="15" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FBusSceneValue_EN-15">
+        <T AttributeName="Text" Text="16" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FBusSceneValue_EN-16">
+        <T AttributeName="Text" Text="17" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FBusSceneValue_EN-17">
+        <T AttributeName="Text" Text="18" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FBusSceneValue_EN-18">
+        <T AttributeName="Text" Text="19" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FBusSceneValue_EN-19">
+        <T AttributeName="Text" Text="20" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FBusSceneValue_EN-20">
+        <T AttributeName="Text" Text="21" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FBusSceneValue_EN-21">
+        <T AttributeName="Text" Text="22" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FBusSceneValue_EN-22">
+        <T AttributeName="Text" Text="23" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FBusSceneValue_EN-23">
+        <T AttributeName="Text" Text="24" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FBusSceneValue_EN-24">
+        <T AttributeName="Text" Text="25" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FBusSceneValue_EN-25">
+        <T AttributeName="Text" Text="26" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FBusSceneValue_EN-26">
+        <T AttributeName="Text" Text="27" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FBusSceneValue_EN-27">
+        <T AttributeName="Text" Text="28" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FBusSceneValue_EN-28">
+        <T AttributeName="Text" Text="29" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FBusSceneValue_EN-29">
+        <T AttributeName="Text" Text="30" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FBusSceneValue_EN-30">
+        <T AttributeName="Text" Text="31" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FBusSceneValue_EN-31">
+        <T AttributeName="Text" Text="32" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FBusSceneValue_EN-32">
+        <T AttributeName="Text" Text="33" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FBusSceneValue_EN-33">
+        <T AttributeName="Text" Text="34" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FBusSceneValue_EN-34">
+        <T AttributeName="Text" Text="35" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FBusSceneValue_EN-35">
+        <T AttributeName="Text" Text="36" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FBusSceneValue_EN-36">
+        <T AttributeName="Text" Text="37" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FBusSceneValue_EN-37">
+        <T AttributeName="Text" Text="38" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FBusSceneValue_EN-38">
+        <T AttributeName="Text" Text="39" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FBusSceneValue_EN-39">
+        <T AttributeName="Text" Text="40" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FBusSceneValue_EN-40">
+        <T AttributeName="Text" Text="41" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FBusSceneValue_EN-41">
+        <T AttributeName="Text" Text="42" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FBusSceneValue_EN-42">
+        <T AttributeName="Text" Text="43" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FBusSceneValue_EN-43">
+        <T AttributeName="Text" Text="44" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FBusSceneValue_EN-44">
+        <T AttributeName="Text" Text="45" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FBusSceneValue_EN-45">
+        <T AttributeName="Text" Text="46" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FBusSceneValue_EN-46">
+        <T AttributeName="Text" Text="47" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FBusSceneValue_EN-47">
+        <T AttributeName="Text" Text="48" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FBusSceneValue_EN-48">
+        <T AttributeName="Text" Text="49" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FBusSceneValue_EN-49">
+        <T AttributeName="Text" Text="50" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FBusSceneValue_EN-50">
+        <T AttributeName="Text" Text="51" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FBusSceneValue_EN-51">
+        <T AttributeName="Text" Text="52" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FBusSceneValue_EN-52">
+        <T AttributeName="Text" Text="53" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FBusSceneValue_EN-53">
+        <T AttributeName="Text" Text="54" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FBusSceneValue_EN-54">
+        <T AttributeName="Text" Text="55" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FBusSceneValue_EN-55">
+        <T AttributeName="Text" Text="56" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FBusSceneValue_EN-56">
+        <T AttributeName="Text" Text="57" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FBusSceneValue_EN-57">
+        <T AttributeName="Text" Text="58" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FBusSceneValue_EN-58">
+        <T AttributeName="Text" Text="59" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FBusSceneValue_EN-59">
+        <T AttributeName="Text" Text="60" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FBusSceneValue_EN-60">
+        <T AttributeName="Text" Text="61" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FBusSceneValue_EN-61">
+        <T AttributeName="Text" Text="62" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FBusSceneValue_EN-62">
+        <T AttributeName="Text" Text="63" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FSceneValue_EN-255">
+        <T AttributeName="Text" Text="Inactive" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FSceneValue_EN-0">
+        <T AttributeName="Text" Text="1" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FSceneValue_EN-1">
+        <T AttributeName="Text" Text="2" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FSceneValue_EN-2">
+        <T AttributeName="Text" Text="3" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FSceneValue_EN-3">
+        <T AttributeName="Text" Text="4" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FSceneValue_EN-4">
+        <T AttributeName="Text" Text="5" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FSceneValue_EN-5">
+        <T AttributeName="Text" Text="6" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FSceneValue_EN-6">
+        <T AttributeName="Text" Text="7" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FSceneValue_EN-7">
+        <T AttributeName="Text" Text="8" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FSceneValue_EN-8">
+        <T AttributeName="Text" Text="9" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FSceneValue_EN-9">
+        <T AttributeName="Text" Text="10" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FSceneValue_EN-10">
+        <T AttributeName="Text" Text="11" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FSceneValue_EN-11">
+        <T AttributeName="Text" Text="12" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FSceneValue_EN-12">
+        <T AttributeName="Text" Text="13" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FSceneValue_EN-13">
+        <T AttributeName="Text" Text="14" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FSceneValue_EN-14">
+        <T AttributeName="Text" Text="15" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FSceneValue_EN-15">
+        <T AttributeName="Text" Text="16" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FSceneValue_EN-16">
+        <T AttributeName="Text" Text="17" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FSceneValue_EN-17">
+        <T AttributeName="Text" Text="18" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FSceneValue_EN-18">
+        <T AttributeName="Text" Text="19" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FSceneValue_EN-19">
+        <T AttributeName="Text" Text="20" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FSceneValue_EN-20">
+        <T AttributeName="Text" Text="21" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FSceneValue_EN-21">
+        <T AttributeName="Text" Text="22" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FSceneValue_EN-22">
+        <T AttributeName="Text" Text="23" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FSceneValue_EN-23">
+        <T AttributeName="Text" Text="24" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FSceneValue_EN-24">
+        <T AttributeName="Text" Text="25" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FSceneValue_EN-25">
+        <T AttributeName="Text" Text="26" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FSceneValue_EN-26">
+        <T AttributeName="Text" Text="27" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FSceneValue_EN-27">
+        <T AttributeName="Text" Text="28" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FSceneValue_EN-28">
+        <T AttributeName="Text" Text="29" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FSceneValue_EN-29">
+        <T AttributeName="Text" Text="30" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FSceneValue_EN-30">
+        <T AttributeName="Text" Text="31" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FSceneValue_EN-31">
+        <T AttributeName="Text" Text="32" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FSceneValue_EN-32">
+        <T AttributeName="Text" Text="33" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FSceneValue_EN-33">
+        <T AttributeName="Text" Text="34" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FSceneValue_EN-34">
+        <T AttributeName="Text" Text="35" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FSceneValue_EN-35">
+        <T AttributeName="Text" Text="36" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FSceneValue_EN-36">
+        <T AttributeName="Text" Text="37" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FSceneValue_EN-37">
+        <T AttributeName="Text" Text="38" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FSceneValue_EN-38">
+        <T AttributeName="Text" Text="39" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FSceneValue_EN-39">
+        <T AttributeName="Text" Text="40" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FSceneValue_EN-40">
+        <T AttributeName="Text" Text="41" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FSceneValue_EN-41">
+        <T AttributeName="Text" Text="42" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FSceneValue_EN-42">
+        <T AttributeName="Text" Text="43" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FSceneValue_EN-43">
+        <T AttributeName="Text" Text="44" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FSceneValue_EN-44">
+        <T AttributeName="Text" Text="45" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FSceneValue_EN-45">
+        <T AttributeName="Text" Text="46" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FSceneValue_EN-46">
+        <T AttributeName="Text" Text="47" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FSceneValue_EN-47">
+        <T AttributeName="Text" Text="48" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FSceneValue_EN-48">
+        <T AttributeName="Text" Text="49" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FSceneValue_EN-49">
+        <T AttributeName="Text" Text="50" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FSceneValue_EN-50">
+        <T AttributeName="Text" Text="51" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FSceneValue_EN-51">
+        <T AttributeName="Text" Text="52" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FSceneValue_EN-52">
+        <T AttributeName="Text" Text="53" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FSceneValue_EN-53">
+        <T AttributeName="Text" Text="54" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FSceneValue_EN-54">
+        <T AttributeName="Text" Text="55" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FSceneValue_EN-55">
+        <T AttributeName="Text" Text="56" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FSceneValue_EN-56">
+        <T AttributeName="Text" Text="57" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FSceneValue_EN-57">
+        <T AttributeName="Text" Text="58" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FSceneValue_EN-58">
+        <T AttributeName="Text" Text="59" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FSceneValue_EN-59">
+        <T AttributeName="Text" Text="60" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FSceneValue_EN-60">
+        <T AttributeName="Text" Text="61" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FSceneValue_EN-61">
+        <T AttributeName="Text" Text="62" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FSceneValue_EN-62">
+        <T AttributeName="Text" Text="63" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FSceneValue_EN-63">
+        <T AttributeName="Text" Text="64" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FSchaltDimmGruppe_EN-0">
+        <T AttributeName="Text" Text="Inactive" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FSchaltDimmGruppe_EN-1">
+        <T AttributeName="Text" Text="I" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FSchaltDimmGruppe_EN-2">
+        <T AttributeName="Text" Text="II" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FSchaltDimmGruppe_EN-4">
+        <T AttributeName="Text" Text="III" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5Fsperrfrei_EN-0">
+        <T AttributeName="Text" Text="Disabled" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5Fsperrfrei_EN-1">
+        <T AttributeName="Text" Text="Enabled" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FstandbyLicht_EN-30">
+        <T AttributeName="Text" Text="30 sec" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FstandbyLicht_EN-60">
+        <T AttributeName="Text" Text="1 min" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FstandbyLicht_EN-120">
+        <T AttributeName="Text" Text="2 min" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FstandbyLicht_EN-180">
+        <T AttributeName="Text" Text="3 min" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FstandbyLicht_EN-240">
+        <T AttributeName="Text" Text="4 min" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FstandbyLicht_EN-300">
+        <T AttributeName="Text" Text="5 min" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FstandbyLicht_EN-360">
+        <T AttributeName="Text" Text="6 min" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FstandbyLicht_EN-420">
+        <T AttributeName="Text" Text="7 min" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FstandbyLicht_EN-480">
+        <T AttributeName="Text" Text="8 min" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FstandbyLicht_EN-540">
+        <T AttributeName="Text" Text="9 min" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FstandbyLicht_EN-600">
+        <T AttributeName="Text" Text="10 min" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FstandbyLicht_EN-720">
+        <T AttributeName="Text" Text="12 min" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FstandbyLicht_EN-900">
+        <T AttributeName="Text" Text="15 min" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FstandbyLicht_EN-1200">
+        <T AttributeName="Text" Text="20 min" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FstandbyLicht_EN-1500">
+        <T AttributeName="Text" Text="25 min" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FstandbyLicht_EN-1800">
+        <T AttributeName="Text" Text="30 min" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FstandbyLicht_EN-2400">
+        <T AttributeName="Text" Text="40 min" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FstandbyLicht_EN-3000">
+        <T AttributeName="Text" Text="50 min" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FstandbyLicht_EN-3600">
+        <T AttributeName="Text" Text="60 min" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FstandbyLicht_EN-1">
+        <T AttributeName="Text" Text="on" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FSzenesteuerung_EN-0">
+        <T AttributeName="Text" Text="Internal scenes" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FSzenesteuerung_EN-1">
+        <T AttributeName="Text" Text="Send scene" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FSzenesteuerung_EN-2">
+        <T AttributeName="Text" Text="Scene component" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FSzenesteuerungohneA_EN-1">
+        <T AttributeName="Text" Text="Send scene" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FSzenesteuerungohneA_EN-2">
+        <T AttributeName="Text" Text="Scene component" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5Ft.5FZykSab_EN-30">
+        <T AttributeName="Text" Text="30 sec" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5Ft.5FZykSab_EN-60">
+        <T AttributeName="Text" Text="1 min" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5Ft.5FZykSab_EN-120">
+        <T AttributeName="Text" Text="2 min" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5Ft.5FZykSab_EN-180">
+        <T AttributeName="Text" Text="3 min" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5Ft.5FZykSab_EN-240">
+        <T AttributeName="Text" Text="4 min" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5Ft.5FZykSab_EN-300">
+        <T AttributeName="Text" Text="5 min" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5Ft.5FZykSab_EN-360">
+        <T AttributeName="Text" Text="6 min" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5Ft.5FZykSab_EN-420">
+        <T AttributeName="Text" Text="7 min" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5Ft.5FZykSab_EN-480">
+        <T AttributeName="Text" Text="8 min" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5Ft.5FZykSab_EN-540">
+        <T AttributeName="Text" Text="9 min" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5Ft.5FZykSab_EN-600">
+        <T AttributeName="Text" Text="10 min" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5Ft.5FZykSab_EN-720">
+        <T AttributeName="Text" Text="12 min" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5Ft.5FZykSab_EN-900">
+        <T AttributeName="Text" Text="15 min" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5Ft.5FZykSab_EN-1200">
+        <T AttributeName="Text" Text="20 min" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5Ft.5FZykSab_EN-1500">
+        <T AttributeName="Text" Text="25 min" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5Ft.5FZykSab_EN-1800">
+        <T AttributeName="Text" Text="30 min" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5Ftelegramm_EN-0">
+        <T AttributeName="Text" Text="Do not send telegram" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5Ftelegramm_EN-1">
+        <T AttributeName="Text" Text="Send ON telegram" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5Ftelegramm_EN-2">
+        <T AttributeName="Text" Text="Send OFF telegram" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FtelegrammSperr_EN-0">
+        <T AttributeName="Text" Text="Do not send telegram" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FtelegrammSperr_EN-1">
+        <T AttributeName="Text" Text="Send telegram" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FtelegrammSperren_EN-0">
+        <T AttributeName="Text" Text="Inactive" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FtelegrammSperren_EN-1">
+        <T AttributeName="Text" Text="with ON telegram" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FtelegrammSperren_EN-2">
+        <T AttributeName="Text" Text="with OFF telegram" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FTestRueckfallzeit_EN-2">
+        <T AttributeName="Text" Text="2 min" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FTestRueckfallzeit_EN-5">
+        <T AttributeName="Text" Text="5 min" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FTestRueckfallzeit_EN-10">
+        <T AttributeName="Text" Text="10 min" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FTestRueckfallzeit_EN-20">
+        <T AttributeName="Text" Text="20 min" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FTestRueckfallzeit_EN-30">
+        <T AttributeName="Text" Text="30 min" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FTestRueckfallzeit_EN-60">
+        <T AttributeName="Text" Text="60 min" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FVollHalb_EN-1">
+        <T AttributeName="Text" Text="Semi-automatic" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FVollHalb_EN-0">
+        <T AttributeName="Text" Text="Fully automatic" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FzykHelligkeit_EN-0">
+        <T AttributeName="Text" Text="do not send" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FzykHelligkeit_EN-15">
+        <T AttributeName="Text" Text="15 sec" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FzykHelligkeit_EN-30">
+        <T AttributeName="Text" Text="30 sec" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FzykHelligkeit_EN-60">
+        <T AttributeName="Text" Text="1 min" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FzykHelligkeit_EN-120">
+        <T AttributeName="Text" Text="2 min" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FzykHelligkeit_EN-180">
+        <T AttributeName="Text" Text="3 min" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FzykHelligkeit_EN-240">
+        <T AttributeName="Text" Text="4 min" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FzykHelligkeit_EN-300">
+        <T AttributeName="Text" Text="5 min" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FzykHelligkeit_EN-360">
+        <T AttributeName="Text" Text="6 min" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FzykHelligkeit_EN-420">
+        <T AttributeName="Text" Text="7 min" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FzykHelligkeit_EN-480">
+        <T AttributeName="Text" Text="8 min" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FzykHelligkeit_EN-540">
+        <T AttributeName="Text" Text="9 min" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FzykHelligkeit_EN-600">
+        <T AttributeName="Text" Text="10 min" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FzykHelligkeit_EN-720">
+        <T AttributeName="Text" Text="12 min" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FzykHelligkeit_EN-900">
+        <T AttributeName="Text" Text="15 min" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FzykHelligkeit_EN-1200">
+        <T AttributeName="Text" Text="20 min" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FzykHelligkeit_EN-1500">
+        <T AttributeName="Text" Text="25 min" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FzykHelligkeit_EN-1800">
+        <T AttributeName="Text" Text="30 min" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FZyklusParallel_EN-30">
+        <T AttributeName="Text" Text="30 sec" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FZyklusParallel_EN-60">
+        <T AttributeName="Text" Text="1 min" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FZyklusParallel_EN-120">
+        <T AttributeName="Text" Text="2 min" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FZyklusParallel_EN-180">
+        <T AttributeName="Text" Text="3 min" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FZyklusParallel_EN-240">
+        <T AttributeName="Text" Text="4 min" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FzykQuit_EN-0">
+        <T AttributeName="Text" Text="Cyclic with confirmation" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FzykQuit_EN-1">
+        <T AttributeName="Text" Text="Switching On/Off" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FstandbyLicht0_EN-0">
+        <T AttributeName="Text" Text="0" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FDLKanalASetting_EN-0">
+        <T AttributeName="Text" Text="Switching" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FDLKanalASetting_EN-1">
+        <T AttributeName="Text" Text="Constant light control.." />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FspeedRegler_EN-0">
+        <T AttributeName="Text" Text="Standard" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FspeedRegler_EN-1">
+        <T AttributeName="Text" Text="Average" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FspeedRegler_EN-2">
+        <T AttributeName="Text" Text="Fast" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5Ftextfeld_EN-0">
+        <T AttributeName="Text" Text="See KNX handbook PL180_KNX" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5Fdochjanein_EN-0">
+        <T AttributeName="Text" Text="No" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5Fdochjanein_EN-1">
+        <T AttributeName="Text" Text="Yes" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FtelegrammKonstantlicht_EN-0">
+        <T AttributeName="Text" Text="Value telegram" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_PT-en.5FtelegrammKonstantlicht_EN-1">
+        <T AttributeName="Text" Text="ON telegram" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_O-0">
+        <T AttributeName="Text" Text="A channel light" />
+        <T AttributeName="FunctionText" Text="Switching" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_O-1">
+        <T AttributeName="Text" Text="A channel light" />
+        <T AttributeName="FunctionText" Text="Brighter/darker" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_O-2">
+        <T AttributeName="Text" Text="A channel light" />
+        <T AttributeName="FunctionText" Text="Send value" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_O-3">
+        <T AttributeName="Text" Text="A channel light" />
+        <T AttributeName="FunctionText" Text="Feedback value" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_O-4">
+        <T AttributeName="Text" Text="A brightness level" />
+        <T AttributeName="FunctionText" Text="Receive value" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_O-5">
+        <T AttributeName="Text" Text="A brightness level (Teach-in)" />
+        <T AttributeName="FunctionText" Text="$01=call/ $81=save" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_O-6">
+        <T AttributeName="Text" Text="Alternative brightness level A" />
+        <T AttributeName="FunctionText" Text="Receive value" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_O-7">
+        <T AttributeName="Text" Text="B channel light" />
+        <T AttributeName="FunctionText" Text="Switching" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_O-8">
+        <T AttributeName="Text" Text="B channel light" />
+        <T AttributeName="FunctionText" Text="Brighter/darker" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_O-9">
+        <T AttributeName="Text" Text="B channel light" />
+        <T AttributeName="FunctionText" Text="Send value" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_O-10">
+        <T AttributeName="Text" Text="B channel light" />
+        <T AttributeName="FunctionText" Text="Feedback value" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_O-11">
+        <T AttributeName="Text" Text="A,B channels light" />
+        <T AttributeName="FunctionText" Text="Disable/enable" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_O-12">
+        <T AttributeName="Text" Text="A,B channels light" />
+        <T AttributeName="FunctionText" Text="Select brightness level" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_O-13">
+        <T AttributeName="Text" Text="Central command" />
+        <T AttributeName="FunctionText" Text="Receive" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_O-14">
+        <T AttributeName="Text" Text="External scene" />
+        <T AttributeName="FunctionText" Text="Receive" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_O-15">
+        <T AttributeName="Text" Text="G channel brightness value" />
+        <T AttributeName="FunctionText" Text="Send lux value" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_O-16">
+        <T AttributeName="Text" Text="H channel presence" />
+        <T AttributeName="FunctionText" Text="Switching" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_O-17">
+        <T AttributeName="Text" Text="J channel presence" />
+        <T AttributeName="FunctionText" Text="Send value" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_O-18">
+        <T AttributeName="Text" Text="H,J channels presence" />
+        <T AttributeName="FunctionText" Text="Disable/enable" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_O-19">
+        <T AttributeName="Text" Text="M channel room monitoring" />
+        <T AttributeName="FunctionText" Text="Message" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_O-20">
+        <T AttributeName="Text" Text="M channel room monitoring" />
+        <T AttributeName="FunctionText" Text="Confirmation" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_O-21">
+        <T AttributeName="Text" Text="M channel room monitoring" />
+        <T AttributeName="FunctionText" Text="Sabotage cyclically" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_O-22">
+        <T AttributeName="Text" Text="M channel room monitoring" />
+        <T AttributeName="FunctionText" Text="Enable" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_O-23">
+        <T AttributeName="Text" Text="Parallel connection" />
+        <T AttributeName="FunctionText" Text="Trigger input/output" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_O-24">
+        <T AttributeName="Text" Text="Scene input" />
+        <T AttributeName="FunctionText" Text="Scenes 1/2" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_O-24_R-10031">
+        <T AttributeName="Text" Text="Scene output" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_O-24_R-10032">
+        <T AttributeName="Text" Text="Scene output" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_O-24_R-10033">
+        <T AttributeName="Text" Text="Scene output" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_O-24_R-10034">
+        <T AttributeName="Text" Text="Scene output" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_O-24_R-10035">
+        <T AttributeName="Text" Text="Scene output" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_O-24_R-10036">
+        <T AttributeName="Text" Text="Scene output" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_O-24_R-10037">
+        <T AttributeName="Text" Text="Scene output" />
+        <T AttributeName="FunctionText" Text="Scene number" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_O-24_R-10038">
+        <T AttributeName="Text" Text="Scene output" />
+        <T AttributeName="FunctionText" Text="Scene number" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_O-24_R-10039">
+        <T AttributeName="Text" Text="Scene output" />
+        <T AttributeName="FunctionText" Text="Scene number" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_O-24_R-10040">
+        <T AttributeName="Text" Text="Scene output" />
+        <T AttributeName="FunctionText" Text="Scene number" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_O-24_R-10041">
+        <T AttributeName="Text" Text="Scene output" />
+        <T AttributeName="FunctionText" Text="Scene number" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_O-24_R-10042">
+        <T AttributeName="Text" Text="Scene output" />
+        <T AttributeName="FunctionText" Text="Scene number" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_O-25">
+        <T AttributeName="Text" Text="IR external channel 1" />
+        <T AttributeName="FunctionText" Text="External switching" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_O-26">
+        <T AttributeName="Text" Text="IR external channel 1" />
+        <T AttributeName="FunctionText" Text="Brighter/darker" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_O-26_R-10060">
+        <T AttributeName="FunctionText" Text="External dimming" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_O-27">
+        <T AttributeName="Text" Text="IR external channel 2" />
+        <T AttributeName="FunctionText" Text="External switching" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_O-28">
+        <T AttributeName="Text" Text="IR external channel 2" />
+        <T AttributeName="FunctionText" Text="Brighter/darker" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_O-28_R-10062">
+        <T AttributeName="FunctionText" Text="External dimming" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_O-29">
+        <T AttributeName="Text" Text="IR external channel 1" />
+        <T AttributeName="FunctionText" Text="External blinds" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_O-30">
+        <T AttributeName="Text" Text="IR external channel 1" />
+        <T AttributeName="FunctionText" Text="External lamella" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_O-31">
+        <T AttributeName="Text" Text="IR external channel 2" />
+        <T AttributeName="FunctionText" Text="External blinds" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_O-32">
+        <T AttributeName="Text" Text="IR external channel 2" />
+        <T AttributeName="FunctionText" Text="External lamella" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_O-33">
+        <T AttributeName="Text" Text="Test mode presence" />
+        <T AttributeName="FunctionText" Text="On/Off" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_O-34">
+        <T AttributeName="Text" Text="Test mode brightness" />
+        <T AttributeName="FunctionText" Text="On/Off" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_O-35">
+        <T AttributeName="Text" Text="Diagnosis" />
+        <T AttributeName="FunctionText" Text="Status" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_O-36">
+        <T AttributeName="Text" Text="Converter input 1bit" />
+        <T AttributeName="FunctionText" Text="Receive" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_O-37">
+        <T AttributeName="Text" Text="Converter input 4bit" />
+        <T AttributeName="FunctionText" Text="Receive" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_O-38">
+        <T AttributeName="Text" Text="Converter input 1byte" />
+        <T AttributeName="FunctionText" Text="Receive" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_O-39">
+        <T AttributeName="Text" Text="Converter output 1byte" />
+        <T AttributeName="FunctionText" Text="Send value" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_P-1000">
+        <T AttributeName="Text" Text="###" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_P-1001">
+        <T AttributeName="Text" Text="###" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_P-5052">
+        <T AttributeName="Text" Text="Stand-by light" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_UP-5056">
+        <T AttributeName="Text" Text="Stand-by-time light" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_UP-5055">
+        <T AttributeName="Text" Text="Stand-by dimming value" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_P-1002">
+        <T AttributeName="Text" Text="General" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_P-5000">
+        <T AttributeName="Text" Text="en_Master Type" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_P-5002">
+        <T AttributeName="Text" Text="Operating mode" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_P-1006">
+        <T AttributeName="Text" Text="Operating mode" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_P-1007">
+        <T AttributeName="Text" Text="Master operating mode" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_P-5005">
+        <T AttributeName="Text" Text="Cyclic time parallel circuit operation" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_P-5007">
+        <T AttributeName="Text" Text="Automatically end test mode after" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_P-5008">
+        <T AttributeName="Text" Text="Parameter settings with download" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_P-5009">
+        <T AttributeName="Text" Text="Detection sensitivity" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_P-5010">
+        <T AttributeName="Text" Text="Reduction of detection sensitivity when room monitoring" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_P-5011">
+        <T AttributeName="Text" Text="Disabling light channels with external scenes" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_P-1013">
+        <T AttributeName="Text" Text="Disable light channels with external scenes" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_P-5137">
+        <T AttributeName="Text" Text="Telegram converter" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_P-1015">
+        <T AttributeName="Text" Text="Channel functions" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_P-1016">
+        <T AttributeName="Text" Text="A channel, light" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_P-1017">
+        <T AttributeName="Text" Text="B channel, light" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_P-1019">
+        <T AttributeName="Text" Text="B channel, light" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_P-1020">
+        <T AttributeName="Text" Text="B channel, light" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_P-1021">
+        <T AttributeName="Text" Text="B channel, light" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_P-1022">
+        <T AttributeName="Text" Text="B channel, light" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_P-1023">
+        <T AttributeName="Text" Text="B channel, light" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_P-1018">
+        <T AttributeName="Text" Text="Control type" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_P-1029">
+        <T AttributeName="Text" Text="G channel, send brightness value" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_P-1025">
+        <T AttributeName="Text" Text="H channel, presence" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_P-1027">
+        <T AttributeName="Text" Text="J channel, presence" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_P-1031">
+        <T AttributeName="Text" Text="M channel, room monitoring" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_P-1032">
+        <T AttributeName="Text" Text="A channel, light" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_P-1033">
+        <T AttributeName="Text" Text="A channel, light" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_P-5029">
+        <T AttributeName="Text" Text="Function mode" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_UP-5030">
+        <T AttributeName="Text" Text="Brightness level" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_UP-5031">
+        <T AttributeName="Text" Text="Brightness level" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_P-1034">
+        <T AttributeName="Text" Text="The value range depends on the room correction factor" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_P-1037">
+        <T AttributeName="Text" Text="The value range depends on the room correction factor" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_P-5032">
+        <T AttributeName="Text" Text="Room correction factor" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_P-1035">
+        <T AttributeName="Text" Text="Set brightness level via bus" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_P-1038">
+        <T AttributeName="Text" Text="Set brightness level via bus" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_P-5033">
+        <T AttributeName="Text" Text="Switch-off delay time time" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_P-5034">
+        <T AttributeName="Text" Text="Short presence" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_UP-5035">
+        <T AttributeName="Text" Text="Stand-by dimming value" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_P-1039">
+        <T AttributeName="Text" Text="Stand-by-time light" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_P-5036">
+        <T AttributeName="Text" Text="Selecting brightness level" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_UP-5038">
+        <T AttributeName="Text" Text=" Alternative brightness level" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_UP-5040">
+        <T AttributeName="Text" Text=" Alternative brightness level" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_P-1036">
+        <T AttributeName="Text" Text="Change-over brightness level" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_P-5039">
+        <T AttributeName="Text" Text="Set alt. brightness level via bus" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_P-1041">
+        <T AttributeName="Text" Text="   Constant light control" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_P-5050">
+        <T AttributeName="Text" Text="Behaviour at start of control" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_P-5051">
+        <T AttributeName="Text" Text="Behaviour of the control" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_P-1040">
+        <T AttributeName="Text" Text="Stand-by-time light" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_UP-5054">
+        <T AttributeName="Text" Text="Stand-by-time light" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_P-1043">
+        <T AttributeName="Text" Text="   Disabling function light" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_P-1045">
+        <T AttributeName="Text" Text="   Disabling function light" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_P-5046">
+        <T AttributeName="Text" Text="Disabling light channels" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_P-5047">
+        <T AttributeName="Text" Text="Behaviour at start of disabling" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_P-1047">
+        <T AttributeName="Text" Text="The current status is sent at the end when enabled" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_P-1048">
+        <T AttributeName="Text" Text="The current status is sent at the end when enabled" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_P-1049">
+        <T AttributeName="Text" Text="B channel, light" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_P-1050">
+        <T AttributeName="Text" Text="B channel, light" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_P-5049">
+        <T AttributeName="Text" Text="Brightness difference to channel A light" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_P-1051">
+        <T AttributeName="Text" Text="Disabling functions as with channel A light" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_P-1080">
+        <T AttributeName="Text" Text="Disabling functions as with channel A light" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_P-1052">
+        <T AttributeName="Text" Text="G channel, send brightness value" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_P-5075">
+        <T AttributeName="Text" Text="Transmit brightness value cyclically" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_P-5076">
+        <T AttributeName="Text" Text="Send brightness value on change" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_P-1053">
+        <T AttributeName="Text" Text="H channel, presence" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_P-5059">
+        <T AttributeName="Text" Text="Switch-on delay time presence" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_P-5060">
+        <T AttributeName="Text" Text="Switch-off delay time presence" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_P-5061">
+        <T AttributeName="Text" Text="Behaviour at start of presence" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_P-5062">
+        <T AttributeName="Text" Text="Behaviour at end of presence" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_P-1054">
+        <T AttributeName="Text" Text="   Presence disabling function" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_P-5063">
+        <T AttributeName="Text" Text="Disable presence channels" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_P-5064">
+        <T AttributeName="Text" Text="Behaviour at start of disabling" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_P-1055">
+        <T AttributeName="Text" Text="The current status is sent at the end when enabled" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_P-1056">
+        <T AttributeName="Text" Text="The current status is sent at the end when enabled" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_P-1057">
+        <T AttributeName="Text" Text="J channel, presence" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_P-1062">
+        <T AttributeName="Text" Text="Behaviour switch-off and switch-on delay time as with channel H presence" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_P-5066">
+        <T AttributeName="Text" Text="Behaviour at start of presence" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_P-5067">
+        <T AttributeName="Text" Text="Value at start of presence" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_P-5069">
+        <T AttributeName="Text" Text="Behaviour at end of presence" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_P-5070">
+        <T AttributeName="Text" Text="Value at end of presence" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_P-1059">
+        <T AttributeName="Text" Text="   J channel disabling function" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_P-1063">
+        <T AttributeName="Text" Text="Disabling functions depend on channel H presence" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_P-5072">
+        <T AttributeName="Text" Text="Behaviour at start of disabling" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_P-5073">
+        <T AttributeName="Text" Text="Value at start of disabling" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_P-1064">
+        <T AttributeName="Text" Text="The current status is sent at the end when enabled" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_P-1065">
+        <T AttributeName="Text" Text="M channel room monitoring" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_P-5077">
+        <T AttributeName="Text" Text="Type of report" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_P-5078">
+        <T AttributeName="Text" Text="Waiting time for confirmation" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_P-5079">
+        <T AttributeName="Text" Text="Switch-off delay time room monitoring" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_P-5080">
+        <T AttributeName="Text" Text="Behaviour at start/end of presence" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_P-5081">
+        <T AttributeName="Text" Text="Behaviour at return of bus voltage" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_P-1067">
+        <T AttributeName="Text" Text="Sabotage cyclically" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_UP-5084">
+        <T AttributeName="Text" Text="Cyclic time sabotage" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_UP-5085">
+        <T AttributeName="Text" Text="Cyclic time sabotage" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_P-1068">
+        <T AttributeName="Text" Text="Remote control" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_P-5086">
+        <T AttributeName="Text" Text="Teach-in brightness level via user remote control" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_P-1071">
+        <T AttributeName="Text" Text="Allocation of IR-group-addresses" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_P-5087">
+        <T AttributeName="Text" Text="Switching/dimming A" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_P-5088">
+        <T AttributeName="Text" Text="Switching/dimming B" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_P-5090">
+        <T AttributeName="Text" Text="External 1 switching/dimming" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_P-5091">
+        <T AttributeName="Text" Text="External 2 switching/dimming" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_P-5092">
+        <T AttributeName="Text" Text="External blinds 1" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_P-5093">
+        <T AttributeName="Text" Text="External blinds 2" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_P-1072">
+        <T AttributeName="Text" Text="   General scenes" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_P-1073">
+        <T AttributeName="Text" Text="   General scenes" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_P-1074">
+        <T AttributeName="Text" Text="   General scenes" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_P-1075">
+        <T AttributeName="Text" Text="   General scenes" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_UP-5094">
+        <T AttributeName="Text" Text="Scene control" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_UP-5095">
+        <T AttributeName="Text" Text="Scene control" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_P-5100">
+        <T AttributeName="Text" Text="Scene number key scene 1" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_P-5101">
+        <T AttributeName="Text" Text="Scene number key scene 2" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_P-5112">
+        <T AttributeName="Text" Text="Define scenes with" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_UP-5116">
+        <T AttributeName="Text" Text="Output value scene 1, light A" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_UP-5122">
+        <T AttributeName="Text" Text="Output value scene 1, light A" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_UP-5117">
+        <T AttributeName="Text" Text="Output value scene 2, light A" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_UP-5123">
+        <T AttributeName="Text" Text="Output value scene 2, light A" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_UP-5118">
+        <T AttributeName="Text" Text="Output value scene 1, light B" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_UP-5124">
+        <T AttributeName="Text" Text="Output value scene 1, light B" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_UP-5119">
+        <T AttributeName="Text" Text="Output value scene 2, light B" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_UP-5125">
+        <T AttributeName="Text" Text="Output value scene 2, light B" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_P-1076">
+        <T AttributeName="Text" Text="Disabling light channels with external scenes" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_P-5128">
+        <T AttributeName="Text" Text="1. Scene number for disabling" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_P-5129">
+        <T AttributeName="Text" Text="2. Scene number for disabling" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_P-5130">
+        <T AttributeName="Text" Text="3. Scene number for disabling" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_P-5131">
+        <T AttributeName="Text" Text="4. Scene number for disabling" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_P-5132">
+        <T AttributeName="Text" Text="5. Scene number for disabling" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_P-5133">
+        <T AttributeName="Text" Text="6. Scene number for disabling" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_P-5134">
+        <T AttributeName="Text" Text="7. Scene number for disabling" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_P-5135">
+        <T AttributeName="Text" Text="8. Scene number for disabling" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_P-5136">
+        <T AttributeName="Text" Text="Validity of disabling" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_P-1077">
+        <T AttributeName="Text" Text="Enabling the light channels by &#xA;Szene 64 or enable-telegram." />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_P-1078">
+        <T AttributeName="Text" Text="Telegram converter" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52_P-5138">
+        <T AttributeName="Text" Text="Output value" />
+      </TE>
+      <TE RefId="M-00E8_A-000B-10-5F52">
+        <T AttributeName="Name" Text="V1.00 / 2xlight, 2xHVAC, monitoring, brightness 18" />
+      </TE>
+    </TU>
+  </L>
+</LS>

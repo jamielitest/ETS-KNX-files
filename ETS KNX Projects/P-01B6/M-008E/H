@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<H>
+  <H Id="M-008E_H-4007841008802-2" Name="presence Control Pro" SerialNumber="4007841008802" VersionNumber="2" BusCurrent="30" HasIndividualAddress="true" HasApplicationProgram="true">
+    <Prods>
+      <Prod Id="M-008E_H-4007841008802-2_P-4007841008802" Text="STEINEL DUAL HF KNX" OrderNumber="4007841008802" IsRailMounted="false" DefaultLanguage="en-US" Hash="ZwZotN8/ojbNOD3oYDHY4HlAY44=">
+        <ATRs>
+          <ATR Id="M-008E_H-4007841008802-2_P-4007841008802_AT-Series" Name="Series" Value="presence Control PRO" />
+        </ATRs>
+        <RI RegistrationStatus="Registered" RegistrationDate="2014-07-30" RegistrationSignature="zCfKg4iYV7HUJBTyCrZuuYhfLpmM2hM0ZIzcZOn9XHECG8ohsrAKr29ukhShoqEyKXbXlQsadVO+hoDjQ8e9kg4vHXp+QnSc00rsvgNpyzhduyyIdZpRKx8buOojFQF4SGl0qzusphGlGSwVjCd4iBxQ82l9zHhpP9VulQo01vM=" />
+      </Prod>
+    </Prods>
+    <H2Ps>
+      <H2P Id="M-008E_H-4007841008802-2_HP-5960-21-B1E1" MediumTypes="MT-0" Hash="xaX+E5B9YzmcvMP7MIvagMKNtj4=">
+        <APR RefId="M-008E_A-5960-21-B1E1" />
+        <RI RegistrationStatus="Registered" RegistrationNumber="2014/11915" RegistrationDate="2014-12-15" RegistrationSignature="fIjxcazSOacnfidlfFeeltroNqIF6+Xf2XYlkczYftfG66efKocZz9qQi/H7u/LkEQA4S8yITFyIe5YnZYK47Ngh8QwrE7OAH8JKPlvxa/1mL6T7bIX26wEnv/b1iT2te2h6IbqIZ9AivD8iITOwOMasNNgidm8iDT0/76ke464=" />
+      </H2P>
+    </H2Ps>
+  </H>
+  <H Id="M-008E_H-40078410040xx-1" Name="sens IQ" SerialNumber="40078410040xx" VersionNumber="1" BusCurrent="10" HasIndividualAddress="true" HasApplicationProgram="true">
+    <Prods>
+      <Prod Id="M-008E_H-40078410040xx-1_P-40078410040xx" Text="STEINEL sensIQ S KNX" OrderNumber="40078410040xx" IsRailMounted="false" DefaultLanguage="en" Hash="QpuZ1HqDhKfLm8V/f0ox8Rsmd+w=">
+        <ATRs>
+          <ATR Id="M-008E_H-40078410040xx-1_P-40078410040xx_AT-CatalogName" Name="CatalogName" Value="sensIQ" />
+        </ATRs>
+        <RI RegistrationStatus="Registered" RegistrationSignature="k8zSyWnfqS3UpjOmwkGVbvZER8KCIXempV3iZ5/HZZLixRt2EcC8uDFOMwj8qmkwvH91TNtuIokRST4Vyvogrr3pK6ZxafqYLDeqkuQbRjAcfsC/VYaRV3/yT2mRPOphOEw15YQNOdh8qS8DrB9pRpQHfuCKEDr72Df/NQHeKhs=" />
+      </Prod>
+    </Prods>
+    <H2Ps>
+      <H2P Id="M-008E_H-40078410040xx-1_HP-0040-10-08CC" MediumTypes="MT-0" Hash="IZGRUgcjDoC8pJR/nfoln504a+E=">
+        <APR RefId="M-008E_A-0040-10-08CC" />
+        <RI RegistrationStatus="Registered" RegistrationNumber="2013/10972" RegistrationSignature="qocj+P0OH9K4BGGO4jhJxKuu+W/r4S2nglNfH1kJdjHyhuQazxdOEJv+H1rwkJs+uGu4/H95aKgIOfv/C/TFguwM7Py6CRA0Q4gxlLZ69UwziL0uBV1mpj2fYkzJQCsRkBubftUeIL+4f0+2kB9xXzojYoN03LyVaJ71g0mj+aE=" />
+      </H2P>
+    </H2Ps>
+  </H>
+</H>

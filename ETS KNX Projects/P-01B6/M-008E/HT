@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LS>
+  <L Identifier="en-US">
+    <TU RefId="M-008E_H-4007841008802-2_P-4007841008802">
+      <TE RefId="M-008E_H-4007841008802-2_P-4007841008802">
+        <T AttributeName="Text" Text="STEINEL DUAL HF KNX" />
+      </TE>
+      <TE RefId="M-008E_H-4007841008802-2_P-4007841008802_AT-Series">
+        <T AttributeName="Value" Text="presence Control PRO" />
+      </TE>
+    </TU>
+  </L>
+  <L Identifier="en">
+    <TU RefId="M-008E_H-40078410040xx-1_P-40078410040xx">
+      <TE RefId="M-008E_H-40078410040xx-1_P-40078410040xx">
+        <T AttributeName="Text" Text="STEINEL sensIQ S KNX" />
+      </TE>
+      <TE RefId="M-008E_H-40078410040xx-1_P-40078410040xx_AT-CatalogName">
+        <T AttributeName="Value" Text="sensIQ" />
+      </TE>
+    </TU>
+  </L>
+</LS>

@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Area Id="P-01B6-0_A-2" Address="1" Name="New area" Puid="3">
+  <Line Id="P-01B6-0_L-2" Address="0" Name="Main line" MediumTypeRefId="MT-5" Puid="4" />
+  <Line Id="P-01B6-0_L-3" Address="1" Name="New line" MediumTypeRefId="MT-0" Puid="5">
+    <DI Id="P-01B6-0_DI-1" Address="1" Name="" ProductRefId="M-008E_H-4007841008802-2_P-4007841008802" Hardware2ProgramRefId="M-008E_H-4007841008802-2_HP-5960-21-B1E1" Comment="" Description="" IsCommunicationObjectVisibilityCalculated="true" LastModified="2016-10-19T21:17:18.7617135Z" Puid="8">
+      <PIs>
+        <PI RefId="M-008E_A-5960-21-B1E1_P-66_R-66" Value="1" />
+        <PI RefId="M-008E_A-5960-21-B1E1_P-46_R-46" Value="1" />
+      </PIs>
+      <CIs>
+        <CI RefId="M-008E_A-5960-21-B1E1_O-0_R-1" IsActive="true" />
+        <CI RefId="M-008E_A-5960-21-B1E1_O-46_R-222" IsActive="true" />
+        <CI RefId="M-008E_A-5960-21-B1E1_O-47_R-223" IsActive="true" />
+        <CI RefId="M-008E_A-5960-21-B1E1_O-12_R-13" IsActive="true" />
+        <CI RefId="M-008E_A-5960-21-B1E1_O-14_R-15" IsActive="true" />
+        <CI RefId="M-008E_A-5960-21-B1E1_O-18_R-19" IsActive="true" />
+        <CI RefId="M-008E_A-5960-21-B1E1_O-24_R-25" IsActive="true" />
+        <CI RefId="M-008E_A-5960-21-B1E1_O-25_R-26" IsActive="true" />
+        <CI RefId="M-008E_A-5960-21-B1E1_O-26_R-27" IsActive="true" />
+        <CI RefId="M-008E_A-5960-21-B1E1_O-13_R-389" IsActive="true" />
+        <CI RefId="M-008E_A-5960-21-B1E1_O-1_R-2" IsActive="true" />
+        <CI RefId="M-008E_A-5960-21-B1E1_O-9_R-10" IsActive="true" />
+        <CI RefId="M-008E_A-5960-21-B1E1_O-10_R-11" IsActive="true" />
+        <CI RefId="M-008E_A-5960-21-B1E1_O-11_R-12" IsActive="true" />
+      </CIs>
+      <Security />
+    </DI>
+    <DI Id="P-01B6-0_DI-2" Address="2" Name="" ProductRefId="M-008E_H-40078410040xx-1_P-40078410040xx" Hardware2ProgramRefId="M-008E_H-40078410040xx-1_HP-0040-10-08CC" Comment="" Description="" IsCommunicationObjectVisibilityCalculated="true" LastModified="2016-10-20T01:35:44.2865982Z" Puid="9">
+      <PIs>
+        <PI RefId="M-008E_A-0040-10-08CC_P-2_R-2" Value="1" />
+        <PI RefId="M-008E_A-0040-10-08CC_P-5_R-5" Value="1" />
+      </PIs>
+      <CIs>
+        <CI RefId="M-008E_A-0040-10-08CC_O-0_R-1" IsActive="true" />
+        <CI RefId="M-008E_A-0040-10-08CC_O-2_R-3" IsActive="true" />
+        <CI RefId="M-008E_A-0040-10-08CC_O-5_R-6" IsActive="true" />
+        <CI RefId="M-008E_A-0040-10-08CC_O-6_R-7" IsActive="true" />
+        <CI RefId="M-008E_A-0040-10-08CC_O-7_R-8" IsActive="true" />
+        <CI RefId="M-008E_A-0040-10-08CC_O-17_R-18" IsActive="true" />
+      </CIs>
+      <Security />
+    </DI>
+  </Line>
+</Area>

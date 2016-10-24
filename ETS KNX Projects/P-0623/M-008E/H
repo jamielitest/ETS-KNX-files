@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<H>
+  <H Id="M-008E_H-40078410076xx-1" Name="iHF 3D" SerialNumber="40078410076xx" VersionNumber="1" BusCurrent="30" HasIndividualAddress="true" HasApplicationProgram="true">
+    <Prods>
+      <Prod Id="M-008E_H-40078410076xx-1_P-40078410076xx" Text="STEINEL iHF 3D KNX" OrderNumber="40078410076xx" IsRailMounted="false" DefaultLanguage="de-DE" Hash="WbR05ojyChf5OKVxcdY8UPgQpG8=">
+        <RI RegistrationStatus="Registered" RegistrationDate="2016-05-09" RegistrationSignature="SQnmNgM/cytRCWyF9+eX0XX37TybH1HDmf5uCNpIvKIZEZgfSjRDtqr5DxN7nrz7zJiYNmu1Qi50xM6dvlXQMMstSsBTg5E8T9J3xpzrbNUIovOy73caYknFDtRvJ/vjhG5r1lIcX1AF/1en3efQj11JTad7p89zkj2CwM3eROA=" />
+      </Prod>
+    </Prods>
+    <H2Ps>
+      <H2P Id="M-008E_H-40078410076xx-1_HP-5709-10-7652" MediumTypes="MT-0" Hash="bDbJQStaMIayoJoL9uxq6mJM4Qk=">
+        <APR RefId="M-008E_A-5709-10-7652" />
+        <RI RegistrationStatus="Registered" RegistrationNumber="2016/13040" RegistrationDate="2016-05-09" RegistrationSignature="KoQEG7qGurTmI8uLXEGHS8MehbFH5rNfEZt4eSCe9vAwjI1rN5NrAYWyH4taRIvgvzuSDWsNIma150k5TDvcUpCATt1TjII+RkBVwyPk9uMr+gqixa/9gyfCSLhwXAbizS85OKSzXqJaufdZXZ+qRITFlBsumGW1kP9HI5tJ5Vw=" />
+      </H2P>
+    </H2Ps>
+  </H>
+</H>

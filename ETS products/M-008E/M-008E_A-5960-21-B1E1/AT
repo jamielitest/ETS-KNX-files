@@ -1,0 +1,933 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LS>
+  <L Identifier="en-US">
+    <TU RefId="M-008E_A-5960-21-B1E1">
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-Melder.2DBetriebsart_EN-0">
+        <T AttributeName="Text" Text="Single detector" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-Melder.2DBetriebsart_EN-1">
+        <T AttributeName="Text" Text="Master" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-Melder.2DBetriebsart_EN-2">
+        <T AttributeName="Text" Text="Slave" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-Melder.2DBetriebsart_EN-3">
+        <T AttributeName="Text" Text="Master in parallel mode" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-inaktiv.2Faktiv_EN-0">
+        <T AttributeName="Text" Text="inactive" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-inaktiv.2Faktiv_EN-1">
+        <T AttributeName="Text" Text="active" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-Fernbedienung_EN-0">
+        <T AttributeName="Text" Text="inactive" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-Fernbedienung_EN-1">
+        <T AttributeName="Text" Text="USER" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-Fernbedienung_EN-2">
+        <T AttributeName="Text" Text="PROGRAM" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-Fernbedienung_EN-3">
+        <T AttributeName="Text" Text="PROGRAM &amp; USER" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-Normal.2D.2FTestbetrieb_EN-0">
+        <T AttributeName="Text" Text="Normal mode" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-Normal.2D.2FTestbetrieb_EN-1">
+        <T AttributeName="Text" Text="Presence test mode" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-Normal.2D.2FTestbetrieb_EN-2">
+        <T AttributeName="Text" Text="Lighting test mode" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-nein.2Fja_EN-0">
+        <T AttributeName="Text" Text="No" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-nein.2Fja_EN-1">
+        <T AttributeName="Text" Text="Yes" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-Präsenz.20zyklisch.20senden_EN-0">
+        <T AttributeName="Text" Text="inactive" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-Präsenz.20zyklisch.20senden_EN-15">
+        <T AttributeName="Text" Text="15 s" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-Präsenz.20zyklisch.20senden_EN-30">
+        <T AttributeName="Text" Text="30 s" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-Präsenz.20zyklisch.20senden_EN-60">
+        <T AttributeName="Text" Text="1 Min." />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-Präsenz.20zyklisch.20senden_EN-300">
+        <T AttributeName="Text" Text="5 Min." />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-Präsenz.20zyklisch.20senden_EN-600">
+        <T AttributeName="Text" Text="10 Min." />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-Präsenz.20zyklisch.20senden_EN-900">
+        <T AttributeName="Text" Text="15 Min." />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-Präsenz.20zyklisch.20senden_EN-1800">
+        <T AttributeName="Text" Text="30 Min." />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-Präsenz.20zyklisch.20senden_EN-3600">
+        <T AttributeName="Text" Text="60 Min." />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-Sperren.20Ausgang_EN-0">
+        <T AttributeName="Text" Text="No" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-Sperren.20Ausgang_EN-1">
+        <T AttributeName="Text" Text="ON for disabling / OFF for enabling" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-Sperren.20Ausgang_EN-2">
+        <T AttributeName="Text" Text="OFF for disabling / ON for enabling" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-Präsenz.20Verhalten.20Bei.20Sperren_EN-0">
+        <T AttributeName="Text" Text="no action" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-Präsenz.20Verhalten.20Bei.20Sperren_EN-1">
+        <T AttributeName="Text" Text="ON telegram" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-Präsenz.20Verhalten.20Bei.20Sperren_EN-2">
+        <T AttributeName="Text" Text="OFF telegram" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-Präsenz.20Verhalten.20bei.20Freigabe_EN-0">
+        <T AttributeName="Text" Text="Set presence to current status" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-Präsenz.20Verhalten.20bei.20Freigabe_EN-1">
+        <T AttributeName="Text" Text="ON telegram" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-Präsenz.20Verhalten.20bei.20Freigabe_EN-2">
+        <T AttributeName="Text" Text="OFF telegram" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-Status.20Sperrung_EN-0">
+        <T AttributeName="Text" Text="No" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-Status.20Sperrung_EN-1">
+        <T AttributeName="Text" Text="send after change" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-Beleuchtung.20Anzahl.20Leuchtengruppen_EN-1">
+        <T AttributeName="Text" Text="1" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-Beleuchtung.20Anzahl.20Leuchtengruppen_EN-2">
+        <T AttributeName="Text" Text="2" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-Beleuchtung.20Anzahl.20Leuchtengruppen_EN-3">
+        <T AttributeName="Text" Text="3" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-Beleuchtung.20Anzahl.20Leuchtengruppen_EN-4">
+        <T AttributeName="Text" Text="4" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-Beleuchtung.20Schalten.20der.20Beleuchtung_EN-0">
+        <T AttributeName="Text" Text="automatically 'ON' and 'OFF' (fully automatic)" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-Beleuchtung.20Schalten.20der.20Beleuchtung_EN-1">
+        <T AttributeName="Text" Text="automatically 'OFF' only (semi-automatic)" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-Beleuchtung.20Verhalten.20Sperren.20der.20Helligkeits.2DR.2E_EN-0">
+        <T AttributeName="Text" Text="no action" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-Beleuchtung.20Verhalten.20Sperren.20der.20Helligkeits.2DR.2E_EN-1">
+        <T AttributeName="Text" Text="Light ON" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-Beleuchtung.20Verhalten.20Sperren.20der.20Helligkeits.2DR.2E_EN-2">
+        <T AttributeName="Text" Text="Light OFF" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-Beleuchtung.20Verhalten.20bei.20Freigabe.20der.20Hellig.2E.2DR.2E_EN-0">
+        <T AttributeName="Text" Text="Continuing control" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-Beleuchtung.20Verhalten.20bei.20Freigabe.20der.20Hellig.2E.2DR.2E_EN-1">
+        <T AttributeName="Text" Text="Light ON" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-Beleuchtung.20Verhalten.20bei.20Freigabe.20der.20Hellig.2E.2DR.2E_EN-2">
+        <T AttributeName="Text" Text="Light OFF" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-HR.20Art.20der.20Helligkeits.2DRegelung_EN-0">
+        <T AttributeName="Text" Text="switched mode" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-HR.20Art.20der.20Helligkeits.2DRegelung_EN-1">
+        <T AttributeName="Text" Text="constant-lighting control" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-HR.20Max.20Abweichung.20vom.20Sollwert_EN-15">
+        <T AttributeName="Text" Text="15 lux" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-HR.20Max.20Abweichung.20vom.20Sollwert_EN-30">
+        <T AttributeName="Text" Text="30 lux" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-HR.20Max.20Abweichung.20vom.20Sollwert_EN-45">
+        <T AttributeName="Text" Text="45 lux" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-HR.20Max.20Abweichung.20vom.20Sollwert_EN-60">
+        <T AttributeName="Text" Text="60 lux" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-HR.20Max.20Schrittweite.20beim.20Dimmen_EN-1">
+        <T AttributeName="Text" Text="0,50%" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-HR.20Max.20Schrittweite.20beim.20Dimmen_EN-3">
+        <T AttributeName="Text" Text="1%" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-HR.20Max.20Schrittweite.20beim.20Dimmen_EN-4">
+        <T AttributeName="Text" Text="1,50%" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-HR.20Max.20Schrittweite.20beim.20Dimmen_EN-5">
+        <T AttributeName="Text" Text="2%" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-HR.20Max.20Schrittweite.20beim.20Dimmen_EN-6">
+        <T AttributeName="Text" Text="2,50%" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-HR.20Max.20Schrittweite.20beim.20Dimmen_EN-8">
+        <T AttributeName="Text" Text="3%" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-HR.20Max.20Schrittweite.20beim.20Dimmen_EN-13">
+        <T AttributeName="Text" Text="5%" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-HR.20Neuen.20Dimmwert.20senden.20nach_EN-0">
+        <T AttributeName="Text" Text="0,5 s" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-HR.20Neuen.20Dimmwert.20senden.20nach_EN-1">
+        <T AttributeName="Text" Text="1 s" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-HR.20Neuen.20Dimmwert.20senden.20nach_EN-2">
+        <T AttributeName="Text" Text="2 s" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-HR.20Neuen.20Dimmwert.20senden.20nach_EN-3">
+        <T AttributeName="Text" Text="3 s" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-HR.20Neuen.20Dimmwert.20senden.20nach_EN-4">
+        <T AttributeName="Text" Text="4 s" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-HR.20Neuen.20Dimmwert.20senden.20nach_EN-5">
+        <T AttributeName="Text" Text="5 s" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-HR.20Beleuchtung.20bei.20ausreichendem.20Tageslicht_EN-0">
+        <T AttributeName="Text" Text="switching OFF" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-HR.20Beleuchtung.20bei.20ausreichendem.20Tageslicht_EN-1">
+        <T AttributeName="Text" Text="dim to minimum level" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-HR.20Mindest.2DDimmwert_EN-1">
+        <T AttributeName="Text" Text="0,50%" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-HR.20Mindest.2DDimmwert_EN-3">
+        <T AttributeName="Text" Text="1%" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-HR.20Mindest.2DDimmwert_EN-5">
+        <T AttributeName="Text" Text="2%" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-HR.20Mindest.2DDimmwert_EN-8">
+        <T AttributeName="Text" Text="3%" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-HR.20Mindest.2DDimmwert_EN-10">
+        <T AttributeName="Text" Text="4%" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-HR.20Mindest.2DDimmwert_EN-13">
+        <T AttributeName="Text" Text="5%" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-HR.20Mindest.2DDimmwert_EN-15">
+        <T AttributeName="Text" Text="6%" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-HR.20Mindest.2DDimmwert_EN-18">
+        <T AttributeName="Text" Text="7%" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-HR.20Mindest.2DDimmwert_EN-20">
+        <T AttributeName="Text" Text="8%" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-HR.20Mindest.2DDimmwert_EN-23">
+        <T AttributeName="Text" Text="9%" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-HR.20Mindest.2DDimmwert_EN-25">
+        <T AttributeName="Text" Text="10%" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-HR.20bei.20Eingang.20Licht.20X.20dimmen_EN-0">
+        <T AttributeName="Text" Text="disable and dim" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-HR.20bei.20Eingang.20Licht.20X.20dimmen_EN-1">
+        <T AttributeName="Text" Text="do not disable and alter setting" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-HR.20Min.20Helligkeitsänderung_EN-20">
+        <T AttributeName="Text" Text="20 lux" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-HR.20Min.20Helligkeitsänderung_EN-30">
+        <T AttributeName="Text" Text="30 lux" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-HR.20Min.20Helligkeitsänderung_EN-40">
+        <T AttributeName="Text" Text="40 lux" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-HR.20Min.20Helligkeitsänderung_EN-50">
+        <T AttributeName="Text" Text="50 lux" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-HR.20Min.20Helligkeitsänderung_EN-60">
+        <T AttributeName="Text" Text="60 lux" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-HR.20Messwert.20zyklisch.20senden_EN-0">
+        <T AttributeName="Text" Text="inactive" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-HR.20Messwert.20zyklisch.20senden_EN-10">
+        <T AttributeName="Text" Text="10 s" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-HR.20Messwert.20zyklisch.20senden_EN-15">
+        <T AttributeName="Text" Text="15 s" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-HR.20Messwert.20zyklisch.20senden_EN-30">
+        <T AttributeName="Text" Text="30 s" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-HR.20Messwert.20zyklisch.20senden_EN-60">
+        <T AttributeName="Text" Text="1 Min." />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-HR.20Messwert.20zyklisch.20senden_EN-300">
+        <T AttributeName="Text" Text="5 Min." />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-HR.20Messwert.20zyklisch.20senden_EN-600">
+        <T AttributeName="Text" Text="10 Min." />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-HR.20Messwert.20zyklisch.20senden_EN-900">
+        <T AttributeName="Text" Text="15 Min." />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-HR.20Messwert.20zyklisch.20senden_EN-1800">
+        <T AttributeName="Text" Text="30 Min." />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-HR.20Messwert.20zyklisch.20senden_EN-3600">
+        <T AttributeName="Text" Text="60 Min" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-HLK.20Verhalten.20Sperren_EN-0">
+        <T AttributeName="Text" Text="no action" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-HLK.20Verhalten.20Sperren_EN-1">
+        <T AttributeName="Text" Text="ON telegram" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-HLK.20Verhalten.20Sperren_EN-2">
+        <T AttributeName="Text" Text="OFF telegram" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-HLK.20Verhalten.20Freigabe_EN-0">
+        <T AttributeName="Text" Text="Set HVAC output to current status" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-HLK.20Verhalten.20Freigabe_EN-1">
+        <T AttributeName="Text" Text="ON telegram" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-HLK.20Verhalten.20Freigabe_EN-2">
+        <T AttributeName="Text" Text="OFF telegram" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-GB.20Grundbeleuchtung.20über_EN-0">
+        <T AttributeName="Text" Text="special switching object" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-GB.20Grundbeleuchtung.20über_EN-1">
+        <T AttributeName="Text" Text="dimming level to light 1 output" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-GB.20Grundbeleuchtung.20EIN_EN-0">
+        <T AttributeName="Text" Text="for a limit time" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-GB.20Grundbeleuchtung.20EIN_EN-1">
+        <T AttributeName="Text" Text="in relation to light level" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-GB.20Grundbeleuchtung.20EIN_EN-2">
+        <T AttributeName="Text" Text="in relation to outdoor light level (ext. Sensor)" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-GB.20Dimmwert_EN-3">
+        <T AttributeName="Text" Text="1%" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-GB.20Dimmwert_EN-8">
+        <T AttributeName="Text" Text="3%" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-GB.20Dimmwert_EN-13">
+        <T AttributeName="Text" Text="5%" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-GB.20Dimmwert_EN-25">
+        <T AttributeName="Text" Text="10%" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-GB.20Dimmwert_EN-38">
+        <T AttributeName="Text" Text="15%" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-GB.20Dimmwert_EN-50">
+        <T AttributeName="Text" Text="20%" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-GB.20Dimmwert_EN-63">
+        <T AttributeName="Text" Text="25%" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-Anzahl.20Slaves_EN-0">
+        <T AttributeName="Text" Text="0" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-Anzahl.20Slaves_EN-1">
+        <T AttributeName="Text" Text="1" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-Anzahl.20Slaves_EN-2">
+        <T AttributeName="Text" Text="2" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-Anzahl.20Slaves_EN-3">
+        <T AttributeName="Text" Text="3" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-Anzahl.20Slaves_EN-4">
+        <T AttributeName="Text" Text="4" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-PräsenzMinZyklischSenden_EN-10">
+        <T AttributeName="Text" Text="10 s" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-PräsenzMinZyklischSenden_EN-15">
+        <T AttributeName="Text" Text="15 s" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-PräsenzMinZyklischSenden_EN-30">
+        <T AttributeName="Text" Text="30 s" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-PräsenzMinZyklischSenden_EN-60">
+        <T AttributeName="Text" Text="1 Min" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-PräsenzMinZyklischSenden_EN-120">
+        <T AttributeName="Text" Text="2 Min" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-PräsenzMinZyklischSenden_EN-180">
+        <T AttributeName="Text" Text="3 Min" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-PräsenzMinZyklischSenden_EN-240">
+        <T AttributeName="Text" Text="4 Min" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-PräsenzMinZyklischSenden_EN-300">
+        <T AttributeName="Text" Text="5 Min" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-PräsenzMinZyklischSenden_EN-600">
+        <T AttributeName="Text" Text="10 Min" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-PräsenzMinZyklischSenden_EN-1800">
+        <T AttributeName="Text" Text="30 Min" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-PräsenzMinZyklischSenden_EN-3600">
+        <T AttributeName="Text" Text="60 Min" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-HF.20Reichweite_EN-1">
+        <T AttributeName="Text" Text="min" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-HF.20Reichweite_EN-2">
+        <T AttributeName="Text" Text="1/3" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-HF.20Reichweite_EN-3">
+        <T AttributeName="Text" Text="2/3" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-HF.20Reichweite_EN-4">
+        <T AttributeName="Text" Text="max" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-HF.20Sensitivität_EN-1">
+        <T AttributeName="Text" Text="N" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-HF.20Sensitivität_EN-0">
+        <T AttributeName="Text" Text="-" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-SekOderMin_EN-0">
+        <T AttributeName="Text" Text="Seconds" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-SekOderMin_EN-1">
+        <T AttributeName="Text" Text="Minutes" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-EIN.2FAUS_EN-0">
+        <T AttributeName="Text" Text="OFF" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_PT-EIN.2FAUS_EN-1">
+        <T AttributeName="Text" Text="ON" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_O-0">
+        <T AttributeName="Text" Text="Test mode status" />
+        <T AttributeName="FunctionText" Text="ON/OFF" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_O-1">
+        <T AttributeName="Text" Text="Presence output" />
+        <T AttributeName="FunctionText" Text="ON/OFF" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_O-2">
+        <T AttributeName="Text" Text="Disable presence output" />
+        <T AttributeName="FunctionText" Text="ON/OFF" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_O-3">
+        <T AttributeName="Text" Text="Presence output disabling status" />
+        <T AttributeName="FunctionText" Text="ON/OFF" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_O-4">
+        <T AttributeName="Text" Text="Presence slave" />
+        <T AttributeName="FunctionText" Text="ON" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_O-8">
+        <T AttributeName="Text" Text="Interference source switching status" />
+        <T AttributeName="FunctionText" Text="ON/OFF" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_O-9">
+        <T AttributeName="Text" Text="Time factor for presence switch-'ON' delay" />
+        <T AttributeName="FunctionText" Text="0..5" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_O-10">
+        <T AttributeName="Text" Text="Time factor for presence stay-'ON' time" />
+        <T AttributeName="FunctionText" Text="1...255" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_O-11">
+        <T AttributeName="Text" Text="Light level measured" />
+        <T AttributeName="FunctionText" Text="(10...1500 lux)" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_O-12">
+        <T AttributeName="Text" Text="Light-level setting" />
+        <T AttributeName="FunctionText" Text="(10...1000 lux)" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_O-13">
+        <T AttributeName="Text" Text="Time factor for lighting stay-'ON' time" />
+        <T AttributeName="FunctionText" Text="0...255" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_O-14">
+        <T AttributeName="Text" Text="Switch light 1 output" />
+        <T AttributeName="FunctionText" Text="ON/OFF" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_O-15">
+        <T AttributeName="Text" Text="Switch light 2 output" />
+        <T AttributeName="FunctionText" Text="ON/OFF" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_O-16">
+        <T AttributeName="Text" Text="Switch light 3 output" />
+        <T AttributeName="FunctionText" Text="ON/OFF" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_O-17">
+        <T AttributeName="Text" Text="Switch light 4 output" />
+        <T AttributeName="FunctionText" Text="ON/OFF" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_O-18">
+        <T AttributeName="Text" Text="Light 1 output dimming level" />
+        <T AttributeName="FunctionText" Text="0...100%" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_O-19">
+        <T AttributeName="Text" Text="Light 2 output dimming level" />
+        <T AttributeName="FunctionText" Text="0...100%" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_O-20">
+        <T AttributeName="Text" Text="Light 3 output dimming level" />
+        <T AttributeName="FunctionText" Text="0...100%" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_O-21">
+        <T AttributeName="Text" Text="Light 4 output dimming level" />
+        <T AttributeName="FunctionText" Text="0...100%" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_O-22">
+        <T AttributeName="Text" Text="Disable light-level control" />
+        <T AttributeName="FunctionText" Text="ON/OFF" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_O-23">
+        <T AttributeName="Text" Text="Light-level control disabling status" />
+        <T AttributeName="FunctionText" Text="ON/OFF" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_O-24">
+        <T AttributeName="Text" Text="Switch light 1 input" />
+        <T AttributeName="FunctionText" Text="ON/OFF" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_O-25">
+        <T AttributeName="Text" Text="Dim light 1 input" />
+        <T AttributeName="FunctionText" Text="brighter / darker" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_O-26">
+        <T AttributeName="Text" Text="Light 1 input dimming level" />
+        <T AttributeName="FunctionText" Text="0...100%" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_O-27">
+        <T AttributeName="Text" Text="Switch light 2 input" />
+        <T AttributeName="FunctionText" Text="ON/OFF" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_O-28">
+        <T AttributeName="Text" Text="Dim light 2 input" />
+        <T AttributeName="FunctionText" Text="brighter / darker" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_O-29">
+        <T AttributeName="Text" Text="Light 2 input dimming level" />
+        <T AttributeName="FunctionText" Text="0...100%" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_O-30">
+        <T AttributeName="Text" Text="Switch light 3 input" />
+        <T AttributeName="FunctionText" Text="ON/OFF" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_O-31">
+        <T AttributeName="Text" Text="Dim light 3 input" />
+        <T AttributeName="FunctionText" Text="brighter / darker" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_O-32">
+        <T AttributeName="Text" Text="Light 3 input dimming level" />
+        <T AttributeName="FunctionText" Text="0...100%" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_O-33">
+        <T AttributeName="Text" Text="Switch light 4 input" />
+        <T AttributeName="FunctionText" Text="ON/OFF" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_O-34">
+        <T AttributeName="Text" Text="Dim light 4 input" />
+        <T AttributeName="FunctionText" Text="brighter / darker" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_O-35">
+        <T AttributeName="Text" Text="Light 4 input dimming level" />
+        <T AttributeName="FunctionText" Text="0...100%" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_O-36">
+        <T AttributeName="Text" Text="HVAC output" />
+        <T AttributeName="FunctionText" Text="ON/OFF" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_O-37">
+        <T AttributeName="Text" Text="Disable HVAC output" />
+        <T AttributeName="FunctionText" Text="ON/OFF" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_O-38">
+        <T AttributeName="Text" Text="HVAC output disabling status" />
+        <T AttributeName="FunctionText" Text="ON/OFF" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_O-39">
+        <T AttributeName="Text" Text="Time factor for HVAC switch-'ON' delay" />
+        <T AttributeName="FunctionText" Text="0...255" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_O-40">
+        <T AttributeName="Text" Text="Time factor for HVAC stay-'ON' time" />
+        <T AttributeName="FunctionText" Text="1...255" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_O-41">
+        <T AttributeName="Text" Text="8-bit scene output" />
+        <T AttributeName="FunctionText" Text="select / save" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_O-42">
+        <T AttributeName="Text" Text="Switch basic illumination output" />
+        <T AttributeName="FunctionText" Text="ON/OFF" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_O-43">
+        <T AttributeName="Text" Text="Twilight sensor input" />
+        <T AttributeName="FunctionText" Text="(0...1000 lux)" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_O-44">
+        <T AttributeName="Text" Text="Basic light-level threshold" />
+        <T AttributeName="FunctionText" Text="(10...1000 lux)" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_O-45">
+        <T AttributeName="Text" Text="Time factor for basic illumination 'ON' period" />
+        <T AttributeName="FunctionText" Text="1...255" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_O-46">
+        <T AttributeName="Text" Text="Boost factor" />
+        <T AttributeName="FunctionText" Text="1...4" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_O-47">
+        <T AttributeName="Text" Text="Sensitivity" />
+        <T AttributeName="FunctionText" Text="1=high/0=low" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_O-48">
+        <T AttributeName="Text" Text="Twilight sensor input" />
+        <T AttributeName="FunctionText" Text="Lux" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_O-49">
+        <T AttributeName="Text" Text="Sabotage" />
+        <T AttributeName="FunctionText" Text="ON/OFF" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_P-144">
+        <T AttributeName="Text" Text="InitFlag" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_P-1">
+        <T AttributeName="Text" Text="General Settings" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_P-8">
+        <T AttributeName="Text" Text="Detector Mode" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_P-66">
+        <T AttributeName="Text" Text="Presence output" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_P-11">
+        <T AttributeName="Text" Text="HVAC output" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_P-46">
+        <T AttributeName="Text" Text="Light-level measured" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_P-12">
+        <T AttributeName="Text" Text="Remote Control" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_P-13">
+        <T AttributeName="Text" Text="Normal / test mode" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_P-9">
+        <T AttributeName="Text" Text="Sabotage" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_P-132">
+        <T AttributeName="Text" Text="HF-Settings" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_P-133">
+        <T AttributeName="Text" Text="Boost factor" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_P-134">
+        <T AttributeName="Text" Text="Sensitivity" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_P-145">
+        <T AttributeName="Text" Text="Can be read / changed by bus" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_P-2">
+        <T AttributeName="Text" Text="Presence" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_P-14">
+        <T AttributeName="Text" Text="Presence switch-'ON' delay (in seconds)" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_P-15">
+        <T AttributeName="Text" Text="Min. number of movements detected during switch-'ON' delay" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_P-259">
+        <T AttributeName="Text" Text="Time factor seconds or minutes" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_P-16">
+        <T AttributeName="Text" Text="Presence stay-'ON' time" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_P-17">
+        <T AttributeName="Text" Text="Break in presence detection" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_P-18">
+        <T AttributeName="Text" Text="Switch-'ON' delay and stay-'ON' time can be read / changed by bus" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_UP-10">
+        <T AttributeName="Text" Text="Send presence cyclically" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_P-20">
+        <T AttributeName="Text" Text="Disable presence output" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_P-21">
+        <T AttributeName="Text" Text="Behaviour on disabling presence output" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_P-22">
+        <T AttributeName="Text" Text="Behaviour on enabling presence output" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_P-23">
+        <T AttributeName="Text" Text="Presence output disabling status object" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_P-4">
+        <T AttributeName="Text" Text="Light-Level Controller" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_P-34">
+        <T AttributeName="Text" Text="Type of light-level control" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_P-281">
+        <T AttributeName="Text" Text="Daytime operation" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_P-35">
+        <T AttributeName="Text" Text="Light-level setting (in lux)" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_P-36">
+        <T AttributeName="Text" Text="Light-level setting can be read / changed by bus" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_P-166">
+        <T AttributeName="Text" Text="Start dim level" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_P-37">
+        <T AttributeName="Text" Text="Max. variation from the setting" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_P-38">
+        <T AttributeName="Text" Text="Max. dimming step" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_P-39">
+        <T AttributeName="Text" Text="Send new dimming level after" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_P-40">
+        <T AttributeName="Text" Text="Lighting with sufficient daylight" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_P-41">
+        <T AttributeName="Text" Text="Minimum dimming level" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_P-42">
+        <T AttributeName="Text" Text="Lighting group 2 offset to dimming level for lighting-group 1" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_P-43">
+        <T AttributeName="Text" Text="Lighting group 3 offset to dimming level for lighting-group 1" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_P-44">
+        <T AttributeName="Text" Text="Lighting group 4 offset to dimming level for lighting-group 1" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_P-45">
+        <T AttributeName="Text" Text="Light-level control for dim light x input" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_P-302">
+        <T AttributeName="Text" Text="External brightness" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_P-3">
+        <T AttributeName="Text" Text="Lighting" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_P-24">
+        <T AttributeName="Text" Text="Number of lighting groups" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_P-25">
+        <T AttributeName="Text" Text="Operation lighting" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_P-26">
+        <T AttributeName="Text" Text="Stay-'ON' time Lighting (in minutes)" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_P-27">
+        <T AttributeName="Text" Text="Stay-'On' time can be read / changed by bus" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_P-28">
+        <T AttributeName="Text" Text="Disabling light-level control" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_P-29">
+        <T AttributeName="Text" Text="Behaviour on disabling light-level control" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_P-30">
+        <T AttributeName="Text" Text="Behaviour on enabling light-level control" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_P-31">
+        <T AttributeName="Text" Text="Light-level control disabling status object" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_P-32">
+        <T AttributeName="Text" Text="Basic illumination" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_P-33">
+        <T AttributeName="Text" Text="Interference source switching status object" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_P-7">
+        <T AttributeName="Text" Text="Basic Illumination" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_P-60">
+        <T AttributeName="Text" Text="Basic illumination by" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_P-61">
+        <T AttributeName="Text" Text="Basic illumination ON" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_P-62">
+        <T AttributeName="Text" Text="Basic light-level threshold (in lux)" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_P-64">
+        <T AttributeName="Text" Text="Basic illumination 'ON' period (in minutes)" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_P-63">
+        <T AttributeName="Text" Text="Basic illumination dimming level" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_P-65">
+        <T AttributeName="Text" Text="Threshold and stay-'ON' time can be read / changed by bus" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_P-167">
+        <T AttributeName="Text" Text="Lighting" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_P-186">
+        <T AttributeName="Text" Text="Basic Illumination" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_P-5">
+        <T AttributeName="Text" Text="HVAC" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_P-49">
+        <T AttributeName="Text" Text="HVAC switch-'ON' delay (in minutes, 0 = room surveillance)" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_P-50">
+        <T AttributeName="Text" Text="HVAC stay-'ON' time (in minutes)" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_P-51">
+        <T AttributeName="Text" Text="Switch-'ON' delay and stay-'ON' time can be read / changed by bus" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_P-52">
+        <T AttributeName="Text" Text="Disable HVAC output" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_P-53">
+        <T AttributeName="Text" Text="Behaviour on disabling HVAC output" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_P-54">
+        <T AttributeName="Text" Text="Behaviour on enabling HVAC output" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_P-55">
+        <T AttributeName="Text" Text="HVAC output disabling status object" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_P-70">
+        <T AttributeName="Text" Text="Light level measured" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_P-47">
+        <T AttributeName="Text" Text="Min. light-level change" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_P-48">
+        <T AttributeName="Text" Text="Send measured level cyclically" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_P-6">
+        <T AttributeName="Text" Text="Scene Control" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_P-56">
+        <T AttributeName="Text" Text="Scene number for button, scene 1 (0=no assignment)" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_P-57">
+        <T AttributeName="Text" Text="Scene number for button, scene 2 (0=no assignment)" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_P-58">
+        <T AttributeName="Text" Text="Scene number for button, scene 3 (0=no assignment)" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_P-59">
+        <T AttributeName="Text" Text="Scene number for button, scene 4 (0=no assignment)" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_P-81">
+        <T AttributeName="Text" Text="Scene Control" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_P-135">
+        <T AttributeName="Text" Text="HF-Settings" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_P-74">
+        <T AttributeName="Text" Text="Presence" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_P-204">
+        <T AttributeName="Text" Text="Light-Level Controller" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_P-189">
+        <T AttributeName="Text" Text="Lighting" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_P-309">
+        <T AttributeName="Text" Text="Basic Illumination" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_P-168">
+        <T AttributeName="Text" Text="Lighting" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_P-273">
+        <T AttributeName="Text" Text="Basic Illumination" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_P-153">
+        <T AttributeName="Text" Text="HVAC" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_P-126">
+        <T AttributeName="Text" Text="Light level measured" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_P-86">
+        <T AttributeName="Text" Text="Scene Control" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_P-91">
+        <T AttributeName="Text" Text="Scene Control" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_P-138">
+        <T AttributeName="Text" Text="HF-Settings" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_P-265">
+        <T AttributeName="Text" Text="Presence" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_UP-19">
+        <T AttributeName="Text" Text="Min. cycle time for send presence" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_P-141">
+        <T AttributeName="Text" Text="HF-Settings" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_P-129">
+        <T AttributeName="Text" Text="Presence" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_P-238">
+        <T AttributeName="Text" Text="Light-Level Controller" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_P-223">
+        <T AttributeName="Text" Text="Lighting" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_P-310">
+        <T AttributeName="Text" Text="Basic Illumination" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_P-169">
+        <T AttributeName="Text" Text="Lighting" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_P-294">
+        <T AttributeName="Text" Text="Basic Illumination" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_P-131">
+        <T AttributeName="Text" Text="Light level measured" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_P-96">
+        <T AttributeName="Text" Text="Scene Control" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_P-101">
+        <T AttributeName="Text" Text="Scene Control" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_P-240">
+        <T AttributeName="Text" Text="Sabotage" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_P-68">
+        <T AttributeName="Text" Text="Send sabotage cyclically" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1_P-206">
+        <T AttributeName="Text" Text="Telegram" />
+      </TE>
+      <TE RefId="M-008E_A-5960-21-B1E1">
+        <T AttributeName="Name" Text="DUAL HF KNX V2.00" />
+      </TE>
+    </TU>
+  </L>
+</LS>

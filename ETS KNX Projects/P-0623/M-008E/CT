@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LS>
+  <L Identifier="en-US">
+    <TU RefId="M-008E_CS-BWM">
+      <TE RefId="M-008E_CS-BWM">
+        <T AttributeName="Name" Text="Motiondectector" />
+      </TE>
+    </TU>
+    <TU RefId="M-008E_H-40078410076xx-1_HP-5709-10-7652_CI-40078410076xx-1">
+      <TE RefId="M-008E_H-40078410076xx-1_HP-5709-10-7652_CI-40078410076xx-1">
+        <T AttributeName="Name" Text="STEINEL iHF 3D KNX" />
+      </TE>
+    </TU>
+  </L>
+  <L Identifier="en">
+    <TU RefId="M-008E_CS-BWM">
+      <TE RefId="M-008E_CS-BWM">
+        <T AttributeName="Name" Text="Motion detector" />
+      </TE>
+    </TU>
+  </L>
+</LS>

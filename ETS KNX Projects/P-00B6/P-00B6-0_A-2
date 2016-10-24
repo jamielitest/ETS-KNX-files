@@ -251,16 +251,16 @@
       </CIs>
       <Security />
     </DI>
-    <DI Id="P-00B6-0_DI-16" Address="101" Name="" ProductRefId="M-0048_H-4969204-1_P-4969204" Hardware2ProgramRefId="M-0048_H-4969204-1_HP-4964-10-F885" Comment="" Description="DI1.BC1" IndividualAddressLoaded="true" MediumConfigLoaded="true" IsCommunicationObjectVisibilityCalculated="true" Birdy-IsChannelVisibilityCalculated="true" LastModified="2016-08-30T03:34:25.5904216Z" LastDownload="2016-09-02T01:53:00.9496658Z" Puid="22">
+    <DI Id="P-00B6-0_DI-16" Address="101" Name="" ProductRefId="M-0048_H-4969204-1_P-4969204" Hardware2ProgramRefId="M-0048_H-4969204-1_HP-4964-10-F885" Comment="" Description="DI1.BC1" IndividualAddressLoaded="true" MediumConfigLoaded="true" IsCommunicationObjectVisibilityCalculated="true" Birdy-IsChannelVisibilityCalculated="true" LastModified="2016-10-04T20:44:34.3873414Z" LastDownload="2016-09-02T01:53:00.9496658Z" Puid="22">
       <CIs>
         <CI RefId="M-0048_A-4964-10-F885_O-2_R-3112" IsActive="true" />
         <CI RefId="M-0048_A-4964-10-F885_O-5_R-4093" IsActive="true" />
         <CI RefId="M-0048_A-4964-10-F885_O-8_R-4071" IsActive="true" />
         <CI RefId="M-0048_A-4964-10-F885_O-11_R-4049" IsActive="true" />
-        <CI RefId="M-0048_A-4964-10-F885_O-0_R-3102" IsActive="true" />
         <CI RefId="M-0048_A-4964-10-F885_O-3_R-4088" IsActive="true" />
         <CI RefId="M-0048_A-4964-10-F885_O-6_R-4066" IsActive="true" />
         <CI RefId="M-0048_A-4964-10-F885_O-9_R-4044" IsActive="true" />
+        <CI RefId="M-0048_A-4964-10-F885_O-0_R-3102" IsActive="true" />
       </CIs>
       <Security />
     </DI>

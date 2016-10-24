@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<C>
+  <CatSec Id="M-008E_CS-PM" Name="Presence detector" Number="PM" VisibleDescription="" DefaultLanguage="en-US">
+    <CatSec Id="M-008E_CS-PM-CP" Name="presence Control PRO" Number="CP" VisibleDescription="" DefaultLanguage="en-US">
+      <CITEM Id="M-008E_H-4007841008802-2_HP-5960-21-B1E1_CI-4007841008802-1" Name="STEINEL DUAL HF KNX" Number="1" ProductRefId="M-008E_H-4007841008802-2_P-4007841008802" Hardware2ProgramRefId="M-008E_H-4007841008802-2_HP-5960-21-B1E1" DefaultLanguage="en-US" />
+    </CatSec>
+  </CatSec>
+  <CatSec Id="M-008E_CS-BWM" Name="Motion detector" Number="BWM" VisibleDescription="" DefaultLanguage="en">
+    <CatSec Id="M-008E_CS-BWM-SI" Name="sensIQ" Number="SI" VisibleDescription="" DefaultLanguage="en">
+      <CITEM Id="M-008E_H-40078410040xx-1_HP-0040-10-08CC_CI-40078410040xx-1" Name="STEINEL sensIQ S KNX" Number="1" ProductRefId="M-008E_H-40078410040xx-1_P-40078410040xx" Hardware2ProgramRefId="M-008E_H-40078410040xx-1_HP-0040-10-08CC" DefaultLanguage="en" />
+    </CatSec>
+  </CatSec>
+</C>

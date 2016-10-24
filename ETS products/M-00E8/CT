@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LS>
+  <L Identifier="en-US">
+    <TU RefId="M-00E8_CS-HTSPCA001">
+      <TE RefId="M-00E8_CS-HTSPCA001">
+        <T AttributeName="Name" Text="Physical sensors" />
+      </TE>
+    </TU>
+    <TU RefId="M-00E8_CS-HTSPCA001-presence">
+      <TE RefId="M-00E8_CS-HTSPCA001-presence">
+        <T AttributeName="Name" Text="Presence detectors" />
+      </TE>
+    </TU>
+    <TU RefId="M-00E8_H-50000087-0_HP-000D-13-FA1F_CI-207.209.2050.2A-0">
+      <TE RefId="M-00E8_H-50000087-0_HP-000D-13-FA1F_CI-207.209.2050.2A-0">
+        <T AttributeName="Name" Text="thePrema S360 KNX" />
+        <T AttributeName="VisibleDescription" Text="2xlight, 2xHVAC, monitoring, brightness, Presence detectors with constant light " />
+      </TE>
+    </TU>
+    <TU RefId="M-00E8_H-200905-0_HP-000B-10-5F52_CI-200.209.2005.20.2A.20.20.20-0">
+      <TE RefId="M-00E8_H-200905-0_HP-000B-10-5F52_CI-200.209.2005.20.2A.20.20.20-0">
+        <T AttributeName="Name" Text="PresenceLight 180-KNX" />
+        <T AttributeName="VisibleDescription" Text="2xlight, 2xHVAC, monitoring, brightness, presence detector constant light contr." />
+      </TE>
+    </TU>
+  </L>
+</LS>

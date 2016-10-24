@@ -1,0 +1,574 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<KNX xsd="http://www.w3.org/2001/XMLSchema" xsi="http://www.w3.org/2001/XMLSchema-instance" CreatedBy="knxconv" ToolVersion="5.1.79.16612">
+  <ManufacturerData>
+    <Manufacturer RefId="M-008E">
+      <APS>
+        <AP Id="M-008E_A-0040-10-08CC" ApplicationNumber="64" ApplicationVersion="16" ProgramType="ApplicationProgram" MaskVersion="MV-0705" Name="sensIQ S KNX V1.00" LoadProcedureStyle="ProductProcedure" PeiType="0" HelpFile="" DefaultLanguage="en" DynamicTableManagement="false" Linkable="false" MinEtsVersion="3.0f" PreEts4Style="true" ConvertedFromPreEts4Data="true" Hash="CAeoUZWZoqFnqD7lsiegzA==">
+          <St>
+            <Code>
+              <AS Id="M-008E_A-0040-10-08CC_AS-4000" Address="16384" Size="503">
+                <Data>+wAACgAKAQoCCgMKBAoFCgYKBwoICgkKCgoLCgwKDQoOCg8KEAoR//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////8=</Data>
+                <Mask>/wAA//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////8=</Mask>
+              </AS>
+              <AS Id="M-008E_A-0040-10-08CC_AS-41F7" Address="16887" Size="501">
+                <Data>+gEAAgEDAgQDBQQGBQcGCAcJCAoJCwoMCw0MDg0PDhAPERASEf//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////</Data>
+              </AS>
+              <AS Id="M-008E_A-0040-10-08CC_AS-0700" Address="1792" Size="248" />
+              <AS Id="M-008E_A-0040-10-08CC_AS-43EC" Address="17388" Size="104">
+                <Data>EgcWBwBPAAcBTwcHAlcABwNXAAcETwAHBV8IBwdfBwcJTwAHClcABwtPAAcMTwAHDVcABw5PAAcPTwAHEF8IBxJXAAcTTwAHFE8IRDkCAQQAAfBESMmEAAH/RkDDUTkAV3pD7AABAAA=</Data>
+              </AS>
+              <AS Id="M-008E_A-0040-10-08CC_AS-4500" Address="17664" Size="256" />
+              <AS Id="M-008E_A-0040-10-08CC_AS-4600" Address="17920" Size="80" />
+            </Code>
+            <PTS>
+              <PT Id="M-008E_A-0040-10-08CC_PT-Page.5Ft" Name="Page_t">
+                <TNone />
+              </PT>
+              <PT Id="M-008E_A-0040-10-08CC_PT-inaktiv.2Faktiv" Name="inaktiv/aktiv">
+                <TR Base="Value" SizeInBit="8">
+                  <Enumeration Text="inactive" Value="0" Id="M-008E_A-0040-10-08CC_PT-inaktiv.2Faktiv_EN-0" DisplayOrder="0" />
+                  <Enumeration Text="active" Value="1" Id="M-008E_A-0040-10-08CC_PT-inaktiv.2Faktiv_EN-1" DisplayOrder="1" />
+                </TR>
+              </PT>
+              <PT Id="M-008E_A-0040-10-08CC_PT-Licht.20Sollwert" Name="Licht Sollwert">
+                <TNr SizeInBit="16" Type="unsignedInt" minInclusive="2" maxInclusive="2000" />
+              </PT>
+              <PT Id="M-008E_A-0040-10-08CC_PT-ja.2Fnein" Name="ja/nein">
+                <TR Base="Value" SizeInBit="8">
+                  <Enumeration Text="No" Value="0" Id="M-008E_A-0040-10-08CC_PT-ja.2Fnein_EN-0" DisplayOrder="0" />
+                  <Enumeration Text="Yes" Value="1" Id="M-008E_A-0040-10-08CC_PT-ja.2Fnein_EN-1" DisplayOrder="1" />
+                </TR>
+              </PT>
+              <PT Id="M-008E_A-0040-10-08CC_PT-Licht.20Ausgang.20Sperren" Name="Licht Ausgang Sperren">
+                <TR Base="Value" SizeInBit="8">
+                  <Enumeration Text="No" Value="0" Id="M-008E_A-0040-10-08CC_PT-Licht.20Ausgang.20Sperren_EN-0" DisplayOrder="0" />
+                  <Enumeration Text="Disabling ON / enabling OFF" Value="1" Id="M-008E_A-0040-10-08CC_PT-Licht.20Ausgang.20Sperren_EN-1" DisplayOrder="1" />
+                  <Enumeration Text="Disabling OFF / enabling ON" Value="2" Id="M-008E_A-0040-10-08CC_PT-Licht.20Ausgang.20Sperren_EN-2" DisplayOrder="2" />
+                </TR>
+              </PT>
+              <PT Id="M-008E_A-0040-10-08CC_PT-Licht.20Verhalten.20Sperren" Name="Licht Verhalten Sperren">
+                <TR Base="Value" SizeInBit="8">
+                  <Enumeration Text="ON" Value="1" Id="M-008E_A-0040-10-08CC_PT-Licht.20Verhalten.20Sperren_EN-1" DisplayOrder="0" />
+                  <Enumeration Text="OFF" Value="2" Id="M-008E_A-0040-10-08CC_PT-Licht.20Verhalten.20Sperren_EN-2" DisplayOrder="1" />
+                  <Enumeration Text="no Telegram" Value="0" Id="M-008E_A-0040-10-08CC_PT-Licht.20Verhalten.20Sperren_EN-0" DisplayOrder="2" />
+                </TR>
+              </PT>
+              <PT Id="M-008E_A-0040-10-08CC_PT-GRH.20Dimmwert" Name="GRH Dimmwert">
+                <TNr SizeInBit="8" Type="unsignedInt" minInclusive="10" maxInclusive="50" />
+              </PT>
+              <PT Id="M-008E_A-0040-10-08CC_PT-GRH.20Dauer" Name="GRH Dauer">
+                <TR Base="Value" SizeInBit="8">
+                  <Enumeration Text="all night" Value="0" Id="M-008E_A-0040-10-08CC_PT-GRH.20Dauer_EN-0" DisplayOrder="0" />
+                  <Enumeration Text="half the night" Value="1" Id="M-008E_A-0040-10-08CC_PT-GRH.20Dauer_EN-1" DisplayOrder="1" />
+                </TR>
+              </PT>
+              <PT Id="M-008E_A-0040-10-08CC_PT-PRZ.20Einschaltverzögerung" Name="PRZ Einschaltverzögerung">
+                <TNr SizeInBit="8" Type="unsignedInt" minInclusive="0" maxInclusive="10" />
+              </PT>
+              <PT Id="M-008E_A-0040-10-08CC_PT-PRZ.20NLZ" Name="PRZ NLZ">
+                <TNr SizeInBit="8" Type="unsignedInt" minInclusive="1" maxInclusive="255" />
+              </PT>
+              <PT Id="M-008E_A-0040-10-08CC_PT-DGS.20Sollwert" Name="DGS Sollwert">
+                <TNr SizeInBit="16" Type="unsignedInt" minInclusive="2" maxInclusive="300" />
+              </PT>
+              <PT Id="M-008E_A-0040-10-08CC_PT-HGT.20min.20Änderung" Name="HGT min Änderung">
+                <TR Base="Value" SizeInBit="8">
+                  <Enumeration Text="20 Lux" Value="20" Id="M-008E_A-0040-10-08CC_PT-HGT.20min.20Änderung_EN-20" DisplayOrder="0" />
+                  <Enumeration Text="30 Lux" Value="30" Id="M-008E_A-0040-10-08CC_PT-HGT.20min.20Änderung_EN-30" DisplayOrder="1" />
+                  <Enumeration Text="40 Lux" Value="40" Id="M-008E_A-0040-10-08CC_PT-HGT.20min.20Änderung_EN-40" DisplayOrder="2" />
+                  <Enumeration Text="50 Lux" Value="50" Id="M-008E_A-0040-10-08CC_PT-HGT.20min.20Änderung_EN-50" DisplayOrder="3" />
+                  <Enumeration Text="60 Lux" Value="60" Id="M-008E_A-0040-10-08CC_PT-HGT.20min.20Änderung_EN-60" DisplayOrder="4" />
+                </TR>
+              </PT>
+              <PT Id="M-008E_A-0040-10-08CC_PT-HGT.20zyklisch.20senden" Name="HGT zyklisch senden">
+                <TR Base="Value" SizeInBit="16">
+                  <Enumeration Text="inaktiv" Value="0" Id="M-008E_A-0040-10-08CC_PT-HGT.20zyklisch.20senden_EN-0" DisplayOrder="0" />
+                  <Enumeration Text="10s" Value="10" Id="M-008E_A-0040-10-08CC_PT-HGT.20zyklisch.20senden_EN-10" DisplayOrder="1" />
+                  <Enumeration Text="15s" Value="15" Id="M-008E_A-0040-10-08CC_PT-HGT.20zyklisch.20senden_EN-15" DisplayOrder="2" />
+                  <Enumeration Text="30s" Value="30" Id="M-008E_A-0040-10-08CC_PT-HGT.20zyklisch.20senden_EN-30" DisplayOrder="3" />
+                  <Enumeration Text="1 min" Value="60" Id="M-008E_A-0040-10-08CC_PT-HGT.20zyklisch.20senden_EN-60" DisplayOrder="4" />
+                  <Enumeration Text="5 min" Value="300" Id="M-008E_A-0040-10-08CC_PT-HGT.20zyklisch.20senden_EN-300" DisplayOrder="5" />
+                  <Enumeration Text="10 min" Value="600" Id="M-008E_A-0040-10-08CC_PT-HGT.20zyklisch.20senden_EN-600" DisplayOrder="6" />
+                  <Enumeration Text="15 min" Value="900" Id="M-008E_A-0040-10-08CC_PT-HGT.20zyklisch.20senden_EN-900" DisplayOrder="7" />
+                  <Enumeration Text="30 min" Value="1800" Id="M-008E_A-0040-10-08CC_PT-HGT.20zyklisch.20senden_EN-1800" DisplayOrder="8" />
+                  <Enumeration Text="60 min" Value="3600" Id="M-008E_A-0040-10-08CC_PT-HGT.20zyklisch.20senden_EN-3600" DisplayOrder="9" />
+                </TR>
+              </PT>
+              <PT Id="M-008E_A-0040-10-08CC_PT-Licht.20Aktion.20Eingang" Name="Licht Aktion Eingang">
+                <TR Base="Value" SizeInBit="8">
+                  <Enumeration Text="ON/OFF" Value="0" Id="M-008E_A-0040-10-08CC_PT-Licht.20Aktion.20Eingang_EN-0" DisplayOrder="0" />
+                  <Enumeration Text="1 h" Value="1" Id="M-008E_A-0040-10-08CC_PT-Licht.20Aktion.20Eingang_EN-1" DisplayOrder="1" />
+                  <Enumeration Text="2 h" Value="2" Id="M-008E_A-0040-10-08CC_PT-Licht.20Aktion.20Eingang_EN-2" DisplayOrder="2" />
+                  <Enumeration Text="3 h" Value="3" Id="M-008E_A-0040-10-08CC_PT-Licht.20Aktion.20Eingang_EN-3" DisplayOrder="3" />
+                  <Enumeration Text="4 h" Value="4" Id="M-008E_A-0040-10-08CC_PT-Licht.20Aktion.20Eingang_EN-4" DisplayOrder="4" />
+                </TR>
+              </PT>
+              <PT Id="M-008E_A-0040-10-08CC_PT-Licht.20NLZ" Name="Licht NLZ">
+                <TNr SizeInBit="8" Type="unsignedInt" minInclusive="1" maxInclusive="15" />
+              </PT>
+              <PT Id="M-008E_A-0040-10-08CC_PT-InitFlag" Name="InitFlag">
+                <TNr SizeInBit="16" Type="unsignedInt" minInclusive="0" maxInclusive="65535" />
+              </PT>
+            </PTS>
+            <PS>
+              <P Id="M-008E_A-0040-10-08CC_P-1" Name="p_Licht" ParameterType="M-008E_A-0040-10-08CC_PT-Page.5Ft" Text="Light output" Value="" />
+              <P Id="M-008E_A-0040-10-08CC_P-12" Name="p_Allgemein" ParameterType="M-008E_A-0040-10-08CC_PT-Page.5Ft" Text="General Settings" Value="" />
+              <P Id="M-008E_A-0040-10-08CC_P-38" Name="p_PRZ" ParameterType="M-008E_A-0040-10-08CC_PT-Page.5Ft" Text="Presence output" Value="" />
+              <P Id="M-008E_A-0040-10-08CC_P-41" Name="p_Nahfeld" ParameterType="M-008E_A-0040-10-08CC_PT-Page.5Ft" Text="Clos-up range output" Value="" />
+              <P Id="M-008E_A-0040-10-08CC_P-44" Name="p_DGS" ParameterType="M-008E_A-0040-10-08CC_PT-Page.5Ft" Text="Photoelectric lighting controller" Value="" />
+              <P Id="M-008E_A-0040-10-08CC_P-47" Name="p_HGT" ParameterType="M-008E_A-0040-10-08CC_PT-Page.5Ft" Text="Light level measured" Value="" />
+              <P Id="M-008E_A-0040-10-08CC_P-9" Name="V_Licht_Sollwert_Bus" ParameterType="M-008E_A-0040-10-08CC_PT-ja.2Fnein" Text="Changeable by bus" Value="1" />
+              <P Id="M-008E_A-0040-10-08CC_P-10" Name="V_Licht_NLZ_Bus" ParameterType="M-008E_A-0040-10-08CC_PT-ja.2Fnein" Text="Changeable by bus" Value="1" />
+              <P Id="M-008E_A-0040-10-08CC_P-11" Name="V_DGS_Sollwert_Bus" ParameterType="M-008E_A-0040-10-08CC_PT-ja.2Fnein" Text="Changeable by bus" Value="1" />
+              <P Id="M-008E_A-0040-10-08CC_P-30" Name="V_Licht_NLZ_Bus" ParameterType="M-008E_A-0040-10-08CC_PT-ja.2Fnein" Text="Changeable by bus" Value="1" />
+              <P Id="M-008E_A-0040-10-08CC_P-2" Name="P_Ausgang_PRZ" ParameterType="M-008E_A-0040-10-08CC_PT-inaktiv.2Faktiv" Text="Presence output" Value="0">
+                <M CodeSegment="M-008E_A-0040-10-08CC_AS-4500" Offset="0" BitOffset="0" />
+              </P>
+              <P Id="M-008E_A-0040-10-08CC_P-3" Name="P_Ausgang_NAHFELD" ParameterType="M-008E_A-0040-10-08CC_PT-inaktiv.2Faktiv" Text="Close-up range output" Value="0">
+                <M CodeSegment="M-008E_A-0040-10-08CC_AS-4500" Offset="1" BitOffset="0" />
+              </P>
+              <P Id="M-008E_A-0040-10-08CC_P-4" Name="P_Ausgang_DGS" ParameterType="M-008E_A-0040-10-08CC_PT-inaktiv.2Faktiv" Text="Photoelectric lighting controller" Value="0">
+                <M CodeSegment="M-008E_A-0040-10-08CC_AS-4500" Offset="2" BitOffset="0" />
+              </P>
+              <P Id="M-008E_A-0040-10-08CC_P-5" Name="P_Messwert_HGT" ParameterType="M-008E_A-0040-10-08CC_PT-inaktiv.2Faktiv" Text="Light level measured" Value="0">
+                <M CodeSegment="M-008E_A-0040-10-08CC_AS-4500" Offset="3" BitOffset="0" />
+              </P>
+              <P Id="M-008E_A-0040-10-08CC_P-6" Name="P_LED" ParameterType="M-008E_A-0040-10-08CC_PT-inaktiv.2Faktiv" Text="LED" Value="1">
+                <M CodeSegment="M-008E_A-0040-10-08CC_AS-4500" Offset="4" BitOffset="0" />
+              </P>
+              <P Id="M-008E_A-0040-10-08CC_P-7" Name="P_Licht_Sollwert" ParameterType="M-008E_A-0040-10-08CC_PT-Licht.20Sollwert" Text="Light-level setting (in lux)" Value="200">
+                <M CodeSegment="M-008E_A-0040-10-08CC_AS-4500" Offset="5" BitOffset="0" />
+              </P>
+              <P Id="M-008E_A-0040-10-08CC_P-13" Name="P_Licht_NLZ" ParameterType="M-008E_A-0040-10-08CC_PT-Licht.20NLZ" Text="Stay-ON time (in minutes)" Value="5">
+                <M CodeSegment="M-008E_A-0040-10-08CC_AS-4500" Offset="7" BitOffset="0" />
+              </P>
+              <P Id="M-008E_A-0040-10-08CC_P-14" Name="P_Licht_Softstart" ParameterType="M-008E_A-0040-10-08CC_PT-ja.2Fnein" Text="Soft start" Value="0">
+                <M CodeSegment="M-008E_A-0040-10-08CC_AS-4500" Offset="8" BitOffset="0" />
+              </P>
+              <P Id="M-008E_A-0040-10-08CC_P-15" Name="P_Licht_Ausgang_sperren" ParameterType="M-008E_A-0040-10-08CC_PT-Licht.20Ausgang.20Sperren" Text="Disable light output" Value="0">
+                <M CodeSegment="M-008E_A-0040-10-08CC_AS-4500" Offset="9" BitOffset="0" />
+              </P>
+              <P Id="M-008E_A-0040-10-08CC_P-16" Name="P_Licht_Verhalten_sperren" ParameterType="M-008E_A-0040-10-08CC_PT-Licht.20Verhalten.20Sperren" Text="Behaviour on disabling" Value="0">
+                <M CodeSegment="M-008E_A-0040-10-08CC_AS-4500" Offset="10" BitOffset="0" />
+              </P>
+              <P Id="M-008E_A-0040-10-08CC_P-18" Name="P_Licht_Aktion_Eingang" ParameterType="M-008E_A-0040-10-08CC_PT-Licht.20Aktion.20Eingang" Text="Action at light input" Value="4">
+                <M CodeSegment="M-008E_A-0040-10-08CC_AS-4500" Offset="12" BitOffset="0" />
+              </P>
+              <P Id="M-008E_A-0040-10-08CC_P-19" Name="P_Licht_GRH" ParameterType="M-008E_A-0040-10-08CC_PT-inaktiv.2Faktiv" Text="Basic illumination" Value="0">
+                <M CodeSegment="M-008E_A-0040-10-08CC_AS-4500" Offset="13" BitOffset="0" />
+              </P>
+              <P Id="M-008E_A-0040-10-08CC_P-20" Name="P_Licht_GRH_Dimmwert" ParameterType="M-008E_A-0040-10-08CC_PT-GRH.20Dimmwert" Text="Basic illumination dimming level (in per cent)" Value="25">
+                <M CodeSegment="M-008E_A-0040-10-08CC_AS-4500" Offset="14" BitOffset="0" />
+              </P>
+              <P Id="M-008E_A-0040-10-08CC_P-21" Name="P_Licht_GRH_Dauer" ParameterType="M-008E_A-0040-10-08CC_PT-GRH.20Dauer" Text="Basic illumination duration" Value="0">
+                <M CodeSegment="M-008E_A-0040-10-08CC_AS-4500" Offset="15" BitOffset="0" />
+              </P>
+              <P Id="M-008E_A-0040-10-08CC_P-22" Name="P_PRZ_Einschaltveroegerung" ParameterType="M-008E_A-0040-10-08CC_PT-PRZ.20Einschaltverzögerung" Text="Switch-ON delay (in seconds)" Value="5">
+                <M CodeSegment="M-008E_A-0040-10-08CC_AS-4500" Offset="16" BitOffset="0" />
+              </P>
+              <P Id="M-008E_A-0040-10-08CC_P-23" Name="P_PRZ_NLZ" ParameterType="M-008E_A-0040-10-08CC_PT-PRZ.20NLZ" Text="Presence stay-on time (in seconds)" Value="10">
+                <M CodeSegment="M-008E_A-0040-10-08CC_AS-4500" Offset="17" BitOffset="0" />
+              </P>
+              <P Id="M-008E_A-0040-10-08CC_P-24" Name="P_PRZ_Ausgang_sperren" ParameterType="M-008E_A-0040-10-08CC_PT-Licht.20Ausgang.20Sperren" Text="Disable presence output" Value="0">
+                <M CodeSegment="M-008E_A-0040-10-08CC_AS-4500" Offset="18" BitOffset="0" />
+              </P>
+              <P Id="M-008E_A-0040-10-08CC_P-25" Name="P_PRZ_Verhalten_sperren" ParameterType="M-008E_A-0040-10-08CC_PT-Licht.20Verhalten.20Sperren" Text="Behaviour on disabling" Value="0">
+                <M CodeSegment="M-008E_A-0040-10-08CC_AS-4500" Offset="19" BitOffset="0" />
+              </P>
+              <P Id="M-008E_A-0040-10-08CC_P-27" Name="P_Nahfeld_NLZ" ParameterType="M-008E_A-0040-10-08CC_PT-PRZ.20NLZ" Text="Close-up range stay-ON time (in seconds)" Value="10">
+                <M CodeSegment="M-008E_A-0040-10-08CC_AS-4500" Offset="21" BitOffset="0" />
+              </P>
+              <P Id="M-008E_A-0040-10-08CC_P-28" Name="P_Nahfeld_Ausgang_sperren" ParameterType="M-008E_A-0040-10-08CC_PT-Licht.20Ausgang.20Sperren" Text="Disable close-up range output" Value="0">
+                <M CodeSegment="M-008E_A-0040-10-08CC_AS-4500" Offset="22" BitOffset="0" />
+              </P>
+              <P Id="M-008E_A-0040-10-08CC_P-29" Name="P_Nahfeld_Verhalten_sperren" ParameterType="M-008E_A-0040-10-08CC_PT-Licht.20Verhalten.20Sperren" Text="Behaviour on disabling" Value="0">
+                <M CodeSegment="M-008E_A-0040-10-08CC_AS-4500" Offset="23" BitOffset="0" />
+              </P>
+              <P Id="M-008E_A-0040-10-08CC_P-31" Name="P_DGS_Sollwert" ParameterType="M-008E_A-0040-10-08CC_PT-DGS.20Sollwert" Text="Photoelectric light level threshold" Value="50">
+                <M CodeSegment="M-008E_A-0040-10-08CC_AS-4500" Offset="25" BitOffset="0" />
+              </P>
+              <P Id="M-008E_A-0040-10-08CC_P-32" Name="P_DGS_Ausgang_sperren" ParameterType="M-008E_A-0040-10-08CC_PT-Licht.20Ausgang.20Sperren" Text="Disable Photoelectric lighting controller" Value="0">
+                <M CodeSegment="M-008E_A-0040-10-08CC_AS-4500" Offset="27" BitOffset="0" />
+              </P>
+              <P Id="M-008E_A-0040-10-08CC_P-33" Name="P_DGS_Verhalten_sperren" ParameterType="M-008E_A-0040-10-08CC_PT-Licht.20Verhalten.20Sperren" Text="Behaviour on disabling" Value="0">
+                <M CodeSegment="M-008E_A-0040-10-08CC_AS-4500" Offset="28" BitOffset="0" />
+              </P>
+              <P Id="M-008E_A-0040-10-08CC_P-8" Name="P_HGT_min_Aenderung" ParameterType="M-008E_A-0040-10-08CC_PT-HGT.20min.20Änderung" Text="Min. light-level change" Value="30">
+                <M CodeSegment="M-008E_A-0040-10-08CC_AS-4500" Offset="30" BitOffset="0" />
+              </P>
+              <P Id="M-008E_A-0040-10-08CC_P-35" Name="P_HGT_zyklisch_senden" ParameterType="M-008E_A-0040-10-08CC_PT-HGT.20zyklisch.20senden" Text="Send measured level cyclically" Value="0">
+                <M CodeSegment="M-008E_A-0040-10-08CC_AS-4500" Offset="31" BitOffset="0" />
+              </P>
+              <P Id="M-008E_A-0040-10-08CC_P-52" Name="P_Testbetrieb" ParameterType="M-008E_A-0040-10-08CC_PT-inaktiv.2Faktiv" Text="Lighting test mode" Value="0">
+                <M CodeSegment="M-008E_A-0040-10-08CC_AS-4500" Offset="33" BitOffset="0" />
+              </P>
+              <P Id="M-008E_A-0040-10-08CC_P-17" Name="P_Licht_Tagbetrieb" ParameterType="M-008E_A-0040-10-08CC_PT-ja.2Fnein" Text="Daytime operation" Value="0">
+                <M CodeSegment="M-008E_A-0040-10-08CC_AS-4500" Offset="34" BitOffset="0" />
+              </P>
+              <P LegacyPatchAlways="true" Id="M-008E_A-0040-10-08CC_P-46" Name="InitFlag" ParameterType="M-008E_A-0040-10-08CC_PT-InitFlag" Text="InitFlag" Value="65535">
+                <M CodeSegment="M-008E_A-0040-10-08CC_AS-4600" Offset="0" BitOffset="0" />
+              </P>
+            </PS>
+            <PRS>
+              <PR Id="M-008E_A-0040-10-08CC_P-46_R-46" RefId="M-008E_A-0040-10-08CC_P-46" Tag="46" />
+              <PR Id="M-008E_A-0040-10-08CC_P-12_R-12" RefId="M-008E_A-0040-10-08CC_P-12" Tag="12" DisplayOrder="1" />
+              <PR Id="M-008E_A-0040-10-08CC_P-2_R-2" RefId="M-008E_A-0040-10-08CC_P-2" Tag="2" DisplayOrder="2" />
+              <PR Id="M-008E_A-0040-10-08CC_P-3_R-3" RefId="M-008E_A-0040-10-08CC_P-3" Tag="3" DisplayOrder="3" />
+              <PR Id="M-008E_A-0040-10-08CC_P-4_R-4" RefId="M-008E_A-0040-10-08CC_P-4" Tag="4" DisplayOrder="4" />
+              <PR Id="M-008E_A-0040-10-08CC_P-5_R-5" RefId="M-008E_A-0040-10-08CC_P-5" Tag="5" DisplayOrder="5" />
+              <PR Id="M-008E_A-0040-10-08CC_P-6_R-6" RefId="M-008E_A-0040-10-08CC_P-6" Tag="6" DisplayOrder="6" />
+              <PR Id="M-008E_A-0040-10-08CC_P-52_R-52" RefId="M-008E_A-0040-10-08CC_P-52" Tag="52" DisplayOrder="7" />
+              <PR Id="M-008E_A-0040-10-08CC_P-1_R-1" RefId="M-008E_A-0040-10-08CC_P-1" Tag="1" DisplayOrder="8" />
+              <PR Id="M-008E_A-0040-10-08CC_P-17_R-17" RefId="M-008E_A-0040-10-08CC_P-17" Tag="17" DisplayOrder="9" />
+              <PR Id="M-008E_A-0040-10-08CC_P-7_R-7" RefId="M-008E_A-0040-10-08CC_P-7" Tag="7" DisplayOrder="10" />
+              <PR Id="M-008E_A-0040-10-08CC_P-9_R-9" RefId="M-008E_A-0040-10-08CC_P-9" Tag="9" DisplayOrder="11" />
+              <PR Id="M-008E_A-0040-10-08CC_P-13_R-13" RefId="M-008E_A-0040-10-08CC_P-13" Tag="13" DisplayOrder="12" />
+              <PR Id="M-008E_A-0040-10-08CC_P-10_R-10" RefId="M-008E_A-0040-10-08CC_P-10" Tag="10" DisplayOrder="13" />
+              <PR Id="M-008E_A-0040-10-08CC_P-14_R-14" RefId="M-008E_A-0040-10-08CC_P-14" Tag="14" DisplayOrder="14" />
+              <PR Id="M-008E_A-0040-10-08CC_P-15_R-15" RefId="M-008E_A-0040-10-08CC_P-15" Tag="15" DisplayOrder="15" />
+              <PR Id="M-008E_A-0040-10-08CC_P-16_R-16" RefId="M-008E_A-0040-10-08CC_P-16" Tag="16" DisplayOrder="16" />
+              <PR Id="M-008E_A-0040-10-08CC_P-16_R-36" RefId="M-008E_A-0040-10-08CC_P-16" Tag="36" DisplayOrder="17" />
+              <PR Id="M-008E_A-0040-10-08CC_P-18_R-18" RefId="M-008E_A-0040-10-08CC_P-18" Tag="18" DisplayOrder="18" />
+              <PR Id="M-008E_A-0040-10-08CC_P-19_R-19" RefId="M-008E_A-0040-10-08CC_P-19" Tag="19" DisplayOrder="19" />
+              <PR Id="M-008E_A-0040-10-08CC_P-20_R-20" RefId="M-008E_A-0040-10-08CC_P-20" Tag="20" DisplayOrder="20" />
+              <PR Id="M-008E_A-0040-10-08CC_P-21_R-21" RefId="M-008E_A-0040-10-08CC_P-21" Tag="21" DisplayOrder="21" />
+              <PR Id="M-008E_A-0040-10-08CC_P-19_R-48" RefId="M-008E_A-0040-10-08CC_P-19" Tag="48" DisplayOrder="22" />
+              <PR Id="M-008E_A-0040-10-08CC_P-20_R-49" RefId="M-008E_A-0040-10-08CC_P-20" Tag="49" DisplayOrder="23" />
+              <PR Id="M-008E_A-0040-10-08CC_P-21_R-50" RefId="M-008E_A-0040-10-08CC_P-21" Tag="50" DisplayOrder="24" />
+              <PR Id="M-008E_A-0040-10-08CC_P-13_R-26" RefId="M-008E_A-0040-10-08CC_P-13" Tag="26" DisplayOrder="25" />
+              <PR Id="M-008E_A-0040-10-08CC_P-30_R-30" RefId="M-008E_A-0040-10-08CC_P-30" Tag="30" DisplayOrder="26" />
+              <PR Id="M-008E_A-0040-10-08CC_P-14_R-34" RefId="M-008E_A-0040-10-08CC_P-14" Tag="34" DisplayOrder="27" />
+              <PR Id="M-008E_A-0040-10-08CC_P-15_R-37" RefId="M-008E_A-0040-10-08CC_P-15" Tag="37" DisplayOrder="28" />
+              <PR Id="M-008E_A-0040-10-08CC_P-16_R-40" RefId="M-008E_A-0040-10-08CC_P-16" Tag="40" DisplayOrder="29" />
+              <PR Id="M-008E_A-0040-10-08CC_P-16_R-43" RefId="M-008E_A-0040-10-08CC_P-16" Tag="43" DisplayOrder="30" />
+              <PR Id="M-008E_A-0040-10-08CC_P-18_R-53" RefId="M-008E_A-0040-10-08CC_P-18" Tag="53" DisplayOrder="31" />
+              <PR Id="M-008E_A-0040-10-08CC_P-19_R-55" RefId="M-008E_A-0040-10-08CC_P-19" Tag="55" DisplayOrder="32" />
+              <PR Id="M-008E_A-0040-10-08CC_P-20_R-56" RefId="M-008E_A-0040-10-08CC_P-20" Tag="56" DisplayOrder="33" />
+              <PR Id="M-008E_A-0040-10-08CC_P-19_R-58" RefId="M-008E_A-0040-10-08CC_P-19" Tag="58" DisplayOrder="34" />
+              <PR Id="M-008E_A-0040-10-08CC_P-20_R-59" RefId="M-008E_A-0040-10-08CC_P-20" Tag="59" DisplayOrder="35" />
+              <PR Id="M-008E_A-0040-10-08CC_P-38_R-38" RefId="M-008E_A-0040-10-08CC_P-38" Tag="38" DisplayOrder="36" />
+              <PR Id="M-008E_A-0040-10-08CC_P-22_R-22" RefId="M-008E_A-0040-10-08CC_P-22" Tag="22" DisplayOrder="37" />
+              <PR Id="M-008E_A-0040-10-08CC_P-23_R-23" RefId="M-008E_A-0040-10-08CC_P-23" Tag="23" DisplayOrder="38" />
+              <PR Id="M-008E_A-0040-10-08CC_P-24_R-24" RefId="M-008E_A-0040-10-08CC_P-24" Tag="24" DisplayOrder="39" />
+              <PR Id="M-008E_A-0040-10-08CC_P-25_R-25" RefId="M-008E_A-0040-10-08CC_P-25" Tag="25" DisplayOrder="40" />
+              <PR Id="M-008E_A-0040-10-08CC_P-25_R-39" RefId="M-008E_A-0040-10-08CC_P-25" Tag="39" DisplayOrder="41" />
+              <PR Id="M-008E_A-0040-10-08CC_P-41_R-41" RefId="M-008E_A-0040-10-08CC_P-41" Tag="41" DisplayOrder="42" />
+              <PR Id="M-008E_A-0040-10-08CC_P-27_R-27" RefId="M-008E_A-0040-10-08CC_P-27" Tag="27" DisplayOrder="43" />
+              <PR Id="M-008E_A-0040-10-08CC_P-28_R-28" RefId="M-008E_A-0040-10-08CC_P-28" Tag="28" DisplayOrder="44" />
+              <PR Id="M-008E_A-0040-10-08CC_P-29_R-29" RefId="M-008E_A-0040-10-08CC_P-29" Tag="29" DisplayOrder="45" />
+              <PR Id="M-008E_A-0040-10-08CC_P-29_R-42" RefId="M-008E_A-0040-10-08CC_P-29" Tag="42" DisplayOrder="46" />
+              <PR Id="M-008E_A-0040-10-08CC_P-44_R-44" RefId="M-008E_A-0040-10-08CC_P-44" Tag="44" DisplayOrder="47" />
+              <PR Id="M-008E_A-0040-10-08CC_P-31_R-31" RefId="M-008E_A-0040-10-08CC_P-31" Tag="31" DisplayOrder="48" />
+              <PR Id="M-008E_A-0040-10-08CC_P-11_R-11" RefId="M-008E_A-0040-10-08CC_P-11" Tag="11" DisplayOrder="49" />
+              <PR Id="M-008E_A-0040-10-08CC_P-32_R-32" RefId="M-008E_A-0040-10-08CC_P-32" Tag="32" DisplayOrder="50" />
+              <PR Id="M-008E_A-0040-10-08CC_P-33_R-33" RefId="M-008E_A-0040-10-08CC_P-33" Tag="33" DisplayOrder="51" />
+              <PR Id="M-008E_A-0040-10-08CC_P-33_R-45" RefId="M-008E_A-0040-10-08CC_P-33" Tag="45" DisplayOrder="52" />
+              <PR Id="M-008E_A-0040-10-08CC_P-47_R-47" RefId="M-008E_A-0040-10-08CC_P-47" Tag="47" DisplayOrder="53" />
+              <PR Id="M-008E_A-0040-10-08CC_P-8_R-8" RefId="M-008E_A-0040-10-08CC_P-8" Tag="8" DisplayOrder="54" />
+              <PR Id="M-008E_A-0040-10-08CC_P-35_R-35" RefId="M-008E_A-0040-10-08CC_P-35" Tag="35" DisplayOrder="55" />
+            </PRS>
+            <COT CodeSegment="M-008E_A-0040-10-08CC_AS-43EC" Offset="0">
+              <CO Id="M-008E_A-0040-10-08CC_O-0" Name="Switch light ON/OFF output" Text="Switch light ON/OFF output" Number="0" FunctionText="ON/OFF" ObjectSize="1 Bit" ReadFlag="Enabled" WriteFlag="Disabled" CommunicationFlag="Enabled" TransmitFlag="Enabled" UpdateFlag="Disabled" ReadOnInitFlag="Disabled" DatapointType="DPST-1-1" />
+              <CO Id="M-008E_A-0040-10-08CC_O-1" Name="Light output dimming level" Text="Light output dimming level" Number="1" FunctionText="0...100%" ObjectSize="1 Byte" ReadFlag="Enabled" WriteFlag="Disabled" CommunicationFlag="Enabled" TransmitFlag="Enabled" UpdateFlag="Disabled" ReadOnInitFlag="Disabled" DatapointType="DPST-5-1" />
+              <CO Id="M-008E_A-0040-10-08CC_O-2" Name="Switch light ON/OFF input" Text="Switch light ON/OFF input" Number="2" FunctionText="ON/OFF" ObjectSize="1 Bit" ReadFlag="Disabled" WriteFlag="Enabled" CommunicationFlag="Enabled" TransmitFlag="Enabled" UpdateFlag="Disabled" ReadOnInitFlag="Disabled" DatapointType="DPST-1-1" />
+              <CO Id="M-008E_A-0040-10-08CC_O-3" Name="Disable light output" Text="Disable light output" Number="3" FunctionText="ON/OFF" ObjectSize="1 Bit" ReadFlag="Disabled" WriteFlag="Enabled" CommunicationFlag="Enabled" TransmitFlag="Enabled" UpdateFlag="Disabled" ReadOnInitFlag="Disabled" DatapointType="DPST-1-1" />
+              <CO Id="M-008E_A-0040-10-08CC_O-4" Name="Light output disabling status" Text="Light output disabling status" Number="4" FunctionText="ON/OFF" ObjectSize="1 Bit" ReadFlag="Enabled" WriteFlag="Disabled" CommunicationFlag="Enabled" TransmitFlag="Enabled" UpdateFlag="Disabled" ReadOnInitFlag="Disabled" DatapointType="DPST-1-1" />
+              <CO Id="M-008E_A-0040-10-08CC_O-5" Name="Light-level setting" Text="Light-level setting" Number="5" FunctionText="2...2000 Lux" ObjectSize="2 Bytes" ReadFlag="Enabled" WriteFlag="Enabled" CommunicationFlag="Enabled" TransmitFlag="Enabled" UpdateFlag="Disabled" ReadOnInitFlag="Disabled" DatapointType="DPST-9-4" />
+              <CO Id="M-008E_A-0040-10-08CC_O-6" Name="Time factor for light stay-ON time" Text="Time factor for light stay-ON time" Number="6" FunctionText="1...15" ObjectSize="1 Byte" ReadFlag="Enabled" WriteFlag="Enabled" CommunicationFlag="Enabled" TransmitFlag="Enabled" UpdateFlag="Disabled" ReadOnInitFlag="Disabled" DatapointType="DPT-5" />
+              <CO Id="M-008E_A-0040-10-08CC_O-7" Name="Presence output" Text="Presence output" Number="7" FunctionText="ON/OFF" ObjectSize="1 Bit" ReadFlag="Enabled" WriteFlag="Disabled" CommunicationFlag="Enabled" TransmitFlag="Enabled" UpdateFlag="Disabled" ReadOnInitFlag="Disabled" DatapointType="DPST-1-1" />
+              <CO Id="M-008E_A-0040-10-08CC_O-8" Name="Disable presence output" Text="Disable presence output" Number="8" FunctionText="ON/OFF" ObjectSize="1 Bit" ReadFlag="Disabled" WriteFlag="Enabled" CommunicationFlag="Enabled" TransmitFlag="Enabled" UpdateFlag="Disabled" ReadOnInitFlag="Disabled" DatapointType="DPST-1-1" />
+              <CO Id="M-008E_A-0040-10-08CC_O-9" Name="Presence output disabling status" Text="Presence output disabling status" Number="9" FunctionText="ON/OFF" ObjectSize="1 Bit" ReadFlag="Enabled" WriteFlag="Disabled" CommunicationFlag="Enabled" TransmitFlag="Enabled" UpdateFlag="Disabled" ReadOnInitFlag="Disabled" DatapointType="DPST-1-1" />
+              <CO Id="M-008E_A-0040-10-08CC_O-10" Name="Close-up range output" Text="Close-up range output" Number="10" FunctionText="ON/OFF" ObjectSize="1 Bit" ReadFlag="Enabled" WriteFlag="Disabled" CommunicationFlag="Enabled" TransmitFlag="Enabled" UpdateFlag="Disabled" ReadOnInitFlag="Disabled" DatapointType="DPST-1-1" />
+              <CO Id="M-008E_A-0040-10-08CC_O-11" Name="Disable close-up range output" Text="Disable close-up range output" Number="11" FunctionText="ON/OFF" ObjectSize="1 Bit" ReadFlag="Disabled" WriteFlag="Enabled" CommunicationFlag="Enabled" TransmitFlag="Enabled" UpdateFlag="Disabled" ReadOnInitFlag="Disabled" DatapointType="DPST-1-1" />
+              <CO Id="M-008E_A-0040-10-08CC_O-12" Name="Close-up range disabling status" Text="Close-up range disabling status" Number="12" FunctionText="ON/OFF" ObjectSize="1 Bit" ReadFlag="Enabled" WriteFlag="Disabled" CommunicationFlag="Enabled" TransmitFlag="Enabled" UpdateFlag="Disabled" ReadOnInitFlag="Disabled" DatapointType="DPST-1-1" />
+              <CO Id="M-008E_A-0040-10-08CC_O-13" Name="Photoelectric lighting controller output" Text="Photoelectric lighting controller output" Number="13" FunctionText="ON/OFF" ObjectSize="1 Bit" ReadFlag="Enabled" WriteFlag="Disabled" CommunicationFlag="Enabled" TransmitFlag="Enabled" UpdateFlag="Disabled" ReadOnInitFlag="Disabled" DatapointType="DPST-1-1" />
+              <CO Id="M-008E_A-0040-10-08CC_O-14" Name="Light level threshold" Text="Light level threshold" Number="14" FunctionText="2...300 Lux" ObjectSize="2 Bytes" ReadFlag="Enabled" WriteFlag="Enabled" CommunicationFlag="Enabled" TransmitFlag="Enabled" UpdateFlag="Disabled" ReadOnInitFlag="Disabled" DatapointType="DPST-9-4" />
+              <CO Id="M-008E_A-0040-10-08CC_O-15" Name="Disable photoelectic lighting controller" Text="Disable photoelectic lighting controller" Number="15" FunctionText="ON/OFF" ObjectSize="1 Bit" ReadFlag="Disabled" WriteFlag="Enabled" CommunicationFlag="Enabled" TransmitFlag="Enabled" UpdateFlag="Disabled" ReadOnInitFlag="Disabled" DatapointType="DPST-1-1" />
+              <CO Id="M-008E_A-0040-10-08CC_O-16" Name="Photoelectric lighting controller disabling status" Text="Photoelectric lighting controller disabling status" Number="16" FunctionText="ON/OFF" ObjectSize="1 Bit" ReadFlag="Enabled" WriteFlag="Disabled" CommunicationFlag="Enabled" TransmitFlag="Enabled" UpdateFlag="Disabled" ReadOnInitFlag="Disabled" DatapointType="DPST-1-1" />
+              <CO Id="M-008E_A-0040-10-08CC_O-17" Name="Light level measured" Text="Light level measured" Number="17" FunctionText="2...2000 Lux" ObjectSize="2 Bytes" ReadFlag="Enabled" WriteFlag="Disabled" CommunicationFlag="Enabled" TransmitFlag="Enabled" UpdateFlag="Disabled" ReadOnInitFlag="Disabled" DatapointType="DPST-9-4" />
+            </COT>
+            <CORS>
+              <COR Id="M-008E_A-0040-10-08CC_O-0_R-1" RefId="M-008E_A-0040-10-08CC_O-0" Tag="1" DatapointType="DPST-1-1" />
+              <COR Id="M-008E_A-0040-10-08CC_O-1_R-2" RefId="M-008E_A-0040-10-08CC_O-1" Tag="2" DatapointType="DPST-5-1" />
+              <COR Id="M-008E_A-0040-10-08CC_O-1_R-27" RefId="M-008E_A-0040-10-08CC_O-1" Tag="27" DatapointType="DPST-5-1" />
+              <COR Id="M-008E_A-0040-10-08CC_O-1_R-33" RefId="M-008E_A-0040-10-08CC_O-1" Tag="33" DatapointType="DPST-5-1" />
+              <COR Id="M-008E_A-0040-10-08CC_O-1_R-34" RefId="M-008E_A-0040-10-08CC_O-1" Tag="34" DatapointType="DPST-5-1" />
+              <COR Id="M-008E_A-0040-10-08CC_O-2_R-3" RefId="M-008E_A-0040-10-08CC_O-2" Tag="3" DatapointType="DPST-1-1" />
+              <COR Id="M-008E_A-0040-10-08CC_O-3_R-4" RefId="M-008E_A-0040-10-08CC_O-3" Tag="4" DatapointType="DPST-1-1" />
+              <COR Id="M-008E_A-0040-10-08CC_O-3_R-19" RefId="M-008E_A-0040-10-08CC_O-3" Tag="19" DatapointType="DPST-1-1" />
+              <COR Id="M-008E_A-0040-10-08CC_O-3_R-28" RefId="M-008E_A-0040-10-08CC_O-3" Tag="28" DatapointType="DPST-1-1" />
+              <COR Id="M-008E_A-0040-10-08CC_O-3_R-30" RefId="M-008E_A-0040-10-08CC_O-3" Tag="30" DatapointType="DPST-1-1" />
+              <COR Id="M-008E_A-0040-10-08CC_O-4_R-5" RefId="M-008E_A-0040-10-08CC_O-4" Tag="5" DatapointType="DPST-1-1" />
+              <COR Id="M-008E_A-0040-10-08CC_O-4_R-20" RefId="M-008E_A-0040-10-08CC_O-4" Tag="20" DatapointType="DPST-1-1" />
+              <COR Id="M-008E_A-0040-10-08CC_O-4_R-29" RefId="M-008E_A-0040-10-08CC_O-4" Tag="29" DatapointType="DPST-1-1" />
+              <COR Id="M-008E_A-0040-10-08CC_O-4_R-31" RefId="M-008E_A-0040-10-08CC_O-4" Tag="31" DatapointType="DPST-1-1" />
+              <COR Id="M-008E_A-0040-10-08CC_O-5_R-6" RefId="M-008E_A-0040-10-08CC_O-5" Tag="6" DatapointType="DPST-9-4" />
+              <COR Id="M-008E_A-0040-10-08CC_O-6_R-7" RefId="M-008E_A-0040-10-08CC_O-6" Tag="7" DatapointType="DPT-5" />
+              <COR Id="M-008E_A-0040-10-08CC_O-6_R-32" RefId="M-008E_A-0040-10-08CC_O-6" Tag="32" DatapointType="DPT-5" />
+              <COR Id="M-008E_A-0040-10-08CC_O-7_R-8" RefId="M-008E_A-0040-10-08CC_O-7" Tag="8" DatapointType="DPST-1-1" />
+              <COR Id="M-008E_A-0040-10-08CC_O-8_R-9" RefId="M-008E_A-0040-10-08CC_O-8" Tag="9" DatapointType="DPST-1-1" />
+              <COR Id="M-008E_A-0040-10-08CC_O-8_R-21" RefId="M-008E_A-0040-10-08CC_O-8" Tag="21" DatapointType="DPST-1-1" />
+              <COR Id="M-008E_A-0040-10-08CC_O-9_R-10" RefId="M-008E_A-0040-10-08CC_O-9" Tag="10" DatapointType="DPST-1-1" />
+              <COR Id="M-008E_A-0040-10-08CC_O-9_R-22" RefId="M-008E_A-0040-10-08CC_O-9" Tag="22" DatapointType="DPST-1-1" />
+              <COR Id="M-008E_A-0040-10-08CC_O-10_R-11" RefId="M-008E_A-0040-10-08CC_O-10" Tag="11" DatapointType="DPST-1-1" />
+              <COR Id="M-008E_A-0040-10-08CC_O-11_R-12" RefId="M-008E_A-0040-10-08CC_O-11" Tag="12" DatapointType="DPST-1-1" />
+              <COR Id="M-008E_A-0040-10-08CC_O-11_R-23" RefId="M-008E_A-0040-10-08CC_O-11" Tag="23" DatapointType="DPST-1-1" />
+              <COR Id="M-008E_A-0040-10-08CC_O-12_R-13" RefId="M-008E_A-0040-10-08CC_O-12" Tag="13" DatapointType="DPST-1-1" />
+              <COR Id="M-008E_A-0040-10-08CC_O-12_R-24" RefId="M-008E_A-0040-10-08CC_O-12" Tag="24" DatapointType="DPST-1-1" />
+              <COR Id="M-008E_A-0040-10-08CC_O-13_R-14" RefId="M-008E_A-0040-10-08CC_O-13" Tag="14" DatapointType="DPST-1-1" />
+              <COR Id="M-008E_A-0040-10-08CC_O-14_R-15" RefId="M-008E_A-0040-10-08CC_O-14" Tag="15" DatapointType="DPST-9-4" />
+              <COR Id="M-008E_A-0040-10-08CC_O-15_R-16" RefId="M-008E_A-0040-10-08CC_O-15" Tag="16" DatapointType="DPST-1-1" />
+              <COR Id="M-008E_A-0040-10-08CC_O-15_R-25" RefId="M-008E_A-0040-10-08CC_O-15" Tag="25" DatapointType="DPST-1-1" />
+              <COR Id="M-008E_A-0040-10-08CC_O-16_R-17" RefId="M-008E_A-0040-10-08CC_O-16" Tag="17" DatapointType="DPST-1-1" />
+              <COR Id="M-008E_A-0040-10-08CC_O-16_R-26" RefId="M-008E_A-0040-10-08CC_O-16" Tag="26" DatapointType="DPST-1-1" />
+              <COR Id="M-008E_A-0040-10-08CC_O-17_R-18" RefId="M-008E_A-0040-10-08CC_O-17" Tag="18" DatapointType="DPST-9-4" />
+            </CORS>
+            <ADRT CodeSegment="M-008E_A-0040-10-08CC_AS-4000" Offset="0" MaxEntries="250" />
+            <ASSOT CodeSegment="M-008E_A-0040-10-08CC_AS-41F7" Offset="0" MaxEntries="250" />
+            <LoadProcedures>
+              <LoadProcedure>
+                <LdCtrlConnect />
+                <LdCtrlUnload LsmIdx="1" />
+                <LdCtrlUnload LsmIdx="2" />
+                <LdCtrlUnload LsmIdx="3" />
+                <LdCtrlLoad LsmIdx="1" />
+                <LdCtrlAbsSegment LsmIdx="1" SegType="0" Address="16384" Size="503" Access="242" MemType="3" SegFlags="128" />
+                <LdCtrlTaskSegment LsmIdx="1" Address="16384" />
+                <LdCtrlLoadCompleted LsmIdx="1" />
+                <LdCtrlLoad LsmIdx="2" />
+                <LdCtrlAbsSegment LsmIdx="2" SegType="0" Address="16887" Size="501" Access="242" MemType="3" SegFlags="128" />
+                <LdCtrlTaskSegment LsmIdx="2" Address="16887" />
+                <LdCtrlLoadCompleted LsmIdx="2" />
+                <LdCtrlLoad LsmIdx="3" />
+                <LdCtrlAbsSegment LsmIdx="3" SegType="0" Address="1792" Size="248" Access="242" MemType="2" SegFlags="0" />
+                <LdCtrlAbsSegment LsmIdx="3" SegType="0" Address="17388" Size="104" Access="242" MemType="3" SegFlags="128" />
+                <LdCtrlAbsSegment LsmIdx="3" SegType="0" Address="17664" Size="256" Access="34" MemType="3" SegFlags="128" />
+                <LdCtrlAbsSegment LsmIdx="3" SegType="0" Address="17920" Size="80" Access="51" MemType="3" SegFlags="0" />
+                <LdCtrlTaskSegment LsmIdx="3" Address="17482" />
+                <LdCtrlTaskCtrl1 LsmIdx="3" Address="17463" Count="1" />
+                <LdCtrlLoadCompleted LsmIdx="3" />
+                <LdCtrlRestart />
+                <LdCtrlDisconnect />
+              </LoadProcedure>
+            </LoadProcedures>
+            <Opt />
+          </St>
+          <Dynamic>
+            <Channel Name="Generic" Text="" Number="0" Id="M-008E_A-0040-10-08CC_CH-0">
+              <ComObjectRefRef RefId="M-008E_A-0040-10-08CC_O-0_R-1" />
+              <ComObjectRefRef RefId="M-008E_A-0040-10-08CC_O-2_R-3" />
+              <ParameterBlock Id="M-008E_A-0040-10-08CC_PB-48" Name="Added by Converter" Text="">
+                <ParameterRefRef RefId="M-008E_A-0040-10-08CC_P-46_R-46" />
+              </ParameterBlock>
+              <ParameterBlock Id="M-008E_A-0040-10-08CC_PB-12" Name="p_Allgemein" ParamRefId="M-008E_A-0040-10-08CC_P-12_R-12">
+                <ParameterRefRef RefId="M-008E_A-0040-10-08CC_P-2_R-2" />
+                <choose ParamRefId="M-008E_A-0040-10-08CC_P-2_R-2">
+                  <when test="1">
+                    <ComObjectRefRef RefId="M-008E_A-0040-10-08CC_O-7_R-8" />
+                  </when>
+                </choose>
+                <ParameterRefRef RefId="M-008E_A-0040-10-08CC_P-3_R-3" />
+                <choose ParamRefId="M-008E_A-0040-10-08CC_P-3_R-3">
+                  <when test="1">
+                    <ComObjectRefRef RefId="M-008E_A-0040-10-08CC_O-10_R-11" />
+                  </when>
+                </choose>
+                <ParameterRefRef RefId="M-008E_A-0040-10-08CC_P-4_R-4" />
+                <choose ParamRefId="M-008E_A-0040-10-08CC_P-4_R-4">
+                  <when test="1">
+                    <ComObjectRefRef RefId="M-008E_A-0040-10-08CC_O-13_R-14" />
+                  </when>
+                </choose>
+                <ParameterRefRef RefId="M-008E_A-0040-10-08CC_P-5_R-5" />
+                <choose ParamRefId="M-008E_A-0040-10-08CC_P-5_R-5">
+                  <when test="1">
+                    <ComObjectRefRef RefId="M-008E_A-0040-10-08CC_O-17_R-18" />
+                  </when>
+                </choose>
+                <ParameterRefRef RefId="M-008E_A-0040-10-08CC_P-6_R-6" />
+                <ParameterRefRef RefId="M-008E_A-0040-10-08CC_P-52_R-52" />
+              </ParameterBlock>
+              <ParameterBlock Id="M-008E_A-0040-10-08CC_PB-1" Name="p_Licht" ParamRefId="M-008E_A-0040-10-08CC_P-1_R-1">
+                <ParameterRefRef RefId="M-008E_A-0040-10-08CC_P-17_R-17" />
+                <choose ParamRefId="M-008E_A-0040-10-08CC_P-17_R-17">
+                  <when test="0">
+                    <ParameterRefRef RefId="M-008E_A-0040-10-08CC_P-7_R-7" />
+                    <ParameterRefRef RefId="M-008E_A-0040-10-08CC_P-9_R-9" />
+                    <choose ParamRefId="M-008E_A-0040-10-08CC_P-9_R-9">
+                      <when test="1">
+                        <ComObjectRefRef RefId="M-008E_A-0040-10-08CC_O-5_R-6" />
+                      </when>
+                    </choose>
+                    <ParameterRefRef RefId="M-008E_A-0040-10-08CC_P-13_R-13" />
+                    <ParameterRefRef RefId="M-008E_A-0040-10-08CC_P-10_R-10" />
+                    <choose ParamRefId="M-008E_A-0040-10-08CC_P-10_R-10">
+                      <when test="1">
+                        <ComObjectRefRef RefId="M-008E_A-0040-10-08CC_O-6_R-7" />
+                      </when>
+                    </choose>
+                    <ParameterRefRef RefId="M-008E_A-0040-10-08CC_P-14_R-14" />
+                    <choose ParamRefId="M-008E_A-0040-10-08CC_P-14_R-14">
+                      <when test="1">
+                        <ComObjectRefRef RefId="M-008E_A-0040-10-08CC_O-1_R-2" />
+                        <ParameterRefRef RefId="M-008E_A-0040-10-08CC_P-19_R-19" />
+                        <choose ParamRefId="M-008E_A-0040-10-08CC_P-19_R-19">
+                          <when test="1">
+                            <ParameterRefRef RefId="M-008E_A-0040-10-08CC_P-20_R-20" />
+                            <ParameterRefRef RefId="M-008E_A-0040-10-08CC_P-21_R-21" />
+                          </when>
+                        </choose>
+                      </when>
+                      <when test="0">
+                        <ParameterRefRef RefId="M-008E_A-0040-10-08CC_P-19_R-48" />
+                        <choose ParamRefId="M-008E_A-0040-10-08CC_P-19_R-48">
+                          <when test="1">
+                            <ComObjectRefRef RefId="M-008E_A-0040-10-08CC_O-1_R-27" />
+                            <ParameterRefRef RefId="M-008E_A-0040-10-08CC_P-20_R-49" />
+                            <ParameterRefRef RefId="M-008E_A-0040-10-08CC_P-21_R-50" />
+                          </when>
+                        </choose>
+                      </when>
+                    </choose>
+                    <ParameterRefRef RefId="M-008E_A-0040-10-08CC_P-15_R-15" />
+                    <choose ParamRefId="M-008E_A-0040-10-08CC_P-15_R-15">
+                      <when test="1">
+                        <ComObjectRefRef RefId="M-008E_A-0040-10-08CC_O-3_R-4" />
+                        <ComObjectRefRef RefId="M-008E_A-0040-10-08CC_O-4_R-5" />
+                        <ParameterRefRef RefId="M-008E_A-0040-10-08CC_P-16_R-16" />
+                      </when>
+                      <when test="2">
+                        <ComObjectRefRef RefId="M-008E_A-0040-10-08CC_O-3_R-19" />
+                        <ComObjectRefRef RefId="M-008E_A-0040-10-08CC_O-4_R-20" />
+                        <ParameterRefRef RefId="M-008E_A-0040-10-08CC_P-16_R-36" />
+                      </when>
+                    </choose>
+                    <ParameterRefRef RefId="M-008E_A-0040-10-08CC_P-18_R-18" />
+                  </when>
+                  <when test="1">
+                    <ParameterRefRef RefId="M-008E_A-0040-10-08CC_P-13_R-26" />
+                    <ParameterRefRef RefId="M-008E_A-0040-10-08CC_P-30_R-30" />
+                    <choose ParamRefId="M-008E_A-0040-10-08CC_P-30_R-30">
+                      <when test="1">
+                        <ComObjectRefRef RefId="M-008E_A-0040-10-08CC_O-6_R-32" />
+                      </when>
+                    </choose>
+                    <ParameterRefRef RefId="M-008E_A-0040-10-08CC_P-14_R-34" />
+                    <choose ParamRefId="M-008E_A-0040-10-08CC_P-14_R-34">
+                      <when test="1">
+                        <ComObjectRefRef RefId="M-008E_A-0040-10-08CC_O-1_R-33" />
+                        <ParameterRefRef RefId="M-008E_A-0040-10-08CC_P-19_R-55" />
+                        <choose ParamRefId="M-008E_A-0040-10-08CC_P-19_R-55">
+                          <when test="1">
+                            <ParameterRefRef RefId="M-008E_A-0040-10-08CC_P-20_R-56" />
+                          </when>
+                        </choose>
+                      </when>
+                      <when test="0">
+                        <ParameterRefRef RefId="M-008E_A-0040-10-08CC_P-19_R-58" />
+                        <choose ParamRefId="M-008E_A-0040-10-08CC_P-19_R-58">
+                          <when test="1">
+                            <ComObjectRefRef RefId="M-008E_A-0040-10-08CC_O-1_R-34" />
+                            <ParameterRefRef RefId="M-008E_A-0040-10-08CC_P-20_R-59" />
+                          </when>
+                        </choose>
+                      </when>
+                    </choose>
+                    <ParameterRefRef RefId="M-008E_A-0040-10-08CC_P-15_R-37" />
+                    <choose ParamRefId="M-008E_A-0040-10-08CC_P-15_R-37">
+                      <when test="1">
+                        <ComObjectRefRef RefId="M-008E_A-0040-10-08CC_O-3_R-28" />
+                        <ComObjectRefRef RefId="M-008E_A-0040-10-08CC_O-4_R-29" />
+                        <ParameterRefRef RefId="M-008E_A-0040-10-08CC_P-16_R-40" />
+                      </when>
+                      <when test="2">
+                        <ComObjectRefRef RefId="M-008E_A-0040-10-08CC_O-3_R-30" />
+                        <ComObjectRefRef RefId="M-008E_A-0040-10-08CC_O-4_R-31" />
+                        <ParameterRefRef RefId="M-008E_A-0040-10-08CC_P-16_R-43" />
+                      </when>
+                    </choose>
+                    <ParameterRefRef RefId="M-008E_A-0040-10-08CC_P-18_R-53" />
+                  </when>
+                </choose>
+              </ParameterBlock>
+              <choose ParamRefId="M-008E_A-0040-10-08CC_P-2_R-2">
+                <when test="1">
+                  <ParameterBlock Id="M-008E_A-0040-10-08CC_PB-38" Name="p_PRZ" ParamRefId="M-008E_A-0040-10-08CC_P-38_R-38">
+                    <ParameterRefRef RefId="M-008E_A-0040-10-08CC_P-22_R-22" />
+                    <ParameterRefRef RefId="M-008E_A-0040-10-08CC_P-23_R-23" />
+                    <ParameterRefRef RefId="M-008E_A-0040-10-08CC_P-24_R-24" />
+                    <choose ParamRefId="M-008E_A-0040-10-08CC_P-24_R-24">
+                      <when test="1">
+                        <ComObjectRefRef RefId="M-008E_A-0040-10-08CC_O-8_R-9" />
+                        <ComObjectRefRef RefId="M-008E_A-0040-10-08CC_O-9_R-10" />
+                        <ParameterRefRef RefId="M-008E_A-0040-10-08CC_P-25_R-25" />
+                      </when>
+                      <when test="2">
+                        <ComObjectRefRef RefId="M-008E_A-0040-10-08CC_O-8_R-21" />
+                        <ComObjectRefRef RefId="M-008E_A-0040-10-08CC_O-9_R-22" />
+                        <ParameterRefRef RefId="M-008E_A-0040-10-08CC_P-25_R-39" />
+                      </when>
+                    </choose>
+                  </ParameterBlock>
+                </when>
+              </choose>
+              <choose ParamRefId="M-008E_A-0040-10-08CC_P-3_R-3">
+                <when test="1">
+                  <ParameterBlock Id="M-008E_A-0040-10-08CC_PB-41" Name="p_Nahfeld" ParamRefId="M-008E_A-0040-10-08CC_P-41_R-41">
+                    <ParameterRefRef RefId="M-008E_A-0040-10-08CC_P-27_R-27" />
+                    <ParameterRefRef RefId="M-008E_A-0040-10-08CC_P-28_R-28" />
+                    <choose ParamRefId="M-008E_A-0040-10-08CC_P-28_R-28">
+                      <when test="1">
+                        <ComObjectRefRef RefId="M-008E_A-0040-10-08CC_O-11_R-12" />
+                        <ComObjectRefRef RefId="M-008E_A-0040-10-08CC_O-12_R-13" />
+                        <ParameterRefRef RefId="M-008E_A-0040-10-08CC_P-29_R-29" />
+                      </when>
+                      <when test="2">
+                        <ComObjectRefRef RefId="M-008E_A-0040-10-08CC_O-11_R-23" />
+                        <ComObjectRefRef RefId="M-008E_A-0040-10-08CC_O-12_R-24" />
+                        <ParameterRefRef RefId="M-008E_A-0040-10-08CC_P-29_R-42" />
+                      </when>
+                    </choose>
+                  </ParameterBlock>
+                </when>
+              </choose>
+              <choose ParamRefId="M-008E_A-0040-10-08CC_P-4_R-4">
+                <when test="1">
+                  <ParameterBlock Id="M-008E_A-0040-10-08CC_PB-44" Name="p_DGS" ParamRefId="M-008E_A-0040-10-08CC_P-44_R-44">
+                    <ParameterRefRef RefId="M-008E_A-0040-10-08CC_P-31_R-31" />
+                    <ParameterRefRef RefId="M-008E_A-0040-10-08CC_P-11_R-11" />
+                    <choose ParamRefId="M-008E_A-0040-10-08CC_P-11_R-11">
+                      <when test="1">
+                        <ComObjectRefRef RefId="M-008E_A-0040-10-08CC_O-14_R-15" />
+                      </when>
+                    </choose>
+                    <ParameterRefRef RefId="M-008E_A-0040-10-08CC_P-32_R-32" />
+                    <choose ParamRefId="M-008E_A-0040-10-08CC_P-32_R-32">
+                      <when test="1">
+                        <ComObjectRefRef RefId="M-008E_A-0040-10-08CC_O-15_R-16" />
+                        <ComObjectRefRef RefId="M-008E_A-0040-10-08CC_O-16_R-17" />
+                        <ParameterRefRef RefId="M-008E_A-0040-10-08CC_P-33_R-33" />
+                      </when>
+                      <when test="2">
+                        <ComObjectRefRef RefId="M-008E_A-0040-10-08CC_O-15_R-25" />
+                        <ComObjectRefRef RefId="M-008E_A-0040-10-08CC_O-16_R-26" />
+                        <ParameterRefRef RefId="M-008E_A-0040-10-08CC_P-33_R-45" />
+                      </when>
+                    </choose>
+                  </ParameterBlock>
+                </when>
+              </choose>
+              <choose ParamRefId="M-008E_A-0040-10-08CC_P-5_R-5">
+                <when test="1">
+                  <ParameterBlock Id="M-008E_A-0040-10-08CC_PB-47" Name="p_HGT" ParamRefId="M-008E_A-0040-10-08CC_P-47_R-47">
+                    <ParameterRefRef RefId="M-008E_A-0040-10-08CC_P-8_R-8" />
+                    <ParameterRefRef RefId="M-008E_A-0040-10-08CC_P-35_R-35" />
+                  </ParameterBlock>
+                </when>
+              </choose>
+            </Channel>
+          </Dynamic>
+        </AP>
+      </APS>
+    </Manufacturer>
+  </ManufacturerData>
+</KNX>

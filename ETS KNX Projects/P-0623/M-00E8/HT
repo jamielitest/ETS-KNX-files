@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LS>
+  <L Identifier="en-US">
+    <TU RefId="M-00E8_H-50000087-0_P-207.209.2050.2A">
+      <TE RefId="M-00E8_H-50000087-0_P-207.209.2050.2A">
+        <T AttributeName="Text" Text="thePrema S360 KNX" />
+      </TE>
+    </TU>
+    <TU RefId="M-00E8_H-200905-0_P-200.209.2005.20.2A.20.20.20">
+      <TE RefId="M-00E8_H-200905-0_P-200.209.2005.20.2A.20.20.20">
+        <T AttributeName="Text" Text="PresenceLight 180-KNX" />
+      </TE>
+    </TU>
+  </L>
+</LS>
